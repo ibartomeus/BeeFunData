@@ -1,0 +1,13 @@
+Package: BeeFunData
+Type: Package
+Title: Data on a Mediterranean plant-pollinator networks
+Version: 0.1.0
+Date: 2015
+Author: Ignasi Bartomeus <nacho.bartomeus@gmail.com>
+Maintainer: Ignasi Bartomeus <nacho.bartomeus@gmail.com>
+Depends:
+    knitr
+LazyData: true
+Description: More soon...
+License: GPL (>= 2)
+RoxygenNote: 6.0.1

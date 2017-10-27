@@ -1,0 +1,18 @@
+citHeader("To cite Beefun data in publications use:")
+
+citEntry(entry = "Article",
+  title        = "In prep",
+  author       = personList(as.person("Ignasi Bartomeus"), as.person("Curro Molina")),
+  journal      = "??",
+  year         = "2018",
+  volume       = "",
+  number       = "",
+  pages        = "",
+  url          = "",
+
+  textVersion  =
+  paste("In prep",
+        "2018",
+        "Bartomeus, Molina, ...",
+        "")
+)
