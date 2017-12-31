@@ -6,7 +6,6 @@ Date: 2015
 Author: Ignasi Bartomeus <nacho.bartomeus@gmail.com>
 Maintainer: Ignasi Bartomeus <nacho.bartomeus@gmail.com>
 Depends:
-    knitr
 LazyData: true
 Description: More soon...
 License: GPL (>= 2)
