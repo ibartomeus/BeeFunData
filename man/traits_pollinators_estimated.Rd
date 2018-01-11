@@ -18,6 +18,9 @@ A dataset containing pollinator trait data.
   \item family: taxonomic family
   \item order: taxonomic order
   \item tongue_length: tongue length in mm. Some estimated using Cariveau et al 2015
+  \item pollinator: binary. Are considered pollintors or not.
+  \item mouth_type: mouth type (chewing, lapping, sucking, biting, piercing)
+  \item use_nectar_pollen: What adults use as resource.
   }
 }
 \references{

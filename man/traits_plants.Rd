@@ -20,6 +20,9 @@ A dataset containing plant trait data.
   \item nectar_tube_diameter_mm: diameter of the nectar tube entrance. In mm
   \item nectar_tube_depth_mm: depth of the nectar tube. In mm
   \item flower_width_mm: flower size using its maximum corolla span. In mm.
+  \item flw_color: flower color as seen by humans
+  \item flw_position: flower position: "platform" with a landing platform. "pendant" access hovering and "semi_pendant"
+  \item nectar_content: scale from 0 to 3: 0 no nectar, 1 less than 0.5 microl., 2 more than 0.5 microl.
   }
 }
 \keyword{datasets}
