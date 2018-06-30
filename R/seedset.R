@@ -1,0 +1,24 @@
+#' seed set 
+#' 
+#' A dataset containing seed set measurements for selected plant species 
+#' 
+#' \itemize{
+#'   \item SiteID: Unique name of the sites where collected. See `sites` table for more info.
+#'   \item Year: Year fruits were collected
+#'   \item Plant_genus: Plant genus
+#'   \item Plant_species: Plant species
+#'   \item Plant.ID: Plant ID (match with `fruitset` data)
+#'   \item Fruit.nº: Fruit ID within a plant.
+#'   \item Fruit.weigth2: Weigth in grams of the entire fruit
+#'   \item Seeds2: Number of seeds per fruit
+#'   \item Seed.weigth: Weigth in grams of all the seeds (divide by Seeds to get mean weigth per seed)
+#'   \item Notes: Relevant Notes. Contains info on when seeds where predated and observed abortions (not weigthed)
+#'   }
+#' 
+#' 
+#' @docType data
+#' @keywords datasets
+#' @name seedset
+#' @usage data(seedset)
+#' @format A data frame with X rows and Y variables
+"seedset"
