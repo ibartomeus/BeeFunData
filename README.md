@@ -30,7 +30,7 @@ You can ask for help to see the variables. Better help is in progress
 ?all_interactions
 ```
 
-If you are not an R user, .csv files can be found [here](/extdata/txtdata)
+If you are not an R user, .csv files can be found [here](https://github.com/ibartomeus/BeeFunData/tree/fun/inst/extdata)
 
 And there is no official citation yet, but will be soon:
 ```
