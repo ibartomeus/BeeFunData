@@ -20,7 +20,9 @@ head(all_interactions)
 data(sites)
 data(traits_plants)
 data(traits_pollinators_estimated)
-data(flowers.rda)
+data(flowers)
+data(fruitset)
+data(seedset)
 ```
 
 You can ask for help to see the variables. Better help is in progress
