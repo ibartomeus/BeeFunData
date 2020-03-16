@@ -1,0 +1,423 @@
+"","Site_ID","Day","Month","Year","Plant_genus","Plant_species","Plant.ID","Fruit_Yes","Fruit_No","Fruit_preyed","Fruit_dispersed","Notes"
+"1","Niebla",12,5,2015,"Cistus","monspeliensis","A1",3,0,0,0,"Frutos dudosos, los guardo"
+"2","Niebla",11,6,2015,"Cistus","crispus","A1",5,0,3,0,NA
+"3","Niebla",11,6,2015,"Cistus","crispus","A2",2,4,0,0,NA
+"4","Niebla",11,6,2015,"Cistus","crispus","A3",4,5,2,0,NA
+"5","Niebla",11,6,2015,"Cistus","crispus","B1",4,1,4,0,NA
+"6","Niebla",11,6,2015,"Cistus","crispus","B2",2,2,0,0,NA
+"7","Niebla",11,6,2015,"Asphodelus","fistulosus","A1",25,3,11,0,NA
+"8","Niebla",11,6,2015,"Asphodelus","fistulosus","A2",14,6,0,0,NA
+"9","Niebla",11,6,2015,"Asphodelus","fistulosus","A3",11,11,1,0,NA
+"10","Niebla",11,6,2015,"Asphodelus","fistulosus","B1",21,0,16,0,NA
+"11","Niebla",11,6,2015,"Asphodelus","fistulosus","B2",23,1,19,0,NA
+"12","Niebla",11,6,2015,"Asphodelus","fistulosus","B3",23,3,22,0,NA
+"13","Niebla",11,6,2015,"Asphodelus","fistulosus","C1",14,9,9,0,NA
+"14","Niebla",11,6,2015,"Asphodelus","fistulosus","C2",12,5,9,0,NA
+"15","Niebla",11,6,2015,"Asphodelus","fistulosus","C3",7,1,5,0,NA
+"16","Niebla",28,5,2015,"Cistus","ladanifer","A1",0,1,0,0,NA
+"17","Niebla",28,5,2015,"Cistus","ladanifer","A2",0,1,0,0,NA
+"18","Niebla",28,5,2015,"Cistus","ladanifer","A3",0,1,0,0,NA
+"19","Niebla",28,5,2015,"Cistus","ladanifer","B1",3,2,2,0,NA
+"20","Niebla",28,5,2015,"Cistus","ladanifer","B2",5,0,5,0,NA
+"21","Niebla",28,5,2015,"Cistus","ladanifer","B3",7,0,7,0,NA
+"22","Niebla",28,5,2015,"Cistus","ladanifer","C1",1,0,1,0,NA
+"23","Niebla",28,5,2015,"Cistus","ladanifer","C2",1,0,0,0,NA
+"24","Niebla",28,5,2015,"Cistus","ladanifer","C3",1,0,1,0,NA
+"25","Niebla",28,5,2015,"Cistus","monspeliensis","A1",2,0,1,0,NA
+"26","Niebla",28,5,2015,"Cistus","monspeliensis","A2",3,1,0,0,NA
+"27","Niebla",28,5,2015,"Phlomis","purpurea","A1",9,0,0,0,NA
+"28","Niebla",28,5,2015,"Phlomis","purpurea","A2",10,0,0,0,NA
+"29","Niebla",28,5,2015,"Phlomis","purpurea","A3",10,0,0,0,NA
+"30","Niebla",28,5,2015,"Phlomis","purpurea","B1",20,0,0,0,NA
+"31","Niebla",28,5,2015,"Phlomis","purpurea","B2",20,0,0,0,NA
+"32","Niebla",28,5,2015,"Phlomis","purpurea","B3",22,0,0,0,NA
+"33","Niebla",28,5,2015,"Lavandula","pedunculata","A1",99,36,0,0,NA
+"34","Niebla",28,5,2015,"Lavandula","pedunculata","A2",58,30,0,0,NA
+"35","Niebla",28,5,2015,"Lavandula","pedunculata","A3",75,40,0,0,NA
+"36","Niebla",28,5,2015,"Lavandula","pedunculata","B1",109,12,0,0,NA
+"37","Niebla",28,5,2015,"Lavandula","pedunculata","B2",21,10,0,0,NA
+"38","Niebla",28,5,2015,"Lavandula","pedunculata","B3",117,9,0,0,NA
+"39","Niebla",28,5,2015,"Lavandula","pedunculata","C1",83,15,0,0,NA
+"40","Niebla",28,5,2015,"Lavandula","pedunculata","C2",101,39,0,0,NA
+"41","Niebla",28,5,2015,"Lavandula","pedunculata","C3",128,25,0,0,NA
+"42","Bonares",12,5,2015,"Ulex","australis","A1",7,6,0,6,NA
+"43","Bonares",12,5,2015,"Ulex","australis","A2",8,0,0,1,NA
+"44","Bonares",12,5,2015,"Ulex","australis","B1",5,10,0,4,NA
+"45","Bonares",12,5,2015,"Ulex","australis","B2",2,4,0,0,NA
+"46","Bonares",12,5,2015,"Ulex","australis","C1",6,1,0,2,NA
+"47","Bonares",12,5,2015,"Ulex","australis","C2",3,2,0,0,NA
+"48","Bonares",12,5,2015,"Cistus","crispus","A1",6,4,0,0,NA
+"49","Bonares",12,5,2015,"Cistus","crispus","A2",6,5,0,0,NA
+"50","Bonares",12,5,2015,"Cistus","crispus","A3",5,3,0,0,NA
+"51","Bonares",12,5,2015,"Cistus","crispus","B1",3,2,0,0,NA
+"52","Bonares",12,5,2015,"Cistus","crispus","B2",4,2,0,0,NA
+"53","Bonares",12,5,2015,"Cistus","crispus","B3",2,3,0,0,NA
+"54","Bonares",12,5,2015,"Cistus","salvifolius","A1",7,2,0,0,NA
+"55","Bonares",12,5,2015,"Cistus","salvifolius","A2",2,0,0,0,NA
+"56","Bonares",12,5,2015,"Cistus","salvifolius","A3",2,0,0,0,NA
+"57","Bonares",12,5,2015,"Cistus","salvifolius","B1",2,5,0,0,NA
+"58","Bonares",12,5,2015,"Cistus","salvifolius","B2",1,0,0,0,NA
+"59","Bonares",12,5,2015,"Cistus","salvifolius","B3",6,0,0,0,NA
+"60","Bonares",12,5,2015,"Cistus","salvifolius","C1",3,0,1,0,NA
+"61","Bonares",12,5,2015,"Cistus","salvifolius","C2",2,0,0,0,NA
+"62","Bonares",12,5,2015,"Cistus","salvifolius","C3",2,0,0,0,NA
+"63","Bonares",12,5,2015,"Halimium","commutatum","A1",0,3,0,0,NA
+"64","Bonares",12,5,2015,"Halimium","commutatum","A2",0,6,0,0,NA
+"65","Bonares",12,5,2015,"Halimium","commutatum","A3",0,1,0,0,NA
+"66","Bonares",12,5,2015,"Halimium","commutatum","B1",2,6,0,2,NA
+"67","Bonares",12,5,2015,"Halimium","commutatum","B2",0,5,0,0,NA
+"68","Bonares",12,5,2015,"Halimium","commutatum","B3",0,1,0,0,NA
+"69","Bonares",12,5,2015,"Cistus","ladanifer","A1",2,1,0,0,NA
+"70","Bonares",12,5,2015,"Cistus","ladanifer","A2",2,0,1,0,NA
+"71","Bonares",12,5,2015,"Cistus","ladanifer","A3",3,0,2,0,NA
+"72","Bonares",12,5,2015,"Cistus","ladanifer","B1",5,0,2,0,NA
+"73","Bonares",12,5,2015,"Cistus","ladanifer","B2",3,0,1,0,NA
+"74","Bonares",12,5,2015,"Cistus","ladanifer","B3",3,0,0,0,NA
+"75","Bonares",12,5,2015,"Cistus","ladanifer","C1",1,0,0,0,NA
+"76","Bonares",12,5,2015,"Cistus","ladanifer","C2",1,0,1,0,NA
+"77","Bonares",12,5,2015,"Cistus","ladanifer","C3",2,0,0,0,NA
+"78","Bonares",12,5,2015,"Cistus","ladanifer","D1",2,0,0,0,NA
+"79","Bonares",12,5,2015,"Cistus","ladanifer","D2",4,0,1,1,NA
+"80","Bonares",12,5,2015,"Cistus","ladanifer","D3",5,0,1,3,NA
+"81","Bonares",12,5,2015,"Lavandula","stoechas","A1",145,15,0,0,NA
+"82","Bonares",12,5,2015,"Lavandula","stoechas","A2",139,7,10,0,NA
+"83","Bonares",12,5,2015,"Lavandula","stoechas","A3",113,32,0,0,NA
+"84","Bonares",12,5,2015,"Lavandula","stoechas","B1",171,20,0,0,NA
+"85","Bonares",12,5,2015,"Lavandula","stoechas","B2",92,22,0,0,NA
+"86","Bonares",12,5,2015,"Lavandula","stoechas","B3",90,40,15,0,NA
+"87","Bonares",12,5,2015,"Lavandula","stoechas","C1",102,28,14,0,NA
+"88","Bonares",12,5,2015,"Lavandula","stoechas","C2",103,15,6,0,NA
+"89","Bonares",12,5,2015,"Lavandula","stoechas","C3",59,48,0,0,NA
+"90","LaRocina",10,6,2015,"Halimium","commutatum","A1",5,0,0,1,NA
+"91","LaRocina",10,6,2015,"Halimium","commutatum","A2",1,3,0,0,NA
+"92","LaRocina",10,6,2015,"Halimium","commutatum","A3",3,4,0,1,NA
+"93","LaRocina",10,6,2015,"Anchusa","azurea","A1",25,0,2,19,"predados por chinche algunos frutos"
+"94","LaRocina",10,6,2015,"Anchusa","azurea","A2",27,0,1,21,NA
+"95","LaRocina",10,6,2015,"Anchusa","azurea","A3",38,0,0,36,NA
+"96","LaRocina",10,6,2015,"Anchusa","azurea","B1",32,0,2,27,NA
+"97","LaRocina",10,6,2015,"Anchusa","azurea","B2",0,3,0,0,NA
+"98","LaRocina",10,6,2015,"Anchusa","azurea","B3",0,6,0,0,NA
+"99","LaRocina",10,6,2015,"Halimium","halimifolium","A1",1,3,0,0,NA
+"100","LaRocina",10,6,2015,"Halimium","halimifolium","A2",0,1,0,0,NA
+"101","LaRocina",10,6,2015,"Halimium","halimifolium","A3",0,2,0,0,NA
+"102","LaRocina",10,6,2015,"Rosmarinus","officinalis","A1",39,7,0,26,NA
+"103","LaRocina",10,6,2015,"Rosmarinus","officinalis","A2",0,0,0,0,"frutos perdidos"
+"104","LaRocina",10,6,2015,"Rosmarinus","officinalis","A3",0,0,0,0,"frutos perdidos"
+"105","LaRocina",10,6,2015,"Spartium","junceum","A1",0,0,0,0,"frutos perdidos"
+"106","LaRocina",10,6,2015,"Spartium","junceum","A2",0,1,0,0,NA
+"107","LaRocina",10,6,2015,"Spartium","junceum","B1",8,0,0,4,NA
+"108","LaRocina",10,6,2015,"Spartium","junceum","B2",14,0,0,10,NA
+"109","Pinodelcuervo",10,6,2015,"Cistus","crispus","A1",6,3,0,0,NA
+"110","Pinodelcuervo",10,6,2015,"Cistus","crispus","A2",4,3,0,0,NA
+"111","Pinodelcuervo",10,6,2015,"Cistus","crispus","A3",4,8,0,0,NA
+"112","Pinodelcuervo",10,6,2015,"Cistus","crispus","B1",4,1,1,0,NA
+"113","Pinodelcuervo",10,6,2015,"Cistus","crispus","B2",5,0,0,0,NA
+"114","Pinodelcuervo",10,6,2015,"Cistus","crispus","B3",3,2,0,0,NA
+"115","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","A1",29,5,0,25,NA
+"116","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","A2",11,1,0,10,NA
+"117","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","A3",45,1,1,41,NA
+"118","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","B1",6,32,0,6,NA
+"119","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","B2",11,9,0,11,NA
+"120","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","B3",4,15,0,3,NA
+"121","Pinodelcuervo",10,6,2015,"Halimium","commutatum","A1",2,1,0,2,NA
+"122","Pinodelcuervo",10,6,2015,"Halimium","commutatum","A2",2,0,0,2,NA
+"123","Pinodelcuervo",10,6,2015,"Halimium","commutatum","A3",1,1,0,0,NA
+"124","Pinodelcuervo",10,6,2015,"Halimium","commutatum","B1",1,4,0,0,NA
+"125","Pinodelcuervo",10,6,2015,"Halimium","commutatum","B2",1,2,0,0,NA
+"126","Pinodelcuervo",10,6,2015,"Halimium","commutatum","B3",4,2,0,1,NA
+"127","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","A1",1,0,0,0,"solo un fruto, el resto perdido"
+"128","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","A2",21,0,0,21,NA
+"129","Pinodelcuervo",10,6,2015,"Rosmarinus","officinalis","A3",8,16,0,6,NA
+"130","Pinodelcuervo",10,6,2015,"Asphodelus","fistulosus","A1",12,10,4,0,NA
+"131","Pinodelcuervo",10,6,2015,"Asphodelus","fistulosus","A2",0,25,0,0,NA
+"132","Pinodelcuervo",10,6,2015,"Asphodelus","fistulosus","A3",6,12,0,0,NA
+"133","Pinodelcuervo",10,6,2015,"Asphodelus","fistulosus","B1",0,16,0,0,NA
+"134","Pinodelcuervo",10,6,2015,"Asphodelus","fistulosus","B2",1,11,0,0,NA
+"135","Pinodelcuervo",10,6,2015,"Asphodelus","fistulosus","B3",2,9,0,0,NA
+"136","Pinodelcuervo",10,6,2015,"Ulex","australis","A1",0,0,0,0,"fruto perdido"
+"137","Pinodelcuervo",10,6,2015,"Ulex","australis","A2",0,0,0,0,"fruto perdido"
+"138","Pinodelcuervo",10,6,2015,"Ulex","australis","A3",0,0,0,0,"fruto perdido"
+"139","Pinodelcuervo",10,6,2015,"Ulex","australis","B1",31,3,0,29,NA
+"140","Pinodelcuervo",10,6,2015,"Ulex","australis","B2",14,0,1,12,NA
+"141","Pinodelcuervo",10,6,2015,"Ulex","australis","B3",11,0,0,9,NA
+"142","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","A1",2,0,2,0,NA
+"143","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","A2",5,1,0,0,NA
+"144","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","A3",2,0,0,0,NA
+"145","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","B1",2,0,1,0,NA
+"146","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","B2",5,0,4,0,NA
+"147","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","B3",3,0,1,0,NA
+"148","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","C1",5,1,0,0,NA
+"149","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","C2",2,0,1,1,NA
+"150","Pinodelcuervo",10,6,2015,"Cistus","ladanifer","C3",1,0,1,0,NA
+"151","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","A1",6,0,0,6,NA
+"152","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","A2",9,0,0,9,NA
+"153","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","A3",8,0,0,8,NA
+"154","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","B1",5,5,2,0,NA
+"155","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","B2",7,5,3,0,NA
+"156","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","B3",11,6,2,0,NA
+"157","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","C1",15,1,7,0,NA
+"158","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","C2",11,3,6,0,NA
+"159","Aznalcazar",8,5,2015,"Asphodelus","fistulosus","C3",14,2,8,0,NA
+"160","Aznalcazar",8,5,2015,"Cistus","salvifolius","A1",33,2,1,0,NA
+"161","Aznalcazar",8,5,2015,"Cistus","salvifolius","A2",0,2,0,0,NA
+"162","Aznalcazar",8,5,2015,"Cistus","salvifolius","A3",0,1,0,0,NA
+"163","Aznalcazar",8,5,2015,"Cistus","salvifolius","B1",2,0,0,2,NA
+"164","Aznalcazar",8,5,2015,"Cistus","salvifolius","B2",1,0,0,1,NA
+"165","Aznalcazar",8,5,2015,"Cistus","salvifolius","B3",1,0,0,1,NA
+"166","Aznalcazar",8,5,2015,"Cistus","salvifolius","C1",6,0,1,3,NA
+"167","Aznalcazar",8,5,2015,"Cistus","salvifolius","C2",13,0,5,1,NA
+"168","Aznalcazar",8,5,2015,"Cistus","salvifolius","C3",1,4,1,0,NA
+"169","Aznalcazar",8,5,2015,"Cistus","ladanifer","A1",1,0,0,0,NA
+"170","Aznalcazar",8,5,2015,"Cistus","ladanifer","A2",8,1,4,0,NA
+"171","Aznalcazar",8,5,2015,"Cistus","ladanifer","A3",0,1,0,0,NA
+"172","Aznalcazar",8,5,2015,"Cistus","ladanifer","B1",4,0,3,0,NA
+"173","Aznalcazar",8,5,2015,"Cistus","ladanifer","B2",1,0,0,0,NA
+"174","Aznalcazar",8,5,2015,"Cistus","ladanifer","B3",4,0,4,0,NA
+"175","Aznalcazar",8,5,2015,"Lavandula","pedunculata","A1",86,18,0,0,NA
+"176","Aznalcazar",8,5,2015,"Lavandula","pedunculata","A2",0,0,0,0,"fruto perdido"
+"177","Aznalcazar",8,5,2015,"Lavandula","pedunculata","A3",0,0,0,0,"fruto perdido"
+"178","Aznalcazar",8,5,2015,"Lavandula","pedunculata","B1",0,0,0,0,"fruto perdido"
+"179","Aznalcazar",8,5,2015,"Lavandula","pedunculata","B2",20,37,0,0,NA
+"180","Aznalcazar",8,5,2015,"Lavandula","pedunculata","B3",0,0,0,0,"fruto perdido"
+"181","Aznalcazar",8,5,2015,"Lavandula","pedunculata","C1",108,13,0,0,NA
+"182","Aznalcazar",8,5,2015,"Lavandula","pedunculata","C2",30,52,0,0,NA
+"183","Aznalcazar",8,5,2015,"Lavandula","pedunculata","C3",0,0,0,0,"fruto perdido"
+"184","LaCunya",19,4,2015,"Rosmarinus","officinalis","A1",10,7,2,0,NA
+"185","LaCunya",19,4,2015,"Rosmarinus","officinalis","A2",10,8,2,2,NA
+"186","LaCunya",19,4,2015,"Rosmarinus","officinalis","A3",25,12,15,3,NA
+"187","LaCunya",19,4,2015,"Rosmarinus","officinalis","B1",9,8,3,3,NA
+"188","LaCunya",19,4,2015,"Rosmarinus","officinalis","B2",6,11,1,0,NA
+"189","LaCunya",19,4,2015,"Rosmarinus","officinalis","B3",11,7,0,5,NA
+"190","LaCunya",27,5,2015,"Cistus","salvifolius","A1",5,0,0,3,NA
+"191","LaCunya",27,5,2015,"Cistus","salvifolius","A2",3,0,0,2,NA
+"192","LaCunya",27,5,2015,"Cistus","salvifolius","A3",2,0,0,1,NA
+"193","LaCunya",27,5,2015,"Cistus","salvifolius","B1",2,1,1,0,NA
+"194","LaCunya",27,5,2015,"Cistus","salvifolius","B2",5,0,0,2,NA
+"195","LaCunya",27,5,2015,"Cistus","salvifolius","B3",12,0,6,6,NA
+"196","LaCunya",27,5,2015,"Lavandula","pedunculata","A1",111,36,26,0,NA
+"197","LaCunya",27,5,2015,"Lavandula","pedunculata","A2",73,25,18,0,NA
+"198","LaCunya",27,5,2015,"Lavandula","pedunculata","A3",87,32,12,0,NA
+"199","LaCunya",27,5,2015,"Lavandula","pedunculata","B1",105,20,0,0,NA
+"200","LaCunya",27,5,2015,"Lavandula","pedunculata","B2",93,32,0,0,NA
+"201","LaCunya",27,5,2015,"Lavandula","pedunculata","B3",0,0,0,0,"fruto perdido"
+"202","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","A1",13,9,0,11,NA
+"203","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","A2",22,1,0,22,NA
+"204","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","A3",3,0,0,3,NA
+"205","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","B1",32,2,0,29,NA
+"206","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","B2",30,10,0,25,NA
+"207","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","B3",21,1,0,18,NA
+"208","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","C1",51,11,6,39,NA
+"209","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","C2",54,6,0,46,NA
+"210","ConventodelaLuz",13,4,2015,"Rosmarinus","officinalis","C3",62,17,0,55,NA
+"211","ConventodelaLuz",28,5,2015,"Cistus","salvifolius","A1",2,0,0,0,NA
+"212","ConventodelaLuz",28,5,2015,"Cistus","salvifolius","A2",3,0,0,0,NA
+"213","ConventodelaLuz",28,5,2015,"Cistus","salvifolius","A3",3,0,2,0,NA
+"214","ConventodelaLuz",28,5,2015,"Cistus","salvifolius","B1",1,0,1,0,NA
+"215","ConventodelaLuz",28,5,2015,"Cistus","salvifolius","B2",1,0,0,0,NA
+"216","ConventodelaLuz",28,5,2015,"Cistus","salvifolius","B3",1,0,0,0,NA
+"217","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","A1",1,0,0,0,NA
+"218","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","A2",1,0,0,0,"Fruto dudoso, lo guardo "
+"219","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","A3",2,0,2,0,NA
+"220","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","B1",1,2,0,0,NA
+"221","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","B2",3,0,3,0,NA
+"222","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","B3",0,2,0,0,NA
+"223","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","C1",1,0,1,0,NA
+"224","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","C2",1,0,0,0,NA
+"225","ConventodelaLuz",28,5,2015,"Cistus","ladanifer","C3",1,0,1,0,NA
+"226","ConventodelaLuz",28,5,2015,"Halimium","halimifolium","A1",4,1,0,0,NA
+"227","ConventodelaLuz",28,5,2015,"Halimium","halimifolium","A2",2,1,0,0,NA
+"228","ConventodelaLuz",28,5,2015,"Halimium","halimifolium","A3",6,2,0,0,NA
+"229","ConventodelaLuz",28,5,2015,"Halimium","halimifolium","B1",0,0,0,0,"fruto perdido"
+"230","ConventodelaLuz",28,5,2015,"Halimium","halimifolium","B2",0,0,0,0,"fruto perdido"
+"231","ConventodelaLuz",28,5,2015,"Halimium","halimifolium","B3",0,0,0,0,"fruto perdido"
+"232","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","A1",24,0,0,21,NA
+"233","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","A2",25,0,0,17,NA
+"234","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","A3",37,0,0,37,NA
+"235","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","B1",29,3,0,29,NA
+"236","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","B2",33,1,0,33,NA
+"237","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","B3",26,2,0,24,NA
+"238","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","C1",31,3,0,29,NA
+"239","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","C2",29,2,0,26,NA
+"240","ConventodelaLuz",28,5,2015,"Teucrium","fruticans","C3",36,0,0,36,NA
+"241","ConventodelaLuz",28,5,2015,"Lavandula","stoechas","A1",88,52,0,0,NA
+"242","ConventodelaLuz",28,5,2015,"Lavandula","stoechas","A2",102,29,0,0,NA
+"243","ConventodelaLuz",28,5,2015,"Lavandula","stoechas","A3",123,16,6,0,NA
+"244","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","A1",10,2,0,8,NA
+"245","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","A2",17,0,0,16,NA
+"246","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","A3",25,0,0,22,NA
+"247","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","B1",41,2,0,35,NA
+"248","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","B2",17,2,0,13,NA
+"249","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","B3",25,1,0,19,NA
+"250","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","C1",38,6,0,36,NA
+"251","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","C2",26,12,0,26,NA
+"252","Urbanizaciones",13,4,2015,"Rosmarinus","officinalis","C3",11,8,0,11,NA
+"253","Urbanizaciones",11,6,2015,"Halimium","commutatum","A1",1,3,0,0,NA
+"254","Urbanizaciones",11,6,2015,"Halimium","commutatum","A2",6,2,0,1,NA
+"255","Urbanizaciones",11,6,2015,"Halimium","commutatum","A3",0,0,0,0,"fruto perdido"
+"256","Urbanizaciones",28,5,2015,"Halimium","commutatum","B1",0,0,0,0,"fruto perdido"
+"257","Urbanizaciones",28,5,2015,"Halimium","commutatum","B2",0,2,0,0,NA
+"258","Urbanizaciones",28,5,2015,"Halimium","commutatum","B3",0,1,0,0,NA
+"259","Urbanizaciones",28,5,2015,"Halimium","commutatum","C1",0,0,0,0,"fruto perdido"
+"260","Urbanizaciones",28,5,2015,"Halimium","commutatum","C2",0,0,0,0,"fruto perdido"
+"261","Urbanizaciones",28,5,2015,"Halimium","commutatum","C3",3,2,1,1,NA
+"262","Urbanizaciones",28,5,2015,"Halimium","commutatum","D1",0,0,0,0,"fruto perdido"
+"263","Urbanizaciones",28,5,2015,"Halimium","commutatum","D2",0,0,0,0,"fruto perdido"
+"264","Urbanizaciones",28,5,2015,"Halimium","commutatum","D3",1,2,0,0,NA
+"265","Urbanizaciones",28,5,2015,"Cistus","salvifolius","A1",2,1,0,0,NA
+"266","Urbanizaciones",28,5,2015,"Cistus","salvifolius","A2",1,0,0,0,NA
+"267","Urbanizaciones",28,5,2015,"Cistus","salvifolius","A3",2,1,1,0,NA
+"268","Urbanizaciones",28,5,2015,"Cistus","salvifolius","B1",5,0,2,0,NA
+"269","Urbanizaciones",28,5,2015,"Cistus","salvifolius","B2",5,0,1,1,NA
+"270","Urbanizaciones",28,5,2015,"Cistus","salvifolius","B3",8,0,0,1,NA
+"271","Urbanizaciones",28,5,2015,"Lavandula","stoechas","A1",98,62,0,0,NA
+"272","Urbanizaciones",28,5,2015,"Lavandula","stoechas","A2",123,40,21,0,NA
+"273","Urbanizaciones",28,5,2015,"Lavandula","stoechas","A3",139,29,11,0,NA
+"274","Urbanizaciones",28,5,2015,"Lavandula","stoechas","B1",125,41,5,0,NA
+"275","Urbanizaciones",28,5,2015,"Lavandula","stoechas","B2",134,36,2,0,NA
+"276","Urbanizaciones",28,5,2015,"Lavandula","stoechas","B3",111,51,0,0,NA
+"277","Urbanizaciones",28,5,2015,"Lavandula","stoechas","C1",39,83,3,0,NA
+"278","Urbanizaciones",28,5,2015,"Lavandula","stoechas","C2",22,91,0,0,NA
+"279","Urbanizaciones",28,5,2015,"Lavandula","stoechas","C3",40,69,0,0,NA
+"280","Elpozo",13,4,2015,"Rosmarinus","officinalis","A1",41,9,0,10,NA
+"281","Elpozo",13,4,2015,"Rosmarinus","officinalis","A2",27,3,0,12,NA
+"282","Elpozo",13,4,2015,"Rosmarinus","officinalis","A3",24,5,0,20,NA
+"283","Elpozo",13,4,2015,"Rosmarinus","officinalis","B1",26,2,0,10,NA
+"284","Elpozo",13,4,2015,"Rosmarinus","officinalis","B2",22,5,0,18,NA
+"285","Elpozo",13,4,2015,"Rosmarinus","officinalis","B3",14,6,0,9,NA
+"286","Elpozo",27,5,2015,"Spartium","junceum","A1",8,0,0,6,NA
+"287","Elpozo",27,5,2015,"Spartium","junceum","A2",10,0,0,8,NA
+"288","Elpozo",27,5,2015,"Spartium","junceum","A3",10,0,0,9,NA
+"289","Elpozo",27,5,2015,"Spartium","junceum","B1",6,0,0,5,NA
+"290","Elpozo",27,5,2015,"Spartium","junceum","B2",5,0,0,4,NA
+"291","Elpozo",27,5,2015,"Spartium","junceum","B3",9,0,0,7,NA
+"292","CotitodeSantaTeresa",14,4,2015,"Astragalus","lusitanicus","A1",2,7,1,0,NA
+"293","CotitodeSantaTeresa",14,4,2015,"Astragalus","lusitanicus","A2",5,11,5,0,NA
+"294","CotitodeSantaTeresa",14,4,2015,"Rosmarinus","officinalis","A1",20,1,0,15,NA
+"295","CotitodeSantaTeresa",14,4,2015,"Rosmarinus","officinalis","A2",21,0,0,6,NA
+"296","CotitodeSantaTeresa",14,4,2015,"Rosmarinus","officinalis","A3",29,0,0,8,NA
+"297","CotitodeSantaTeresa",14,4,2015,"Rosmarinus","officinalis","B1",16,9,0,10,NA
+"298","CotitodeSantaTeresa",14,4,2015,"Rosmarinus","officinalis","B2",11,6,0,9,NA
+"299","CotitodeSantaTeresa",14,4,2015,"Rosmarinus","officinalis","B3",15,0,0,15,NA
+"300","CotitodeSantaTeresa",29,5,2015,"Cistus","salvifolius","A1",7,0,3,0,NA
+"301","CotitodeSantaTeresa",29,5,2015,"Cistus","salvifolius","A2",6,0,2,0,NA
+"302","CotitodeSantaTeresa",29,5,2015,"Cistus","salvifolius","A3",11,2,2,0,NA
+"303","CotitodeSantaTeresa",29,5,2015,"Cistus","salvifolius","B1",4,2,0,0,NA
+"304","CotitodeSantaTeresa",29,5,2015,"Cistus","salvifolius","B2",4,0,1,0,NA
+"305","CotitodeSantaTeresa",29,5,2015,"Cistus","salvifolius","B3",0,0,0,0,"fruto perdido"
+"306","CotitodeSantaTeresa",29,5,2015,"Cistus","albidus","A1",2,2,0,0,NA
+"307","CotitodeSantaTeresa",29,5,2015,"Cistus","albidus","A2",5,5,2,0,NA
+"308","CotitodeSantaTeresa",29,5,2015,"Cistus","albidus","A3",0,2,0,0,NA
+"309","CotitodeSantaTeresa",29,5,2015,"Cistus","albidus","B1",5,3,5,0,NA
+"310","CotitodeSantaTeresa",29,5,2015,"Cistus","albidus","B2",4,4,3,0,NA
+"311","CotitodeSantaTeresa",29,5,2015,"Cistus","albidus","B3",7,2,4,0,NA
+"312","CotitodeSantaTeresa",29,5,2015,"Lavandula","stoechas","A1",112,10,0,0,NA
+"313","CotitodeSantaTeresa",29,5,2015,"Lavandula","stoechas","A2",136,9,0,0,NA
+"314","CotitodeSantaTeresa",29,5,2015,"Lavandula","stoechas","A3",49,43,0,0,NA
+"315","Lasmulas",9,6,2015,"Cistus","libanotis","A1",7,6,0,0,NA
+"316","Lasmulas",9,6,2015,"Cistus","libanotis","A2",6,0,5,0,NA
+"317","Lasmulas",9,6,2015,"Cistus","libanotis","A3",22,3,19,0,NA
+"318","Lasmulas",9,6,2015,"Cistus","libanotis","B1",10,0,8,0,NA
+"319","Lasmulas",9,6,2015,"Cistus","libanotis","B2",3,0,0,1,NA
+"320","Lasmulas",9,6,2015,"Cistus","libanotis","B3",9,1,4,0,NA
+"321","Lasmulas",9,6,2015,"Lavandula","stoechas","A1",130,15,0,0,NA
+"322","Lasmulas",9,6,2015,"Lavandula","stoechas","A2",109,33,0,0,NA
+"323","Lasmulas",9,6,2015,"Lavandula","stoechas","A3",113,40,0,0,NA
+"324","Lasmulas",9,6,2015,"Lavandula","stoechas","B1",103,34,0,0,NA
+"325","Lasmulas",9,6,2015,"Lavandula","stoechas","B2",107,21,0,0,NA
+"326","Lasmulas",9,6,2015,"Lavandula","stoechas","B3",82,31,0,0,NA
+"327","Lasmulas",9,6,2015,"Lavandula","stoechas","C1",53,30,47,0,NA
+"328","Lasmulas",9,6,2015,"Lavandula","stoechas","C2",36,53,0,0,NA
+"329","Lasmulas",9,6,2015,"Lavandula","stoechas","C3",64,11,39,0,NA
+"330","Lasmulas",9,6,2015,"Cistus","ladanifer","A1",1,0,0,0,NA
+"331","Lasmulas",9,6,2015,"Cistus","ladanifer","A2",2,0,0,0,NA
+"332","Lasmulas",9,6,2015,"Cistus","ladanifer","A3",2,0,0,0,NA
+"333","Lasmulas",9,6,2015,"Cistus","ladanifer","B1",1,0,1,0,NA
+"334","Lasmulas",9,6,2015,"Cistus","ladanifer","B2",1,0,0,0,NA
+"335","Lasmulas",9,6,2015,"Cistus","ladanifer","B3",1,0,0,0,NA
+"336","Lasmulas",9,6,2015,"Halimium","commutatum","A1",0,0,0,0,"frutos perdidos"
+"337","Lasmulas",9,6,2015,"Halimium","commutatum","A2",0,0,0,0,"frutos perdidos"
+"338","Lasmulas",9,6,2015,"Halimium","commutatum","A3",2,3,0,0,NA
+"339","Lasmulas",9,6,2015,"Halimium","commutatum","B1",0,0,0,0,"frutos perdidos"
+"340","Lasmulas",9,6,2015,"Halimium","commutatum","B2",3,2,0,1,NA
+"341","Lasmulas",9,6,2015,"Halimium","commutatum","B3",0,0,0,0,"frutos perdidos"
+"342","Lasmulas",9,6,2015,"Cistus","salvifolius","A1",5,0,3,0,NA
+"343","Lasmulas",9,6,2015,"Cistus","salvifolius","A2",1,0,0,0,NA
+"344","Lasmulas",9,6,2015,"Cistus","salvifolius","A3",1,0,0,0,NA
+"345","Lasmulas",9,6,2015,"Cistus","salvifolius","B1",6,0,2,0,NA
+"346","Lasmulas",9,6,2015,"Cistus","salvifolius","B2",0,2,0,0,NA
+"347","Lasmulas",9,6,2015,"Cistus","salvifolius","B3",0,0,0,0,"frutos perdidos"
+"348","Lasmulas",9,6,2015,"Cistus","salvifolius","C1",1,0,0,0,NA
+"349","Lasmulas",9,6,2015,"Cistus","salvifolius","C2",0,1,0,0,NA
+"350","Lasmulas",9,6,2015,"Cistus","salvifolius","C3",0,0,0,0,"frutos perdidos"
+"351","Villamanriqueeste",9,6,2015,"Cistus","salvifolius","A1",3,0,0,0,NA
+"352","Villamanriqueeste",9,6,2015,"Cistus","salvifolius","A2",3,2,0,0,NA
+"353","Villamanriqueeste",9,6,2015,"Cistus","salvifolius","A3",0,1,0,0,NA
+"354","Villamanriquesur",9,6,2015,"Halimium","halimifolium","A1",6,6,0,0,NA
+"355","Villamanriquesur",9,6,2015,"Halimium","halimifolium","A2",8,1,0,0,NA
+"356","Villamanriquesur",9,6,2015,"Halimium","halimifolium","A3",5,5,0,0,NA
+"357","Villamanriquesur",9,6,2015,"Halimium","halimifolium","B1",6,7,0,0,NA
+"358","Villamanriquesur",9,6,2015,"Halimium","halimifolium","B2",4,9,0,0,NA
+"359","Villamanriquesur",9,6,2015,"Halimium","halimifolium","B3",9,5,0,0,NA
+"360","Villamanriquesur",9,6,2015,"Cistus","crispus","A1",6,6,1,0,NA
+"361","Villamanriquesur",9,6,2015,"Cistus","crispus","A2",0,0,0,0,"frutos perdidos"
+"362","Villamanriquesur",9,6,2015,"Cistus","crispus","B1",7,2,5,0,NA
+"363","Villamanriquesur",9,6,2015,"Cistus","crispus","B2",10,6,3,0,NA
+"364","Villamanriquesur",9,6,2015,"Cistus","ladanifer","A1",3,2,1,0,NA
+"365","Villamanriquesur",9,6,2015,"Cistus","ladanifer","A2",0,1,0,0,NA
+"366","Villamanriquesur",9,6,2015,"Cistus","ladanifer","A3",0,0,0,0,"frutos perdidos"
+"367","Villamanriquesur",9,6,2015,"Cistus","ladanifer","B1",1,0,0,0,NA
+"368","Villamanriquesur",9,6,2015,"Cistus","ladanifer","B2",0,1,0,0,NA
+"369","Villamanriquesur",9,6,2015,"Cistus","ladanifer","B3",1,2,1,0,NA
+"370","Villamanriquesur",9,6,2015,"Cistus","ladanifer","C1",6,0,3,0,NA
+"371","Villamanriquesur",9,6,2015,"Cistus","ladanifer","C2",1,1,1,0,NA
+"372","Villamanriquesur",9,6,2015,"Cistus","ladanifer","C3",0,0,0,0,"frutos perdidos"
+"373","Villamanriquesur",9,6,2015,"Lavandula","stoechas","A1",0,0,0,0,"frutos perdidos"
+"374","Villamanriquesur",9,6,2015,"Lavandula","stoechas","A2",0,0,0,0,"frutos perdidos"
+"375","Villamanriquesur",9,6,2015,"Lavandula","stoechas","A3",108,15,6,0,NA
+"376","Villamanriquesur",9,6,2015,"Lavandula","stoechas","B1",162,22,2,0,NA
+"377","Villamanriquesur",9,6,2015,"Lavandula","stoechas","B2",149,39,0,0,NA
+"378","Villamanriquesur",9,6,2015,"Lavandula","stoechas","B3",0,0,0,0,"frutos perdidos"
+"379","Elpinar",14,4,2015,"Rosmarinus","officinalis","A1",19,0,0,15,NA
+"380","Elpinar",14,4,2015,"Rosmarinus","officinalis","A2",7,0,0,5,NA
+"381","Elpinar",14,4,2015,"Rosmarinus","officinalis","A3",7,1,0,4,NA
+"382","Elpinar",14,4,2015,"Rosmarinus","officinalis","B1",8,9,0,6,NA
+"383","Elpinar",14,4,2015,"Rosmarinus","officinalis","B2",13,5,0,11,NA
+"384","Elpinar",14,4,2015,"Rosmarinus","officinalis","B3",22,3,0,19,NA
+"385","Elpinar",14,4,2015,"Rosmarinus","officinalis","C1",1,0,0,0,NA
+"386","Elpinar",14,4,2015,"Rosmarinus","officinalis","C2",0,0,0,0,"frutos perdidos"
+"387","Elpinar",14,4,2015,"Rosmarinus","officinalis","C3",14,2,0,11,NA
+"388","PinaresdeHinojos",28,5,2015,"Cistus","libanotis","A1",2,0,0,1,NA
+"389","PinaresdeHinojos",28,5,2015,"Cistus","libanotis","A2",3,0,0,1,NA
+"390","PinaresdeHinojos",28,5,2015,"Cistus","libanotis","A3",3,0,0,1,NA
+"391","PinaresdeHinojos",28,5,2015,"Cistus","libanotis","B1",2,0,0,0,NA
+"392","PinaresdeHinojos",28,5,2015,"Cistus","libanotis","B2",7,0,0,3,NA
+"393","PinaresdeHinojos",28,5,2015,"Cistus","libanotis","B3",8,0,0,1,NA
+"394","PinaresdeHinojos",28,5,2015,"Cistus","salvifolius","A1",3,0,0,1,NA
+"395","PinaresdeHinojos",28,5,2015,"Cistus","salvifolius","A2",5,0,0,4,NA
+"396","PinaresdeHinojos",28,5,2015,"Cistus","salvifolius","A3",4,3,0,3,NA
+"397","PinaresdeHinojos",28,5,2015,"Cistus","salvifolius","B1",2,0,0,0,NA
+"398","PinaresdeHinojos",28,5,2015,"Cistus","salvifolius","B2",4,0,0,1,NA
+"399","PinaresdeHinojos",28,5,2015,"Cistus","salvifolius","B3",7,0,0,1,NA
+"400","PinaresdeHinojos",11,6,2015,"Retama","sphaerocarpa","B1",0,0,0,0,"frutos perdidos"
+"401","PinaresdeHinojos",11,6,2015,"Retama","sphaerocarpa","B2",16,0,0,15,NA
+"402","Esparragal",27,5,2015,"Halimium","commutatum","A1",0,2,0,0,NA
+"403","Esparragal",27,5,2015,"Halimium","commutatum","A2",0,1,0,0,NA
+"404","Esparragal",27,5,2015,"Halimium","commutatum","A3",0,6,0,0,NA
+"405","Esparragal",27,5,2015,"Halimium","commutatum","B1",1,0,0,1,NA
+"406","Esparragal",27,5,2015,"Halimium","commutatum","B2",0,1,0,0,NA
+"407","Esparragal",27,5,2015,"Halimium","commutatum","B3",0,1,0,0,NA
+"408","Esparragal",27,5,2015,"Halimium","commutatum","C1",0,0,0,0,"frutos perdidos"
+"409","Esparragal",27,5,2015,"Halimium","commutatum","C2",1,0,0,1,NA
+"410","Esparragal",27,5,2015,"Halimium","commutatum","C3",0,0,0,0,"frutos perdidos"
+"411","Esparragal",27,5,2015,"Halimium","halimifolium","A1",5,0,0,2,NA
+"412","Esparragal",27,5,2015,"Halimium","halimifolium","A2",3,0,0,1,NA
+"413","Esparragal",27,5,2015,"Halimium","halimifolium","A3",4,0,0,2,NA
+"414","Esparragal",27,5,2015,"Cistus","salvifolius","A1",2,3,0,0,NA
+"415","Esparragal",27,5,2015,"Cistus","salvifolius","A2",4,0,1,2,NA
+"416","Esparragal",27,5,2015,"Cistus","salvifolius","A3",3,0,1,1,NA
+"417","Esparragal",27,5,2015,"Lavandula","pedunculata","A1",98,38,2,0,NA
+"418","Esparragal",27,5,2015,"Lavandula","pedunculata","A2",119,20,9,0,NA
+"419","Esparragal",27,5,2015,"Lavandula","pedunculata","A3",142,15,20,0,NA
+"420","Esparragal",27,5,2015,"Lavandula","pedunculata","B1",91,12,11,48,NA
+"421","Esparragal",27,5,2015,"Lavandula","pedunculata","B2",83,30,21,0,NA
+"422","Esparragal",27,5,2015,"Lavandula","pedunculata","B3",84,39,13,0,NA

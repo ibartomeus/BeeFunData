@@ -1,0 +1,727 @@
+"","Site_ID","Year","Plant_genus","Plant_species","Plant.ID","Fruit.nº","Fruit.weight2","Seeds2","Seed.weight","Notes"
+"1","Niebla",2015,"Cistus","monspeliensis","A1","a",0.01003,2,0.00164,NA
+"2","Niebla",2015,"Cistus","monspeliensis","A2","a",0.0173,0,0,"Predado"
+"3","Niebla",2015,"Cistus","monspeliensis","A2","b",0.0358,7,0.00702,NA
+"4","Niebla",2015,"Cistus","monspeliensis","A2","c",0.03616,6,0.00661,NA
+"5","Niebla",2015,"Cistus","crispus","A1","a",0.01689,0,0,"Predado"
+"6","Niebla",2015,"Cistus","crispus","A1","b",0.03607,30,0.01269,NA
+"7","Niebla",2015,"Cistus","crispus","A2","a",0.09767,47,0.02463,NA
+"8","Niebla",2015,"Cistus","crispus","A2","b",0.05224,31,0.01591,NA
+"9","Niebla",2015,"Cistus","crispus","A3","a",0.02037,0,0,"Predado"
+"10","Niebla",2015,"Cistus","crispus","A3","b",0.02406,21,0.00725,NA
+"11","Niebla",2015,"Cistus","crispus","B2","a",0.06394,44,0.01867,NA
+"12","Niebla",2015,"Cistus","crispus","B2","b",0.05997,35,0.01363,NA
+"13","Niebla",2015,"Cistus","crispus","B3","a",0.05822,35,0.01469,NA
+"14","Niebla",2015,"Cistus","crispus","B3","b",0.05324,35,0.0151,NA
+"15","Niebla",2015,"Asphodelus","fistulosus","A1","a",0.07489,5,0.02954,"1 aborto"
+"16","Niebla",2015,"Asphodelus","fistulosus","A1","b",0.07043,3,0.00611,"3 abortos"
+"17","Niebla",2015,"Asphodelus","fistulosus","A1","b",0.07043,3,0.01236,NA
+"18","Niebla",2015,"Asphodelus","fistulosus","A1","c",0.07092,3,0.0129,"3 predados"
+"19","Niebla",2015,"Asphodelus","fistulosus","A1","c",0.07092,3,0.02533,NA
+"20","Niebla",2015,"Asphodelus","fistulosus","A2","a",0.089,3,0.01254,"3 predados"
+"21","Niebla",2015,"Asphodelus","fistulosus","A2","a",0.089,3,0.02507,NA
+"22","Niebla",2015,"Asphodelus","fistulosus","A2","b",0.10173,4,0.01397,"2 abortos"
+"23","Niebla",2015,"Asphodelus","fistulosus","A2","b",0.10173,4,0.042,NA
+"24","Niebla",2015,"Asphodelus","fistulosus","A3","a",0.08715,1,0.0344,NA
+"25","Niebla",2015,"Asphodelus","fistulosus","A3","b",0.08618,1,0.03422,"1 aborto"
+"26","Niebla",2015,"Asphodelus","fistulosus","B1","a",0.0729,6,0.03302,NA
+"27","Niebla",2015,"Asphodelus","fistulosus","B1","b",0.08012,5,0.03903,NA
+"28","Niebla",2015,"Asphodelus","fistulosus","B1","c",0.06977,5,0.02455,NA
+"29","Niebla",2015,"Asphodelus","fistulosus","B2","a",0.05199,3,0.0265,NA
+"30","Niebla",2015,"Asphodelus","fistulosus","B2","b",0.04352,0,0,"Predado"
+"31","Niebla",2015,"Asphodelus","fistulosus","B2","c",0.07256,0,0,"Predado"
+"32","Niebla",2015,"Asphodelus","fistulosus","B3","a",0.074,4,0.01013,"2 abortos"
+"33","Niebla",2015,"Asphodelus","fistulosus","B3","a",0.074,4,0.12014,NA
+"34","Niebla",2015,"Cistus","ladanifer","B1","a",0.21762,179,0.05577,NA
+"35","Niebla",2015,"Cistus","ladanifer","C2","a",0.6322,733,0.22324,NA
+"36","Niebla",2015,"Phlomis","purpurea","A1","a",0.0289,2,0.00376,"2 abortos"
+"37","Niebla",2015,"Phlomis","purpurea","A1","a",0.0289,2,0.003901,NA
+"38","Niebla",2015,"Phlomis","purpurea","A1","b",0.0266,0,0,"4 abortos"
+"39","Niebla",2015,"Phlomis","purpurea","A1","c",0.04083,2,0.00394,"1 aborto"
+"40","Niebla",2015,"Phlomis","purpurea","A1","c",0.04083,2,0.00387,NA
+"41","Niebla",2015,"Phlomis","purpurea","A2","a",0.03296,2,0.00414,"2 abortos"
+"42","Niebla",2015,"Phlomis","purpurea","A2","a",0.03296,2,0.00407,NA
+"43","Niebla",2015,"Phlomis","purpurea","A2","b",0.03257,2,0.00482,"2 abortos"
+"44","Niebla",2015,"Phlomis","purpurea","A2","b",0.03257,2,0.00485,NA
+"45","Niebla",2015,"Phlomis","purpurea","A3","a",0.04129,2,0.00492,"2 abortos"
+"46","Niebla",2015,"Phlomis","purpurea","A3","a",0.04129,2,0.00502,NA
+"47","Niebla",2015,"Phlomis","purpurea","A3","b",0.03942,2,0.00446,"2 abortos"
+"48","Niebla",2015,"Phlomis","purpurea","A3","b",0.03942,2,0.00433,NA
+"49","Niebla",2015,"Phlomis","purpurea","B1","a",0.02791,3,0.00378,"1 aborto"
+"50","Niebla",2015,"Phlomis","purpurea","B1","a",0.02791,3,0.00735,NA
+"51","Niebla",2015,"Phlomis","purpurea","B1","b",0.03079,2,0.00404,"2 abortos"
+"52","Niebla",2015,"Phlomis","purpurea","B1","b",0.03079,2,0.00409,NA
+"53","Niebla",2015,"Phlomis","purpurea","B2","a",0.03244,3,0.00336,"1 aborto"
+"54","Niebla",2015,"Phlomis","purpurea","B2","a",0.03244,3,0.00633,NA
+"55","Niebla",2015,"Phlomis","purpurea","B2","b",0.03024,2,0.00377,"2 abortos"
+"56","Niebla",2015,"Phlomis","purpurea","B2","b",0.03024,2,0.00371,NA
+"57","Niebla",2015,"Phlomis","purpurea","B3","a",0.0269,2,0.0034,"2 abortos"
+"58","Niebla",2015,"Phlomis","purpurea","B3","a",0.0269,2,0.00343,NA
+"59","Niebla",2015,"Lavandula","pedunculata","B1","a",0.0032,2,0.00081,"1 aborto"
+"60","Niebla",2015,"Lavandula","pedunculata","B1","a",0.0032,2,0.00075,NA
+"61","Niebla",2015,"Lavandula","pedunculata","B1","b",0.003891,2,0.00161,NA
+"62","Niebla",2015,"Lavandula","pedunculata","B1","c",0.003981,2,0.00137,NA
+"63","Niebla",2015,"Lavandula","pedunculata","B2","a",0.00195,2,0.00091,NA
+"64","Niebla",2015,"Lavandula","pedunculata","B2","b",0.00183,2,0.00081,NA
+"65","Niebla",2015,"Lavandula","pedunculata","B3","a",0.00452,2,0.00108,"1 aborto"
+"66","Niebla",2015,"Lavandula","pedunculata","B3","a",0.00452,2,0.00099,NA
+"67","Niebla",2015,"Lavandula","pedunculata","C1","a",0.00431,2,0.00175,NA
+"68","Niebla",2015,"Lavandula","pedunculata","C1","b",0.00356,0,0,"Predado"
+"69","Niebla",2015,"Lavandula","pedunculata","C1","c",0.00275,1,0.00102,NA
+"70","Niebla",2015,"Lavandula","pedunculata","C2","a",0.00341,2,0.00137,NA
+"71","Niebla",2015,"Lavandula","pedunculata","C3","a",0.00575,2,0.00181,NA
+"72","Niebla",2015,"Lavandula","pedunculata","C3","b",0.00235,1,0.00033,NA
+"73","Niebla",2015,"Lavandula","pedunculata","C3","c",0.0029,1,0.00081,NA
+"74","Bonares",2015,"Ulex","australis","A1","a",0.07971,4,0.01665,NA
+"75","Bonares",2015,"Ulex","australis","A2","a",0.04031,1,0.00546,"4 abortos"
+"76","Bonares",2015,"Ulex","australis","A2","b",0.08129,3,0.00513,"2 abortos"
+"77","Bonares",2015,"Ulex","australis","A2","b",0.08129,3,0.01035,NA
+"78","Bonares",2015,"Ulex","australis","A2","c",0.11062,6,0.02879,NA
+"79","Bonares",2015,"Ulex","australis","A2","d",0.052,3,0.00421,"3 abortos"
+"80","Bonares",2015,"Ulex","australis","A2","d",0.052,3,0.00863,NA
+"81","Bonares",2015,"Ulex","australis","B1","a",0.04726,2,0.00513,"1 aborto"
+"82","Bonares",2015,"Ulex","australis","B1","a",0.04726,2,0.0052,NA
+"83","Bonares",2015,"Ulex","australis","B2","a",0.03954,2,0.01085,NA
+"84","Bonares",2015,"Ulex","australis","B2","b",0.12677,9,0.04026,NA
+"85","Bonares",2015,"Ulex","australis","C1","a",0.05356,3,0.01714,NA
+"86","Bonares",2015,"Ulex","australis","C1","b",0.04263,1,0.00359,"4 abortos"
+"87","Bonares",2015,"Ulex","australis","C1","c",0.10433,6,0.02529,"2 abortos"
+"88","Bonares",2015,"Ulex","australis","C1","d",0.09671,3,0.00591,"3 abortos"
+"89","Bonares",2015,"Ulex","australis","C1","d",0.09671,3,0.01185,NA
+"90","Bonares",2015,"Ulex","australis","C2","a",0.08742,1,0.00518,"5 abortos"
+"91","Bonares",2015,"Ulex","australis","C2","b",0.10235,4,0.00643,"1 aborto"
+"92","Bonares",2015,"Ulex","australis","C2","b",0.10235,4,0.01887,NA
+"93","Bonares",2015,"Ulex","australis","C2","c",0.07333,3,0.00502,"1 aborto"
+"94","Bonares",2015,"Ulex","australis","C2","c",0.07333,3,0.01022,NA
+"95","Bonares",2015,"Cistus","salvifolius","A1","a",0.11243,61,0.07319,NA
+"96","Bonares",2015,"Cistus","salvifolius","A2","a",0.11954,59,0.07215,NA
+"97","Bonares",2015,"Cistus","salvifolius","A3","a",0.12599,60,0.07077,NA
+"98","Bonares",2015,"Cistus","salvifolius","B1","a",0.02917,16,0.01416,NA
+"99","Bonares",2015,"Cistus","salvifolius","B1","b",0.05028,45,0.02267,NA
+"100","Bonares",2015,"Cistus","salvifolius","B2","a",0.06927,42,0.0359,NA
+"101","Bonares",2015,"Cistus","salvifolius","B3","a",0.09864,56,0.06162,NA
+"102","Bonares",2015,"Cistus","salvifolius","B3","b",0.05402,44,0.03507,NA
+"103","Bonares",2015,"Cistus","salvifolius","C1","a",0.07714,52,0.04513,NA
+"104","Bonares",2015,"Cistus","salvifolius","C1","b",0.09173,46,0.03969,NA
+"105","Bonares",2015,"Cistus","salvifolius","C2","a",0.09222,53,0.04728,NA
+"106","Bonares",2015,"Cistus","salvifolius","C2","b",0.07198,45,0.04316,NA
+"107","Bonares",2015,"Cistus","salvifolius","C3","a",0.09969,69,0.0608,NA
+"108","Bonares",2015,"Cistus","salvifolius","C3","b",0.15245,81,0.0948,NA
+"109","Bonares",2015,"Cistus","crispus","A1","a",0.08592,28,0.01194,NA
+"110","Bonares",2015,"Cistus","crispus","A1","b",0.0846,31,0.01794,NA
+"111","Bonares",2015,"Cistus","crispus","A1","c",0.02889,0,0,"Predado"
+"112","Bonares",2015,"Cistus","crispus","A2","a",0.0738,18,0.01229,NA
+"113","Bonares",2015,"Cistus","crispus","A2","b",0.07844,28,0.01655,NA
+"114","Bonares",2015,"Cistus","crispus","A3","a",0.07636,30,0.01787,NA
+"115","Bonares",2015,"Cistus","crispus","B1","a",0.04585,0,0,"Predado"
+"116","Bonares",2015,"Cistus","crispus","B1","b",0.0659,27,0.01245,NA
+"117","Bonares",2015,"Cistus","crispus","B2","a",0.02763,4,0.00044,NA
+"118","Bonares",2015,"Cistus","crispus","B2","a",0.02763,24,0.00042,NA
+"119","Bonares",2015,"Cistus","crispus","B2","a",0.02763,30,0.00039,NA
+"120","Bonares",2015,"Cistus","crispus","B2","a",0.02763,32,0.00046,NA
+"121","Bonares",2015,"Cistus","crispus","B2","b",0.06885,24,0.01315,NA
+"122","Bonares",2015,"Cistus","crispus","B3","a",0.0477,30,0.01355,NA
+"123","Bonares",2015,"Cistus","crispus","B3","b",0.04815,32,0.01425,NA
+"124","Bonares",2015,"Cistus","ladanifer","A1","a",0.2886,386,0.10743,NA
+"125","Bonares",2015,"Cistus","ladanifer","A1","b",0.15866,95,0.02438,NA
+"126","Bonares",2015,"Cistus","ladanifer","A2","a",0.3134,382,0.10677,NA
+"127","Bonares",2015,"Cistus","ladanifer","B1","a",0.26471,161,0.05361,NA
+"128","Bonares",2015,"Cistus","ladanifer","B1","b",0.36833,210,0.0642,NA
+"129","Bonares",2015,"Cistus","ladanifer","B2","a",0.22336,146,0.0321,NA
+"130","Bonares",2015,"Cistus","ladanifer","B3","a",0.26131,335,0.05391,NA
+"131","Bonares",2015,"Cistus","ladanifer","C1","a",0.23415,249,0.0632,NA
+"132","Bonares",2015,"Cistus","ladanifer","C3","a",0.24824,220,0.05869,NA
+"133","Bonares",2015,"Cistus","ladanifer","C3","b",0.23587,340,0.07422,NA
+"134","Bonares",2015,"Cistus","ladanifer","D1","a",0.21013,274,0.07233,NA
+"135","Bonares",2015,"Cistus","ladanifer","D2","a",0.1739,261,0.0684,NA
+"136","Bonares",2015,"Lavandula","stoechas","A1","a",0.00276,1,0.00069,"1 aborto"
+"137","Bonares",2015,"Lavandula","stoechas","A1","b",0.0035,2,0.00029,"1 aborto"
+"138","Bonares",2015,"Lavandula","stoechas","A1","b",0.0035,2,0.00036,NA
+"139","Bonares",2015,"Lavandula","stoechas","A2","a",0.00422,2,0.00079,"2 abortos"
+"140","Bonares",2015,"Lavandula","stoechas","A2","a",0.00422,2,0.00082,NA
+"141","Bonares",2015,"Lavandula","stoechas","A2","b",0.00391,2,0.00074,"1 aborto"
+"142","Bonares",2015,"Lavandula","stoechas","A2","b",0.00391,2,0.00071,NA
+"143","Bonares",2015,"Lavandula","stoechas","A3","a",0.00361,2,0.00068,"2 abortos"
+"144","Bonares",2015,"Lavandula","stoechas","A3","a",0.00361,2,0.00066,NA
+"145","Bonares",2015,"Lavandula","stoechas","B1","a",0.00249,2,0.00059,"1 aborto"
+"146","Bonares",2015,"Lavandula","stoechas","B1","a",0.00249,2,0.00052,NA
+"147","Bonares",2015,"Lavandula","stoechas","B1","b",0.00353,3,0.0022,NA
+"148","Bonares",2015,"Lavandula","stoechas","B2","a",0.00285,1,0.00069,"2 abortos"
+"149","Bonares",2015,"Lavandula","stoechas","B2","b",0.00428,2,7e-04,"2 abortos"
+"150","Bonares",2015,"Lavandula","stoechas","B2","b",0.00428,2,0.00079,NA
+"151","Bonares",2015,"Lavandula","stoechas","B3","a",0.06321,4,0.00265,NA
+"152","Bonares",2015,"Lavandula","stoechas","C1","a",0.00208,1,0.00063,"2 abortos"
+"153","Bonares",2015,"Lavandula","stoechas","C1","b",0.00431,3,0.00071,"1 aborto"
+"154","Bonares",2015,"Lavandula","stoechas","C1","b",0.00431,3,0.00134,NA
+"155","Bonares",2015,"Lavandula","stoechas","C2","a",0.00429,3,0.00204,NA
+"156","Bonares",2015,"Lavandula","stoechas","C2","b",0.00375,3,0.00136,NA
+"157","Bonares",2015,"Lavandula","stoechas","C3","a",0.0039,3,4e-04,"1 aborto"
+"158","Bonares",2015,"Lavandula","stoechas","C3","a",0.0039,3,0.00069,NA
+"159","LaRocina",2015,"Halimium","commutatum","A1","a",0.03664,3,0.01053,NA
+"160","LaRocina",2015,"Halimium","commutatum","A1","b",0.0317,3,0.01118,NA
+"161","LaRocina",2015,"Halimium","commutatum","A1","c",0.02024,2,0.00677,NA
+"162","LaRocina",2015,"Halimium","commutatum","A2","a",0.02174,0,0,"Predado"
+"163","LaRocina",2015,"Halimium","commutatum","A3","a",0.02057,0,0,"Predado"
+"164","LaRocina",2015,"Halimium","commutatum","A3","b",0.00974,0,0,"Predado"
+"165","LaRocina",2015,"Anchusa","azurea","A1","a",0.00987,1,0.00292,NA
+"166","LaRocina",2015,"Anchusa","azurea","A1","b",0.0127,4,0.00498,NA
+"167","LaRocina",2015,"Anchusa","azurea","A2","a",0.01901,3,0.00976,NA
+"168","LaRocina",2015,"Anchusa","azurea","A2","b",0.01428,2,0.00685,NA
+"169","LaRocina",2015,"Anchusa","azurea","A3","a",0.00951,3,0.00658,NA
+"170","LaRocina",2015,"Anchusa","azurea","B1","a",0.01385,2,0.00318,"1 aborto"
+"171","LaRocina",2015,"Anchusa","azurea","B1","a",0.01385,2,0.00323,NA
+"172","LaRocina",2015,"Anchusa","azurea","B1","b",0.01621,2,0.00294,"2 abortos"
+"173","LaRocina",2015,"Anchusa","azurea","B1","b",0.01621,2,0.00292,NA
+"174","LaRocina",2015,"Anchusa","azurea","B1","c",0.01314,2,0.00639,NA
+"175","LaRocina",2015,"Halimium","halimifolium","A1","a",0.03011,3,0.0823,NA
+"176","LaRocina",2015,"Rosmarinus","officinalis","A1","a",0.00329,2,0.00067,"2 abortos"
+"177","LaRocina",2015,"Rosmarinus","officinalis","A1","a",0.00329,2,0.00061,NA
+"178","LaRocina",2015,"Rosmarinus","officinalis","A1","b",0.00265,2,0.00046,"2 abortos"
+"179","LaRocina",2015,"Rosmarinus","officinalis","A1","b",0.00265,2,0.00062,NA
+"180","LaRocina",2015,"Rosmarinus","officinalis","A1","c",0.0029,2,0.00059,"2 abortos"
+"181","LaRocina",2015,"Rosmarinus","officinalis","A1","c",0.0029,2,0.00056,NA
+"182","LaRocina",2015,"Rosmarinus","officinalis","A1","d",0.00356,2,0.00076,"2 abortos"
+"183","LaRocina",2015,"Rosmarinus","officinalis","A1","d",0.00356,2,0.00085,NA
+"184","LaRocina",2015,"Spartium","junceum","B1","a",0.12732,3,0.00615,"3 abortos"
+"185","LaRocina",2015,"Spartium","junceum","B1","a",0.12732,3,0.01243,NA
+"186","LaRocina",2015,"Spartium","junceum","B1","b",0.19977,1,0.02859,"8 abortos"
+"187","LaRocina",2015,"Spartium","junceum","B1","c",0.04678,0,0,"Predado"
+"188","LaRocina",2015,"Spartium","junceum","B1","d",0.05883,0,0,"Predado"
+"189","LaRocina",2015,"Spartium","junceum","B2","a",0.21151,4,0.00546,"7 abortos"
+"190","LaRocina",2015,"Spartium","junceum","B2","a",0.21151,4,0.01497,NA
+"191","LaRocina",2015,"Spartium","junceum","B2","b",0.08391,1,0.003,"9 abortos"
+"192","LaRocina",2015,"Spartium","junceum","B3","a",0.14132,2,0.00569,"5 abortos"
+"193","LaRocina",2015,"Spartium","junceum","B3","a",0.14132,2,0.00587,NA
+"194","Pinodelcuervo",2015,"Cistus","crispus","A1","a",0.0608,1,0.00047,NA
+"195","Pinodelcuervo",2015,"Cistus","crispus","A1","b",0.03925,7,0.00428,NA
+"196","Pinodelcuervo",2015,"Cistus","crispus","A1","c",0.02691,0,0,"Predado"
+"197","Pinodelcuervo",2015,"Cistus","crispus","A1","d",0.03272,0,0,"Predado"
+"198","Pinodelcuervo",2015,"Cistus","crispus","A2","a",0.05274,10,0.00508,NA
+"199","Pinodelcuervo",2015,"Cistus","crispus","A2","b",0.05793,18,0.00885,NA
+"200","Pinodelcuervo",2015,"Cistus","crispus","A2","c",0.05576,22,0.01082,NA
+"201","Pinodelcuervo",2015,"Cistus","crispus","A3","a",0.06271,15,0.00762,NA
+"202","Pinodelcuervo",2015,"Cistus","crispus","A3","b",0.01575,0,0,"Predado"
+"203","Pinodelcuervo",2015,"Cistus","crispus","B1","a",0.04427,0,0,"Predado"
+"204","Pinodelcuervo",2015,"Cistus","crispus","B1","b",0.04775,0,0,"Predado"
+"205","Pinodelcuervo",2015,"Cistus","crispus","B1","c",0.04858,0,0,"Predado"
+"206","Pinodelcuervo",2015,"Cistus","crispus","B2","a",0.08037,51,0.02243,NA
+"207","Pinodelcuervo",2015,"Cistus","crispus","B2","b",0.05837,32,0.01213,NA
+"208","Pinodelcuervo",2015,"Cistus","crispus","B2","c",0.06073,34,0.0136,NA
+"209","Pinodelcuervo",2015,"Cistus","crispus","B3","a",0.07729,42,0.01973,NA
+"210","Pinodelcuervo",2015,"Cistus","crispus","B3","b",0.07089,38,0.01127,NA
+"211","Pinodelcuervo",2015,"Cistus","crispus","C1","a",0.00559,2,0.00285,NA
+"212","Pinodelcuervo",2015,"Rosmarinus","officinalis","A1","a",0.00445,3,0.00126,"1 aborto"
+"213","Pinodelcuervo",2015,"Rosmarinus","officinalis","A1","a",0.00445,3,0.00235,NA
+"214","Pinodelcuervo",2015,"Rosmarinus","officinalis","A1","b",0.00389,2,0.00066,"2 abortos"
+"215","Pinodelcuervo",2015,"Rosmarinus","officinalis","A1","b",0.00389,2,0.00059,NA
+"216","Pinodelcuervo",2015,"Rosmarinus","officinalis","A3","a",0.00249,2,0.00048,"2 abortos"
+"217","Pinodelcuervo",2015,"Rosmarinus","officinalis","A3","a",0.00249,2,0.00041,NA
+"218","Pinodelcuervo",2015,"Rosmarinus","officinalis","A3","b",0.00428,2,0.00074,"2 abortos"
+"219","Pinodelcuervo",2015,"Rosmarinus","officinalis","A3","b",0.00428,2,0.00069,NA
+"220","Pinodelcuervo",2015,"Rosmarinus","officinalis","B1","a",0.00504,4,0.00341,NA
+"221","Pinodelcuervo",2015,"Rosmarinus","officinalis","B3","a",0.00396,2,0.00217,"2 abortos"
+"222","Pinodelcuervo",2015,"Rosmarinus","officinalis","B3","a",0.00396,2,0.00231,NA
+"223","Pinodelcuervo",2015,"Halimium","commutatum","A3","a",0.03502,4,0.01457,NA
+"224","Pinodelcuervo",2015,"Halimium","commutatum","B1","a",0.03405,4,0.01647,NA
+"225","Pinodelcuervo",2015,"Halimium","commutatum","B2","a",0.03668,4,0.01432,NA
+"226","Pinodelcuervo",2015,"Halimium","commutatum","B2","b",0.03377,4,0.01392,NA
+"227","Pinodelcuervo",2015,"Halimium","commutatum","B3","a",0.02322,4,0.00325,"3 abortos"
+"228","Pinodelcuervo",2015,"Halimium","commutatum","B3","b",0.03745,4,0.01572,NA
+"229","Pinodelcuervo",2015,"Halimium","commutatum","B3","c",0.0185,0,0,"4 abortos"
+"230","Pinodelcuervo",2015,"Asphodelus","fistulosus","A1","a",0.03901,6,0.01547,NA
+"231","Pinodelcuervo",2015,"Asphodelus","fistulosus","A1","b",0.002853,6,0.014321,NA
+"232","Pinodelcuervo",2015,"Asphodelus","fistulosus","A1","c",0.04116,6,0.013876,NA
+"233","Pinodelcuervo",2015,"Asphodelus","fistulosus","A3","a",0.03461,6,0,"Predado"
+"234","Pinodelcuervo",2015,"Asphodelus","fistulosus","A3","b",0.04225,6,0.017543,NA
+"235","Pinodelcuervo",2015,"Asphodelus","fistulosus","A3","c",0.04292,6,0.012389,NA
+"236","Pinodelcuervo",2015,"Asphodelus","fistulosus","A3","d",0.0431,6,0.010617,NA
+"237","Pinodelcuervo",2015,"Asphodelus","fistulosus","B2","a",0.02021,6,0,"Predado"
+"238","Pinodelcuervo",2015,"Asphodelus","fistulosus","B3","a",0.03068,6,0,"Predado"
+"239","Pinodelcuervo",2015,"Asphodelus","fistulosus","B3","b",0.03116,6,0,"Predado"
+"240","Pinodelcuervo",2015,"Ulex","australis","B1","a",0.01374,1,0.00369,NA
+"241","Pinodelcuervo",2015,"Ulex","australis","B1","b",0.02333,1,0,"Predado"
+"242","Pinodelcuervo",2015,"Ulex","australis","B2","a",0.02616,1,0.00188,NA
+"243","Pinodelcuervo",2015,"Ulex","australis","B3","a",0.03331,1,0.00095,NA
+"244","Pinodelcuervo",2015,"Ulex","australis","B3","b",0.03252,1,0.00304,NA
+"245","Pinodelcuervo",2015,"Cistus","ladanifer","A2","a",0.3004,70,0.0179,NA
+"246","Pinodelcuervo",2015,"Cistus","ladanifer","A2","b",1.23983,340,0.11452,NA
+"247","Pinodelcuervo",2015,"Cistus","ladanifer","A2","c",0.5411,510,0.16189,NA
+"248","Pinodelcuervo",2015,"Cistus","ladanifer","A3","a",0.47979,451,0.15102,NA
+"249","Pinodelcuervo",2015,"Cistus","ladanifer","A3","b",0.3713,370,0.12589,NA
+"250","Pinodelcuervo",2015,"Cistus","ladanifer","B1","a",0.40282,290,0.08957,NA
+"251","Pinodelcuervo",2015,"Cistus","ladanifer","B2","a",0.46428,412,0.12335,NA
+"252","Pinodelcuervo",2015,"Cistus","ladanifer","B3","a",0.54668,380,0.18039,NA
+"253","Pinodelcuervo",2015,"Cistus","ladanifer","C1","a",0.34261,248,0.11056,NA
+"254","Pinodelcuervo",2015,"Cistus","ladanifer","C1","b",0.36615,368,0.11711,NA
+"255","Aznalcazar",2015,"Asphodelus","fistulosus","B1","a",0.07255,3,0.00559,"2 abortos"
+"256","Aznalcazar",2015,"Asphodelus","fistulosus","B1","a",0.07255,3,0.01159,NA
+"257","Aznalcazar",2015,"Asphodelus","fistulosus","B1","b",0.08366,5,0.025,NA
+"258","Aznalcazar",2015,"Asphodelus","fistulosus","B2","a",0.0459,1,0.00778,"4 abortos"
+"259","Aznalcazar",2015,"Asphodelus","fistulosus","B2","b",0.06335,2,0.00661,"2 abortos"
+"260","Aznalcazar",2015,"Asphodelus","fistulosus","B2","b",0.06335,2,0.00619,NA
+"261","Aznalcazar",2015,"Asphodelus","fistulosus","B3","a",0.05641,3,0.00582,"2 abortos"
+"262","Aznalcazar",2015,"Asphodelus","fistulosus","B3","a",0.05641,3,0.01161,NA
+"263","Aznalcazar",2015,"Asphodelus","fistulosus","B3","b",0.05556,2,0.00391,"1 aborto"
+"264","Aznalcazar",2015,"Asphodelus","fistulosus","B3","b",0.05556,2,0.00384,NA
+"265","Aznalcazar",2015,"Asphodelus","fistulosus","C1","a",0.08108,4,0.00528,"1 aborto"
+"266","Aznalcazar",2015,"Asphodelus","fistulosus","C1","a",0.08108,4,0.01568,NA
+"267","Aznalcazar",2015,"Asphodelus","fistulosus","C1","b",0.09023,4,0.0049,"1 aborto"
+"268","Aznalcazar",2015,"Asphodelus","fistulosus","C1","b",0.09023,4,0.01367,NA
+"269","Aznalcazar",2015,"Asphodelus","fistulosus","C1","c",0.07943,5,0.01922,"1 aborto"
+"270","Aznalcazar",2015,"Asphodelus","fistulosus","C2","a",0.0535,3,0.0043,"2 abortos"
+"271","Aznalcazar",2015,"Asphodelus","fistulosus","C2","a",0.0535,3,0.00853,NA
+"272","Aznalcazar",2015,"Asphodelus","fistulosus","C2","b",0.11185,5,0.04136,"1 aborto"
+"273","Aznalcazar",2015,"Asphodelus","fistulosus","C3","a",0.0787,4,0.00886,"2 abortos"
+"274","Aznalcazar",2015,"Asphodelus","fistulosus","C3","a",0.0787,4,0.02485,NA
+"275","Aznalcazar",2015,"Asphodelus","fistulosus","C3","b",0.09985,4,0.00716,"3 abortos"
+"276","Aznalcazar",2015,"Asphodelus","fistulosus","C3","b",0.09985,4,0.02152,NA
+"277","Aznalcazar",2015,"Cistus","salvifolius","A1","a",0.10155,34,0.03859,NA
+"278","Aznalcazar",2015,"Cistus","salvifolius","A1","b",0.09229,30,0.03671,NA
+"279","Aznalcazar",2015,"Cistus","salvifolius","A1","c",0.14182,57,0.0639,NA
+"280","Aznalcazar",2015,"Cistus","salvifolius","C1","a",0.1106,40,0.05648,NA
+"281","Aznalcazar",2015,"Cistus","salvifolius","C1","b",0.14182,45,0.05107,NA
+"282","Aznalcazar",2015,"Cistus","salvifolius","C2","a",0.06369,0,0,NA
+"283","Aznalcazar",2015,"Cistus","salvifolius","C2","b",0.06861,0,0,NA
+"284","Aznalcazar",2015,"Cistus","salvifolius","C2","c",0.07255,0,0,NA
+"285","Aznalcazar",2015,"Cistus","salvifolius","C2","d",0.05899,0,0,NA
+"286","Aznalcazar",2015,"Cistus","salvifolius","C2","e",0.07248,0,0,NA
+"287","Aznalcazar",2015,"Cistus","ladanifer","A1","a",0.16732,303,0.05002,NA
+"288","Aznalcazar",2015,"Cistus","ladanifer","A2","a",0.3952,531,0.12778,NA
+"289","Aznalcazar",2015,"Cistus","ladanifer","A2","b",0.39323,496,0.12346,NA
+"290","Aznalcazar",2015,"Cistus","ladanifer","B1","a",0.42555,662,0.17144,NA
+"291","Aznalcazar",2015,"Lavandula","pedunculata","A1","a",0.0044,2,0.00055,"2 abortos"
+"292","Aznalcazar",2015,"Lavandula","pedunculata","A1","a",0.0044,2,0.00061,NA
+"293","Aznalcazar",2015,"Lavandula","pedunculata","A1","b",0.00432,1,0.00082,"3 abortos"
+"294","Aznalcazar",2015,"Lavandula","pedunculata","A2","a",0.00305,1,6e-04,"3 abortos"
+"295","Aznalcazar",2015,"Lavandula","pedunculata","A2","b",0.000467,4,0.00106,NA
+"296","Aznalcazar",2015,"Lavandula","pedunculata","B2","a",0.00288,1,0.00034,"3 abortos"
+"297","Aznalcazar",2015,"Lavandula","pedunculata","B2","b",0.00301,2,0.00038,"1 aborto"
+"298","Aznalcazar",2015,"Lavandula","pedunculata","B2","b",0.00301,2,0.00054,NA
+"299","Aznalcazar",2015,"Lavandula","pedunculata","B2","c",0.00332,2,0.00056,"2 abortos"
+"300","Aznalcazar",2015,"Lavandula","pedunculata","B2","c",0.00332,2,0.00059,NA
+"301","LaCunya",2015,"Rosmarinus","officinalis","A1","a",0.00355,3,0.00043,"1 aborto"
+"302","LaCunya",2015,"Rosmarinus","officinalis","A1","a",0.00355,3,0.00073,NA
+"303","LaCunya",2015,"Rosmarinus","officinalis","A1","b",0.00361,3,0.00042,"1 aborto"
+"304","LaCunya",2015,"Rosmarinus","officinalis","A1","b",0.00361,3,0.00102,NA
+"305","LaCunya",2015,"Rosmarinus","officinalis","A2","b",0.00455,4,0.00207,NA
+"306","LaCunya",2015,"Rosmarinus","officinalis","A2","c",0.00468,4,0.00244,NA
+"307","LaCunya",2015,"Rosmarinus","officinalis","A3","a",0.00339,4,0.00177,NA
+"308","LaCunya",2015,"Rosmarinus","officinalis","A3","b",0.00429,4,0.00219,NA
+"309","LaCunya",2015,"Rosmarinus","officinalis","B1","a",0.00369,3,0.00035,"1 aborto"
+"310","LaCunya",2015,"Rosmarinus","officinalis","B1","a",0.00369,3,0.00127,NA
+"311","LaCunya",2015,"Rosmarinus","officinalis","B1","b",0.0019,2,0.00029,"1 aborto"
+"312","LaCunya",2015,"Rosmarinus","officinalis","B1","b",0.0019,2,0.00017,NA
+"313","LaCunya",2015,"Rosmarinus","officinalis","B2","a",0.00205,1,0.00056,"3 abortos"
+"314","LaCunya",2015,"Rosmarinus","officinalis","B2","b",0.00261,3,0.00065,"1 aborto"
+"315","LaCunya",2015,"Rosmarinus","officinalis","B2","b",0.00261,3,0.00128,NA
+"316","LaCunya",2015,"Rosmarinus","officinalis","B3","a",0.00378,3,0.0011,"1 aborto"
+"317","LaCunya",2015,"Rosmarinus","officinalis","B3","a",0.00378,3,9e-04,NA
+"318","LaCunya",2015,"Rosmarinus","officinalis","B3","b",0.00307,3,0.00107,NA
+"319","LaCunya",2015,"Cistus","salvifolius","A1","a",0.04065,0,0,"Predado"
+"320","LaCunya",2015,"Cistus","salvifolius","A1","b",0.05369,0,0,"Predado"
+"321","LaCunya",2015,"Cistus","salvifolius","A2","a",0.03065,0,0,"Predado"
+"322","LaCunya",2015,"Cistus","salvifolius","A3","a",0.03829,13,0.0172,NA
+"323","LaCunya",2015,"Cistus","salvifolius","B1","a",0.08119,47,0.03985,NA
+"324","LaCunya",2015,"Cistus","salvifolius","B2","a",0.08439,0,0,"Predado"
+"325","LaCunya",2015,"Cistus","salvifolius","B2","b",0.08817,22,0.0307,NA
+"326","LaCunya",2015,"Cistus","salvifolius","B2","c",0.05675,19,0.02188,NA
+"327","LaCunya",2015,"Lavandula","pedunculata","A1","a",0.00306,1,0.00093,NA
+"328","LaCunya",2015,"Lavandula","pedunculata","A1","b",0.00305,1,0.00074,NA
+"329","LaCunya",2015,"Lavandula","pedunculata","A2","a",0.00445,3,0.00213,NA
+"330","LaCunya",2015,"Lavandula","pedunculata","A2","b",0.00483,4,0.00295,NA
+"331","LaCunya",2015,"Lavandula","pedunculata","A2","c",0.00509,4,0.00262,NA
+"332","LaCunya",2015,"Lavandula","pedunculata","A3","a",0.00338,2,0.00106,NA
+"333","LaCunya",2015,"Lavandula","pedunculata","B1","a",0.0042,4,0.00253,NA
+"334","LaCunya",2015,"Lavandula","pedunculata","B1","b",0.00422,3,0.0017,NA
+"335","LaCunya",2015,"Lavandula","pedunculata","B2","a",0.00359,3,0.00163,NA
+"336","LaCunya",2015,"Lavandula","pedunculata","B2","b",0.00329,3,0.00159,NA
+"337","LaCunya",2015,"Lavandula","pedunculata","B2","c",0.00395,4,0.00159,NA
+"338","ConventodelaLuz",2015,"Rosmarinus","officinalis","A1","a",0.0018,2,0.00041,"2 abortos"
+"339","ConventodelaLuz",2015,"Rosmarinus","officinalis","A1","a",0.0018,2,0.00062,NA
+"340","ConventodelaLuz",2015,"Rosmarinus","officinalis","A1","b",0.00232,1,0.00137,"3 abortos"
+"341","ConventodelaLuz",2015,"Rosmarinus","officinalis","B1","a",0.00306,2,0.00065,"1 aborto"
+"342","ConventodelaLuz",2015,"Rosmarinus","officinalis","B1","a",0.00306,2,0.00069,NA
+"343","ConventodelaLuz",2015,"Rosmarinus","officinalis","B1","b",0.00246,3,0.00065,"1 aborto"
+"344","ConventodelaLuz",2015,"Rosmarinus","officinalis","B1","b",0.00246,3,3e-04,NA
+"345","ConventodelaLuz",2015,"Rosmarinus","officinalis","B1","c",0.00122,1,0.00052,"3 abortos"
+"346","ConventodelaLuz",2015,"Rosmarinus","officinalis","B2","a",0.00161,1,0.00033,"3 abortos"
+"347","ConventodelaLuz",2015,"Rosmarinus","officinalis","B2","b",0.00299,3,0.00055,"1 aborto"
+"348","ConventodelaLuz",2015,"Rosmarinus","officinalis","B2","b",0.00299,3,0.00101,NA
+"349","ConventodelaLuz",2015,"Rosmarinus","officinalis","B3","a",0.00315,2,0.00075,"2 abortos"
+"350","ConventodelaLuz",2015,"Rosmarinus","officinalis","B3","a",0.00315,2,0.00071,NA
+"351","ConventodelaLuz",2015,"Rosmarinus","officinalis","C1","a",0.00247,3,0.00045,"1 aborto"
+"352","ConventodelaLuz",2015,"Rosmarinus","officinalis","C1","a",0.00247,3,0.00093,NA
+"353","ConventodelaLuz",2015,"Rosmarinus","officinalis","C1","b",0.00238,3,0.00027,"1 aborto"
+"354","ConventodelaLuz",2015,"Rosmarinus","officinalis","C1","b",0.00238,3,0.00058,NA
+"355","ConventodelaLuz",2015,"Rosmarinus","officinalis","C2","a",0.00143,2,5e-04,"1 aborto"
+"356","ConventodelaLuz",2015,"Rosmarinus","officinalis","C2","a",0.00143,2,0.00048,NA
+"357","ConventodelaLuz",2015,"Rosmarinus","officinalis","C2","b",0.00215,3,0.00036,"1 aborto"
+"358","ConventodelaLuz",2015,"Rosmarinus","officinalis","C2","b",0.00215,3,0.00085,NA
+"359","ConventodelaLuz",2015,"Rosmarinus","officinalis","C3","a",0.0023,3,0.00036,"1 aborto"
+"360","ConventodelaLuz",2015,"Rosmarinus","officinalis","C3","a",0.0023,3,0.00086,NA
+"361","ConventodelaLuz",2015,"Cistus","salvifolius","B1","a",0.07899,56,0.03813,NA
+"362","ConventodelaLuz",2015,"Cistus","salvifolius","B1","b",0.05833,36,0.02715,NA
+"363","ConventodelaLuz",2015,"Cistus","salvifolius","B2","a",0.07123,36,0.04082,NA
+"364","ConventodelaLuz",2015,"Cistus","salvifolius","B2","b",0.09798,48,0.0559,NA
+"365","ConventodelaLuz",2015,"Cistus","salvifolius","B3","a",0.07517,26,0.03489,NA
+"366","ConventodelaLuz",2015,"Cistus","ladanifer","A1","a",0.43719,629,0.14615,NA
+"367","ConventodelaLuz",2015,"Cistus","ladanifer","A2","a",0.437,510,0.14187,NA
+"368","ConventodelaLuz",2015,"Cistus","ladanifer","B1","a",0.19948,107,0.03072,NA
+"369","ConventodelaLuz",2015,"Cistus","ladanifer","C2","a",0.483,220,0.07946,NA
+"370","ConventodelaLuz",2015,"Halimium","halimifolium","A1","a",0.05281,31,0.01658,NA
+"371","ConventodelaLuz",2015,"Halimium","halimifolium","A1","b",0.05272,25,0.01383,NA
+"372","ConventodelaLuz",2015,"Halimium","halimifolium","A2","a",0.02977,4,0.00165,NA
+"373","ConventodelaLuz",2015,"Halimium","halimifolium","A2","b",0.05611,19,0.00792,NA
+"374","ConventodelaLuz",2015,"Halimium","halimifolium","A3","a",0.04556,23,0.01201,NA
+"375","ConventodelaLuz",2015,"Halimium","halimifolium","A3","b",0.04931,34,0.0168,NA
+"376","ConventodelaLuz",2015,"Teucrium","fruticans","B1","a",0.01217,2,0.00576,NA
+"377","ConventodelaLuz",2015,"Teucrium","fruticans","B1","b",0.01839,4,0.01256,NA
+"378","ConventodelaLuz",2015,"Teucrium","fruticans","B2","a",0.01279,2,0.00345,"2 abortos"
+"379","ConventodelaLuz",2015,"Teucrium","fruticans","B2","a",0.01279,2,0.00361,NA
+"380","ConventodelaLuz",2015,"Teucrium","fruticans","B2","b",0.01212,2,0.00646,NA
+"381","ConventodelaLuz",2015,"Teucrium","fruticans","B3","a",0.01289,3,0.00375,"1 aborto"
+"382","ConventodelaLuz",2015,"Teucrium","fruticans","B3","a",0.01289,3,0.00344,NA
+"383","ConventodelaLuz",2015,"Teucrium","fruticans","B3","b",0.00921,1,0.00132,"3 abortos"
+"384","ConventodelaLuz",2015,"Teucrium","fruticans","C1","a",0.01327,2,0.00857,NA
+"385","ConventodelaLuz",2015,"Teucrium","fruticans","C1","b",0.01467,2,0.00372,"2 abortos"
+"386","ConventodelaLuz",2015,"Teucrium","fruticans","C1","b",0.01467,2,0.00403,NA
+"387","ConventodelaLuz",2015,"Teucrium","fruticans","C2","a",0.01554,4,0.01148,NA
+"388","ConventodelaLuz",2015,"Teucrium","fruticans","C2","b",0.01455,3,0.00256,"1 aborto"
+"389","ConventodelaLuz",2015,"Teucrium","fruticans","C2","b",0.01455,3,0.00439,NA
+"390","ConventodelaLuz",2015,"Teucrium","fruticans","C2","c",0.01175,3,0.00211,"1 aborto"
+"391","ConventodelaLuz",2015,"Teucrium","fruticans","C2","c",0.01175,3,0.00326,NA
+"392","ConventodelaLuz",2015,"Lavandula","stoechas","A1","a",0.00198,4,0.00089,NA
+"393","ConventodelaLuz",2015,"Lavandula","stoechas","A1","b",0.00325,2,0.00056,"2 abortos"
+"394","ConventodelaLuz",2015,"Lavandula","stoechas","A1","b",0.00325,2,0.00051,NA
+"395","ConventodelaLuz",2015,"Lavandula","stoechas","A1","c",0.00337,4,0.00151,NA
+"396","ConventodelaLuz",2015,"Lavandula","stoechas","A2","a",0.00459,4,0.00233,NA
+"397","ConventodelaLuz",2015,"Lavandula","stoechas","A2","b",0.00308,2,0.00057,"2 abortos"
+"398","ConventodelaLuz",2015,"Lavandula","stoechas","A2","b",0.00308,2,0.00052,NA
+"399","ConventodelaLuz",2015,"Lavandula","stoechas","A2","c",0.00173,0,0,"Predado"
+"400","ConventodelaLuz",2015,"Lavandula","stoechas","A3","a",0.00329,3,0.00061,"1 aborto"
+"401","ConventodelaLuz",2015,"Lavandula","stoechas","A3","a",0.00329,3,0.00105,NA
+"402","ConventodelaLuz",2015,"Lavandula","stoechas","A3","b",0.00259,1,0.00066,NA
+"403","ConventodelaLuz",2015,"Lavandula","stoechas","A3","c",0.00301,2,0.00057,"2 abortos"
+"404","ConventodelaLuz",2015,"Lavandula","stoechas","A3","c",0.00301,2,0.00063,NA
+"405","Urbanizaciones",2015,"Rosmarinus","officinalis","A1","a",0.0052,2,0.00154,"2 abortos"
+"406","Urbanizaciones",2015,"Rosmarinus","officinalis","A1","a",0.0052,2,0.00166,NA
+"407","Urbanizaciones",2015,"Rosmarinus","officinalis","A1","b",0.00256,2,0.00122,"2 abortos"
+"408","Urbanizaciones",2015,"Rosmarinus","officinalis","A1","b",0.00256,2,0.00127,NA
+"409","Urbanizaciones",2015,"Rosmarinus","officinalis","A2","a",0.00275,3,0.00088,"1 aborto"
+"410","Urbanizaciones",2015,"Rosmarinus","officinalis","A2","a",0.00275,3,0.00139,NA
+"411","Urbanizaciones",2015,"Rosmarinus","officinalis","A3","a",0.0013,1,0.00031,"3 abortos"
+"412","Urbanizaciones",2015,"Rosmarinus","officinalis","B1","a",0.00511,2,0.00035,"2 abortos"
+"413","Urbanizaciones",2015,"Rosmarinus","officinalis","B1","a",0.00511,2,0.00055,NA
+"414","Urbanizaciones",2015,"Rosmarinus","officinalis","B1","b",0.00327,2,9e-04,"2 abortos"
+"415","Urbanizaciones",2015,"Rosmarinus","officinalis","B1","b",0.00327,2,0.00085,NA
+"416","Urbanizaciones",2015,"Rosmarinus","officinalis","B2","a",0.00255,3,0.00031,"1 aborto"
+"417","Urbanizaciones",2015,"Rosmarinus","officinalis","B2","a",0.00255,3,0.00053,NA
+"418","Urbanizaciones",2015,"Rosmarinus","officinalis","B2","b",0.00367,3,0.00072,"1 aborto"
+"419","Urbanizaciones",2015,"Rosmarinus","officinalis","B2","b",0.00367,3,0.0013,NA
+"420","Urbanizaciones",2015,"Rosmarinus","officinalis","B3","a",0.00305,3,0.00061,"1 aborto"
+"421","Urbanizaciones",2015,"Rosmarinus","officinalis","B3","a",0.00305,3,0.00089,NA
+"422","Urbanizaciones",2015,"Rosmarinus","officinalis","B3","b",0.00253,1,0.00101,"3 abortos"
+"423","Urbanizaciones",2015,"Rosmarinus","officinalis","C1","a",0.00282,2,0.00032,"2 abortos"
+"424","Urbanizaciones",2015,"Rosmarinus","officinalis","C1","a",0.00282,2,0.00043,NA
+"425","Urbanizaciones",2015,"Rosmarinus","officinalis","C1","b",0.00177,3,0.00027,"1 aborto"
+"426","Urbanizaciones",2015,"Rosmarinus","officinalis","C1","b",0.00177,3,0.00072,NA
+"427","Urbanizaciones",2015,"Halimium","commutatum","A1","a",0.02262,3,0.01048,NA
+"428","Urbanizaciones",2015,"Halimium","commutatum","A2","a",0.01757,3,0.00419,NA
+"429","Urbanizaciones",2015,"Halimium","commutatum","A2","b",0.01957,3,0.0043,NA
+"430","Urbanizaciones",2015,"Halimium","commutatum","A2","c",0.01793,4,0.00399,NA
+"431","Urbanizaciones",2015,"Halimium","commutatum","A2","d",0.0196,3,0.00471,NA
+"432","Urbanizaciones",2015,"Halimium","commutatum","A2","e",0.02048,1,0.00559,"1 aborto"
+"433","Urbanizaciones",2015,"Halimium","commutatum","A3","a",0.02332,3,0.00729,NA
+"434","Urbanizaciones",2015,"Halimium","commutatum","C3","a",0.0143,0,0,"Predado"
+"435","Urbanizaciones",2015,"Cistus","salvifolius","A1","a",0.10499,0,0,"Predado"
+"436","Urbanizaciones",2015,"Cistus","salvifolius","A2","a",0.0894,76,0.05105,NA
+"437","Urbanizaciones",2015,"Cistus","salvifolius","A2","b",0.11415,61,0.06039,NA
+"438","Urbanizaciones",2015,"Cistus","salvifolius","A3","a",0.10876,57,0.06048,NA
+"439","Urbanizaciones",2015,"Cistus","salvifolius","B1","a",0.07814,34,0.0422,NA
+"440","Urbanizaciones",2015,"Cistus","salvifolius","B1","b",0.11372,53,0.06593,NA
+"441","Urbanizaciones",2015,"Cistus","salvifolius","B2","a",0.09286,41,0.0526,NA
+"442","Urbanizaciones",2015,"Cistus","salvifolius","B2","b",0.09399,42,0.0513,NA
+"443","Urbanizaciones",2015,"Cistus","salvifolius","B3","a",0.10351,66,0.07641,NA
+"444","Urbanizaciones",2015,"Cistus","salvifolius","B3","b",0.09405,40,0.0499,NA
+"445","Urbanizaciones",2015,"Lavandula","stoechas","A1","a",0.00303,2,0.00053,"1 aborto"
+"446","Urbanizaciones",2015,"Lavandula","stoechas","A1","a",0.00303,2,0.00049,NA
+"447","Urbanizaciones",2015,"Lavandula","stoechas","A1","c",0.00372,2,0.00056,"1 aborto"
+"448","Urbanizaciones",2015,"Lavandula","stoechas","A1","c",0.00372,2,0.00058,NA
+"449","Urbanizaciones",2015,"Lavandula","stoechas","A2","a",0.00156,1,0.00013,"3 abortos"
+"450","Urbanizaciones",2015,"Lavandula","stoechas","A3","a",0.00355,2,5e-04,"1 aborto"
+"451","Urbanizaciones",2015,"Lavandula","stoechas","A3","a",0.00355,2,0.00055,NA
+"452","Urbanizaciones",2015,"Lavandula","stoechas","A3","b",0.00225,1,0.00051,"2 abortos"
+"453","Urbanizaciones",2015,"Lavandula","stoechas","B1","a",0.00423,3,0.00068,"1 aborto"
+"454","Urbanizaciones",2015,"Lavandula","stoechas","B1","a",0.00423,3,0.00138,NA
+"455","Urbanizaciones",2015,"Lavandula","stoechas","B1","b",0.0042,3,0.00058,"1 aborto"
+"456","Urbanizaciones",2015,"Lavandula","stoechas","B1","b",0.0042,3,0.00113,NA
+"457","Urbanizaciones",2015,"Lavandula","stoechas","B2","a",0.00252,1,0.00074,"3 abortos"
+"458","Urbanizaciones",2015,"Lavandula","stoechas","B2","b",0.00343,1,0.00067,"3 abortos"
+"459","Urbanizaciones",2015,"Lavandula","stoechas","B3","a",0.00391,2,0.00074,"1 aborto"
+"460","Urbanizaciones",2015,"Lavandula","stoechas","B3","a",0.00391,2,0.00066,NA
+"461","Urbanizaciones",2015,"Lavandula","pedunculata","A1","a",0.00345,1,0.00047,"3 abortos"
+"462","Urbanizaciones",2015,"Lavandula","pedunculata","A1","b",0.00258,0,0,"Predado"
+"463","Urbanizaciones",2015,"Lavandula","pedunculata","A1","c",0.00344,2,0.00027,"2 abortos"
+"464","Urbanizaciones",2015,"Lavandula","pedunculata","A1","c",0.00344,2,0.00022,NA
+"465","Urbanizaciones",2015,"Lavandula","pedunculata","A2","a",0.00406,0,0,"Predado"
+"466","Urbanizaciones",2015,"Lavandula","pedunculata","A2","b",0.00429,3,5e-04,"1 aborto"
+"467","Urbanizaciones",2015,"Lavandula","pedunculata","A2","b",0.00429,3,0.00118,NA
+"468","Urbanizaciones",2015,"Lavandula","pedunculata","A3","a",0.00624,4,0.00244,NA
+"469","Elpozo",2015,"Rosmarinus","officinalis","A1","a",0.0029,2,0.00015,"2 abortos"
+"470","Elpozo",2015,"Rosmarinus","officinalis","A1","a",0.0029,2,9e-04,NA
+"471","Elpozo",2015,"Rosmarinus","officinalis","A1","b",0.000511,4,0.00232,NA
+"472","Elpozo",2015,"Rosmarinus","officinalis","A1","c",0.00621,3,0.00179,"1 aborto"
+"473","Elpozo",2015,"Rosmarinus","officinalis","A1","c",0.00621,3,0.00249,NA
+"474","Elpozo",2015,"Rosmarinus","officinalis","A1","d",0.00603,4,0.00447,NA
+"475","Elpozo",2015,"Rosmarinus","officinalis","A2","a",0.00377,3,0.00073,"1 aborto"
+"476","Elpozo",2015,"Rosmarinus","officinalis","A2","a",0.00377,3,0.00168,NA
+"477","Elpozo",2015,"Rosmarinus","officinalis","A2","b",0.00376,4,0.00179,NA
+"478","Elpozo",2015,"Rosmarinus","officinalis","A2","c",0.00342,4,0.00194,NA
+"479","Elpozo",2015,"Rosmarinus","officinalis","A2","d",0.00286,3,0.00052,"1 aborto"
+"480","Elpozo",2015,"Rosmarinus","officinalis","A2","d",0.00286,3,0.00093,NA
+"481","Elpozo",2015,"Rosmarinus","officinalis","A3","a",0.00344,3,0.00065,"1 aborto"
+"482","Elpozo",2015,"Rosmarinus","officinalis","A3","a",0.00344,3,0.00105,NA
+"483","Elpozo",2015,"Rosmarinus","officinalis","A3","b",0.00205,2,0.00061,"2 abortos"
+"484","Elpozo",2015,"Rosmarinus","officinalis","A3","b",0.00205,2,5e-04,NA
+"485","Elpozo",2015,"Rosmarinus","officinalis","A3","c",0.00347,3,0.00072,"1 aborto"
+"486","Elpozo",2015,"Rosmarinus","officinalis","A3","c",0.00347,3,0.00087,NA
+"487","Elpozo",2015,"Rosmarinus","officinalis","A3","d",0.00311,3,0.00048,"1 aborto"
+"488","Elpozo",2015,"Rosmarinus","officinalis","A3","d",0.00311,3,0.00095,NA
+"489","Elpozo",2015,"Rosmarinus","officinalis","B1","a",0.00211,3,0.00023,"1 aborto"
+"490","Elpozo",2015,"Rosmarinus","officinalis","B1","a",0.00211,3,0.00042,NA
+"491","Elpozo",2015,"Rosmarinus","officinalis","B1","b",0.00263,4,0.00112,NA
+"492","Elpozo",2015,"Rosmarinus","officinalis","B1","c",0.00347,3,0.00043,"1 aborto"
+"493","Elpozo",2015,"Rosmarinus","officinalis","B1","c",0.00347,3,0.00087,NA
+"494","Elpozo",2015,"Rosmarinus","officinalis","B1","d",0.00271,3,0.00032,"1 aborto"
+"495","Elpozo",2015,"Rosmarinus","officinalis","B1","d",0.00271,3,0.00057,NA
+"496","Elpozo",2015,"Rosmarinus","officinalis","B2","a",0.00426,3,0.00062,"1 aborto"
+"497","Elpozo",2015,"Rosmarinus","officinalis","B2","a",0.00426,3,0.00108,NA
+"498","Elpozo",2015,"Rosmarinus","officinalis","B2","b",0.00253,3,0.00037,"1 aborto"
+"499","Elpozo",2015,"Rosmarinus","officinalis","B2","b",0.00253,3,0.00064,NA
+"500","Elpozo",2015,"Rosmarinus","officinalis","B2","c",0.00236,4,0.00107,NA
+"501","Elpozo",2015,"Rosmarinus","officinalis","B3","a",0.00311,4,0.00154,NA
+"502","Elpozo",2015,"Rosmarinus","officinalis","B3","b",0.00252,3,3e-04,"1 aborto"
+"503","Elpozo",2015,"Rosmarinus","officinalis","B3","b",0.00252,3,0.00069,NA
+"504","Elpozo",2015,"Rosmarinus","officinalis","B3","c",0.0036,4,0.0018,NA
+"505","Elpozo",2015,"Spartium","junceum","A1","a",0.08271,3,0.01202,NA
+"506","Elpozo",2015,"Spartium","junceum","A1","b",0.10337,3,0.01983,NA
+"507","Elpozo",2015,"Spartium","junceum","A2","a",0.1447,3,0.00237,"1 aborto"
+"508","Elpozo",2015,"Spartium","junceum","A2","a",0.1447,3,0.00535,NA
+"509","Elpozo",2015,"Spartium","junceum","A2","b",0.1664,3,0.0023,"2 abortos"
+"510","Elpozo",2015,"Spartium","junceum","A2","b",0.1664,3,0.00555,NA
+"511","Elpozo",2015,"Spartium","junceum","A3","a",0.1211,2,0.00484,"1 aborto"
+"512","Elpozo",2015,"Spartium","junceum","A3","a",0.1211,2,0.00459,NA
+"513","Elpozo",2015,"Spartium","junceum","B1","a",0.15896,4,0.01398,NA
+"514","Elpozo",2015,"Spartium","junceum","B2","a",0.11502,2,0.00633,"3 abortos"
+"515","Elpozo",2015,"Spartium","junceum","B2","a",0.11502,2,0.00545,NA
+"516","Elpozo",2015,"Spartium","junceum","B2","b",0.19051,5,0.021,NA
+"517","Elpozo",2015,"Spartium","junceum","B3","a",0.09862,6,0.00227,"5 abortos"
+"518","CotitodeSantaTeresa",2015,"Astragalus","lusitanicus","A1","a",0.25902,3,0.0039,"1 aborto"
+"519","CotitodeSantaTeresa",2015,"Astragalus","lusitanicus","A1","a",0.25902,3,0.00753,NA
+"520","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","A1","a",0.00238,3,3e-04,"1 aborto"
+"521","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","A1","a",0.00238,3,0.00061,NA
+"522","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","A1","b",0.00215,2,0.00067,"2 abortos"
+"523","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","A1","b",0.00215,2,0.00059,NA
+"524","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","A1","c",0.00168,1,0.00044,"3 abortos"
+"525","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B1","a",0.00206,2,0.00047,"2 abortos"
+"526","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B1","a",0.00206,2,0.00053,NA
+"527","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B1","b",0.00148,2,0.00025,"2 abortos"
+"528","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B1","b",0.00148,2,0.00021,NA
+"529","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B2","a",0.00366,2,0.00072,"2 abortos"
+"530","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B2","a",0.00366,2,0.00069,NA
+"531","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B2","b",0.00194,1,0.00048,"3 abortos"
+"532","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B3","a",0.00207,0,0,"Predado"
+"533","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B3","b",0.0023,0,0,"Predado"
+"534","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B3","c",0.00219,2,3e-04,"1 aborto"
+"535","CotitodeSantaTeresa",2015,"Rosmarinus","officinalis","B3","c",0.00219,2,0.00035,NA
+"536","CotitodeSantaTeresa",2015,"Cistus","salvifolius","A1","a",0.10811,56,0.05789,NA
+"537","CotitodeSantaTeresa",2015,"Cistus","salvifolius","A1","b",0.08007,39,0.04057,NA
+"538","CotitodeSantaTeresa",2015,"Cistus","salvifolius","A2","a",0.06343,28,0.01888,NA
+"539","CotitodeSantaTeresa",2015,"Cistus","salvifolius","A2","b",0.05467,13,0.00899,NA
+"540","CotitodeSantaTeresa",2015,"Cistus","salvifolius","A3","a",0.0959,46,0.03728,NA
+"541","CotitodeSantaTeresa",2015,"Cistus","salvifolius","A3","b",0.08175,51,0.0371,NA
+"542","CotitodeSantaTeresa",2015,"Cistus","salvifolius","B1","a",0.09982,31,0.04408,NA
+"543","CotitodeSantaTeresa",2015,"Cistus","salvifolius","B1","b",0.10173,48,0.05244,NA
+"544","CotitodeSantaTeresa",2015,"Cistus","salvifolius","B2","a",0.08438,34,0.03787,NA
+"545","CotitodeSantaTeresa",2015,"Cistus","salvifolius","B2","b",0.07961,32,0.03683,NA
+"546","CotitodeSantaTeresa",2015,"Cistus","salvifolius","B3","a",0.0872,46,0.04662,NA
+"547","CotitodeSantaTeresa",2015,"Cistus","albidus","A1","a",0.15217,91,0.07489,NA
+"548","CotitodeSantaTeresa",2015,"Cistus","albidus","A1","b",0.13351,89,0.07306,NA
+"549","CotitodeSantaTeresa",2015,"Cistus","albidus","A2","a",0.09047,48,0.04717,NA
+"550","CotitodeSantaTeresa",2015,"Cistus","albidus","A2","b",0.09882,0,0,"Predado"
+"551","CotitodeSantaTeresa",2015,"Cistus","albidus","A2","c",0.14952,111,0.08912,NA
+"552","CotitodeSantaTeresa",2015,"Cistus","albidus","B1","a",0.14902,0,0,"Predado"
+"553","CotitodeSantaTeresa",2015,"Cistus","albidus","B1","b",0.15561,106,0.0849,NA
+"554","CotitodeSantaTeresa",2015,"Cistus","albidus","B2","a",0.14472,88,0.06886,NA
+"555","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A1","a",0.00427,3,0.00092,"1 aborto"
+"556","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A1","a",0.00427,3,0.002,NA
+"557","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A1","b",0.00442,2,0.00097,"2 abortos"
+"558","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A1","b",0.00442,2,0.00071,NA
+"559","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A1","c",0.00272,1,0.00095,"3 abortos"
+"560","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A2","a",0.00725,3,0.00108,"1 aborto"
+"561","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A2","a",0.00725,3,0.00206,NA
+"562","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A2","b",0.00459,2,0.00082,"2 abortos"
+"563","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A2","b",0.00459,2,0.0091,NA
+"564","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A3","a",0.00469,2,0.00088,"2 abortos"
+"565","CotitodeSantaTeresa",2015,"Lavandula","stoechas","A3","a",0.00469,2,0.00091,NA
+"566","Lasmulas",2015,"Cistus","libanotis","A1","a",0.02311,16,0.01349,NA
+"567","Lasmulas",2015,"Cistus","libanotis","A1","b",0.02398,0,0,"Predado"
+"568","Lasmulas",2015,"Cistus","libanotis","A1","c",0.03741,15,0.01455,NA
+"569","Lasmulas",2015,"Cistus","libanotis","A2","a",0.0218,12,0.00639,NA
+"570","Lasmulas",2015,"Cistus","libanotis","A3","a",0.0162,10,0.00836,NA
+"571","Lasmulas",2015,"Cistus","libanotis","B1","a",0.02716,16,0.01255,NA
+"572","Lasmulas",2015,"Cistus","libanotis","B1","b",0.02681,10,0.00825,NA
+"573","Lasmulas",2015,"Cistus","libanotis","B2","a",0.02432,9,0.00733,NA
+"574","Lasmulas",2015,"Cistus","libanotis","B2","b",0.02511,11,0.00987,NA
+"575","Lasmulas",2015,"Cistus","libanotis","B3","a",0.02791,20,0.0167,NA
+"576","Lasmulas",2015,"Lavandula","stoechas","A1","a",0.00297,2,0.00028,NA
+"577","Lasmulas",2015,"Lavandula","stoechas","A1","b",0.00548,3,0.00051,"1 aborto"
+"578","Lasmulas",2015,"Lavandula","stoechas","A1","b",0.00548,3,0.00093,NA
+"579","Lasmulas",2015,"Lavandula","stoechas","A1","c",0.0041,2,0.00079,"2 abortos"
+"580","Lasmulas",2015,"Lavandula","stoechas","A1","c",0.0041,2,0.00075,NA
+"581","Lasmulas",2015,"Lavandula","stoechas","A2","a",0.00474,4,0.00045,NA
+"582","Lasmulas",2015,"Lavandula","stoechas","A2","b",0.0064,3,0.00061,"1 aborto"
+"583","Lasmulas",2015,"Lavandula","stoechas","A2","b",0.0064,3,0.00113,NA
+"584","Lasmulas",2015,"Lavandula","stoechas","A3","a",0.00522,2,0.00064,"2 abortos"
+"585","Lasmulas",2015,"Lavandula","stoechas","A3","a",0.00522,2,0.00059,NA
+"586","Lasmulas",2015,"Lavandula","stoechas","B1","a",0.00549,4,0.00133,NA
+"587","Lasmulas",2015,"Lavandula","stoechas","B1","b",0.0059,4,0.00162,NA
+"588","Lasmulas",2015,"Lavandula","stoechas","B2","a",0.0072,4,0.00222,NA
+"589","Lasmulas",2015,"Lavandula","stoechas","B3","a",0.00476,2,4e-04,"2 abortos"
+"590","Lasmulas",2015,"Lavandula","stoechas","B3","a",0.00476,2,0.00046,NA
+"591","Lasmulas",2015,"Lavandula","stoechas","B3","b",0.00375,2,0.00046,"2 abortos"
+"592","Lasmulas",2015,"Lavandula","stoechas","B3","b",0.00375,2,0.00035,NA
+"593","Lasmulas",2015,"Lavandula","stoechas","C1","a",0.00354,2,0.00043,"2 abortos"
+"594","Lasmulas",2015,"Lavandula","stoechas","C1","a",0.00354,2,0.00057,NA
+"595","Lasmulas",2015,"Lavandula","stoechas","C1","b",0.00252,0,0,"Predado"
+"596","Lasmulas",2015,"Lavandula","stoechas","C1","c",0.00286,1,0.00035,"2 abortos"
+"597","Lasmulas",2015,"Lavandula","stoechas","C2","a",0.00305,1,0.00029,"1 aborto"
+"598","Lasmulas",2015,"Lavandula","stoechas","C3","a",0.0062,4,0.00182,NA
+"599","Lasmulas",2015,"Cistus","ladanifer","A1","a",0.36951,326,0.09893,NA
+"600","Lasmulas",2015,"Cistus","ladanifer","A2","a",0.42075,407,0.11671,NA
+"601","Lasmulas",2015,"Cistus","ladanifer","A2","b",0.47543,593,0.1395,NA
+"602","Lasmulas",2015,"Cistus","ladanifer","A3","a",0.31742,288,0.08383,NA
+"603","Lasmulas",2015,"Cistus","ladanifer","B3","a",0.41135,520,0.12319,NA
+"604","Lasmulas",2015,"Halimium","commutatum","A3","a",0.02335,3,0.00745,NA
+"605","Lasmulas",2015,"Halimium","commutatum","A3","b",0.01797,0,0,"Predado"
+"606","Lasmulas",2015,"Halimium","commutatum","B2","a",0.03137,3,0.00985,NA
+"607","Lasmulas",2015,"Cistus","salvifolius","A1","a",0.07596,0,0,"Predado"
+"608","Lasmulas",2015,"Cistus","salvifolius","A1","b",0.10567,42,0.04114,NA
+"609","Lasmulas",2015,"Cistus","salvifolius","A2","a",0.09615,34,0.03937,NA
+"610","Lasmulas",2015,"Cistus","salvifolius","A3","a",0.10332,40,0.05292,NA
+"611","Lasmulas",2015,"Cistus","salvifolius","B1","a",0.09885,53,0.05298,NA
+"612","Lasmulas",2015,"Cistus","salvifolius","B1","b",0.10868,61,0.05618,NA
+"613","Lasmulas",2015,"Cistus","salvifolius","B1","c",0.10548,59,0.06128,NA
+"614","Villamanriqueeste",2015,"Cistus","salvifolius","A1","a",0.11175,19,0.02509,NA
+"615","Villamanriqueeste",2015,"Cistus","salvifolius","A1","b",0.05883,14,0.01889,NA
+"616","Villamanriqueeste",2015,"Cistus","salvifolius","A1","c",0.04486,0,0,"Predado"
+"617","Villamanriqueeste",2015,"Cistus","salvifolius","A2","a",0.11613,52,0.05686,NA
+"618","Villamanriqueeste",2015,"Cistus","salvifolius","A2","b",0.15003,63,0.07303,NA
+"619","Villamanriqueeste",2015,"Cistus","salvifolius","A2","c",0.10818,53,0.05394,NA
+"620","Villamanriquesur",2015,"Halimium","halimifolium","A1","a",0.04139,25,0.01152,NA
+"621","Villamanriquesur",2015,"Halimium","halimifolium","A1","b",0.02681,15,0.00394,NA
+"622","Villamanriquesur",2015,"Halimium","halimifolium","A2","a",0.0391,20,0.00829,NA
+"623","Villamanriquesur",2015,"Halimium","halimifolium","A2","b",0.03138,21,0.00389,NA
+"624","Villamanriquesur",2015,"Halimium","halimifolium","A3","a",0.02288,4,0.00243,NA
+"625","Villamanriquesur",2015,"Halimium","halimifolium","B1","a",0.03127,15,0.00236,NA
+"626","Villamanriquesur",2015,"Halimium","halimifolium","B1","b",0.0432,26,0.00767,NA
+"627","Villamanriquesur",2015,"Halimium","halimifolium","B2","a",0.03763,13,0.00582,NA
+"628","Villamanriquesur",2015,"Halimium","halimifolium","B2","b",0.03359,17,0.00705,NA
+"629","Villamanriquesur",2015,"Halimium","halimifolium","B3","a",0.03655,25,0.01051,NA
+"630","Villamanriquesur",2015,"Cistus","crispus","A1","a",0.0202,0,0,"Predado"
+"631","Villamanriquesur",2015,"Cistus","crispus","A1","b",0.02262,0,0,"Predado"
+"632","Villamanriquesur",2015,"Cistus","crispus","A1","c",0.01932,0,0,"Predado"
+"633","Villamanriquesur",2015,"Cistus","crispus","A1","d",0.0218,0,0,"Predado"
+"634","Villamanriquesur",2015,"Cistus","crispus","A1","e",0.03855,0,0,"Predado"
+"635","Villamanriquesur",2015,"Cistus","crispus","B1","a",0.08967,54,0.02584,NA
+"636","Villamanriquesur",2015,"Cistus","crispus","B1","b",0.05972,33,0.01613,NA
+"637","Villamanriquesur",2015,"Cistus","crispus","B2","a",0.10664,68,0.03459,NA
+"638","Villamanriquesur",2015,"Cistus","crispus","B2","b",0.05508,40,0.01758,NA
+"639","Villamanriquesur",2015,"Cistus","crispus","B2","c",0.0629,14,0.00865,NA
+"640","Villamanriquesur",2015,"Cistus","crispus","B2","d",0.0737,29,0.01549,NA
+"641","Villamanriquesur",2015,"Cistus","salvifolius","A1","a",0.12077,48,0.06051,NA
+"642","Villamanriquesur",2015,"Cistus","salvifolius","A1","b",0.12729,52,0.06324,NA
+"643","Villamanriquesur",2015,"Cistus","salvifolius","A1","c",0.1248,43,0.05675,NA
+"644","Villamanriquesur",2015,"Cistus","salvifolius","A1","d",0.13632,49,0.06278,NA
+"645","Villamanriquesur",2015,"Cistus","ladanifer","A1","a",0.46902,580,0.17449,NA
+"646","Villamanriquesur",2015,"Cistus","ladanifer","A1","b",0.47118,411,0.13702,NA
+"647","Villamanriquesur",2015,"Cistus","ladanifer","B1","b",0.32672,320,0.1052,NA
+"648","Villamanriquesur",2015,"Cistus","ladanifer","B1","c",0.41333,416,0.12793,NA
+"649","Villamanriquesur",2015,"Lavandula","stoechas","A3","a",0.00369,2,0.00142,NA
+"650","Villamanriquesur",2015,"Lavandula","stoechas","A3","b",0.00521,3,0.00118,NA
+"651","Villamanriquesur",2015,"Lavandula","stoechas","A3","c",0.00427,2,0.00161,NA
+"652","Villamanriquesur",2015,"Lavandula","stoechas","B1","a",0.00347,1,0.00121,NA
+"653","Villamanriquesur",2015,"Lavandula","stoechas","B1","b",0.00436,1,0.00117,NA
+"654","Villamanriquesur",2015,"Lavandula","stoechas","B1","c",0.00427,1,0.00104,NA
+"655","Villamanriquesur",2015,"Lavandula","stoechas","B2","a",0.00362,0,0,"Predado"
+"656","Villamanriquesur",2015,"Lavandula","stoechas","B2","b",0.00409,1,0.00095,NA
+"657","Elpinar",2015,"Rosmarinus","officinalis","A1","a",0.00303,2,0.00073,"1 aborto"
+"658","Elpinar",2015,"Rosmarinus","officinalis","A1","a",0.00303,2,0.00049,NA
+"659","Elpinar",2015,"Rosmarinus","officinalis","A1","b",0.00214,3,0.00101,NA
+"660","Elpinar",2015,"Rosmarinus","officinalis","A1","c",0.00198,4,0.00127,NA
+"661","Elpinar",2015,"Rosmarinus","officinalis","A2","a",0.00251,4,0.00181,NA
+"662","Elpinar",2015,"Rosmarinus","officinalis","A2","b",0.00299,3,0.00061,"1 aborto"
+"663","Elpinar",2015,"Rosmarinus","officinalis","A2","b",0.00299,3,0.00127,NA
+"664","Elpinar",2015,"Rosmarinus","officinalis","A3","a",0.00184,4,0.00088,NA
+"665","Elpinar",2015,"Rosmarinus","officinalis","B1","a",0.00227,1,0.00072,"3 abortos"
+"666","Elpinar",2015,"Rosmarinus","officinalis","B1","b",0.0025,2,0.00049,"2 abortos"
+"667","Elpinar",2015,"Rosmarinus","officinalis","B1","b",0.0025,2,0.00054,NA
+"668","Elpinar",2015,"Rosmarinus","officinalis","B2","a",0.0022,2,4e-04,"2 abortos"
+"669","Elpinar",2015,"Rosmarinus","officinalis","B2","a",0.0022,2,0.00039,NA
+"670","Elpinar",2015,"Rosmarinus","officinalis","B2","b",0.0029,1,0.00105,"2 abortos"
+"671","Elpinar",2015,"Rosmarinus","officinalis","B3","a",0.00225,2,0.00053,"2 abortos"
+"672","Elpinar",2015,"Rosmarinus","officinalis","B3","a",0.00225,2,0.00041,NA
+"673","Elpinar",2015,"Rosmarinus","officinalis","C1","a",0.00216,2,0.00045,"2 abortos"
+"674","Elpinar",2015,"Rosmarinus","officinalis","C1","a",0.00216,2,0.00047,NA
+"675","Elpinar",2015,"Rosmarinus","officinalis","C3","a",0.00207,2,0.00046,"2 abortos"
+"676","Elpinar",2015,"Rosmarinus","officinalis","C3","a",0.00207,2,0.00052,NA
+"677","Elpinar",2015,"Rosmarinus","officinalis","C3","b",0.00255,3,0.00034,"1 aborto"
+"678","Elpinar",2015,"Rosmarinus","officinalis","C3","b",0.00255,3,0.00071,NA
+"679","Elpinar",2015,"Rosmarinus","officinalis","C3","c",0.00204,1,0.00075,"3 abortos"
+"680","PinaresdeHinojos",2015,"Cistus","libanotis","A1","a",0.02612,13,0.00641,NA
+"681","PinaresdeHinojos",2015,"Cistus","libanotis","A2","a",0.02603,21,0.00539,NA
+"682","PinaresdeHinojos",2015,"Cistus","libanotis","A3","a",0.02101,9,0.00591,NA
+"683","PinaresdeHinojos",2015,"Cistus","libanotis","A3","b",0.02362,16,0.00772,NA
+"684","PinaresdeHinojos",2015,"Cistus","libanotis","B1","a",0.04496,12,0.00943,NA
+"685","PinaresdeHinojos",2015,"Cistus","libanotis","B1","b",0.03745,16,0.01073,NA
+"686","PinaresdeHinojos",2015,"Cistus","libanotis","B2","a",0.042,13,0.01167,NA
+"687","PinaresdeHinojos",2015,"Cistus","libanotis","B3","a",0.03979,21,0.01279,NA
+"688","PinaresdeHinojos",2015,"Cistus","libanotis","B3","b",0.05684,24,0.02079,NA
+"689","PinaresdeHinojos",2015,"Cistus","salvifolius","A1","a",0.10492,33,0.03699,NA
+"690","PinaresdeHinojos",2015,"Cistus","salvifolius","A1","b",0.14251,37,0.05754,NA
+"691","PinaresdeHinojos",2015,"Cistus","salvifolius","A2","a",0.14877,44,0.06889,NA
+"692","PinaresdeHinojos",2015,"Cistus","salvifolius","A3","a",0.10559,36,0.05092,NA
+"693","PinaresdeHinojos",2015,"Cistus","salvifolius","B1","a",0.06592,0,0,"Predado"
+"694","PinaresdeHinojos",2015,"Cistus","salvifolius","B1","b",0.08923,22,0.0296,NA
+"695","PinaresdeHinojos",2015,"Cistus","salvifolius","B2","a",0.10248,44,0.05498,NA
+"696","PinaresdeHinojos",2015,"Cistus","salvifolius","B2","b",0.10526,30,0.04464,NA
+"697","PinaresdeHinojos",2015,"Cistus","salvifolius","B3","a",0.10817,62,0.0537,NA
+"698","PinaresdeHinojos",2015,"Retama","sphaerocarpa","B2","a",0.14628,3,0.0066,"Predado"
+"699","PinaresdeHinojos",2015,"Retama","sphaerocarpa","B2","a",0.14628,3,0.01322,NA
+"700","Esparragal",2015,"Halimium","halimifolium","A1","a",0.04837,13,0.00777,NA
+"701","Esparragal",2015,"Halimium","halimifolium","A1","b",0.04989,14,0.00709,NA
+"702","Esparragal",2015,"Halimium","halimifolium","A1","c",0.04782,12,0.00687,NA
+"703","Esparragal",2015,"Halimium","halimifolium","A2","a",0.05037,16,0.00724,NA
+"704","Esparragal",2015,"Halimium","halimifolium","A2","b",0.04675,12,0.0067,NA
+"705","Esparragal",2015,"Halimium","halimifolium","A3","a",0.04763,6,0.00383,NA
+"706","Esparragal",2015,"Halimium","halimifolium","A3","b",0.05706,15,0.00869,NA
+"707","Esparragal",2015,"Cistus","salvifolius","A1","a",0.0653,20,0.0243,NA
+"708","Esparragal",2015,"Cistus","salvifolius","A1","b",0.05419,0,0,NA
+"709","Esparragal",2015,"Cistus","salvifolius","A2","a",0.07719,14,0.01332,NA
+"710","Esparragal",2015,"Cistus","salvifolius","A3","a",0.07258,13,0.01737,NA
+"711","Esparragal",2015,"Lavandula","pedunculata","A1","a",0.00265,2,0.00116,NA
+"712","Esparragal",2015,"Lavandula","pedunculata","A1","b",0.00303,1,0.00086,NA
+"713","Esparragal",2015,"Lavandula","pedunculata","A2","a",0.00307,3,0.00064,NA
+"714","Esparragal",2015,"Lavandula","pedunculata","A2","b",0.00375,2,0.00151,NA
+"715","Esparragal",2015,"Lavandula","pedunculata","A3","a",0.00295,0,0,"Predado"
+"716","Esparragal",2015,"Lavandula","pedunculata","A3","b",0.00339,1,0.00089,NA
+"717","Esparragal",2015,"Lavandula","pedunculata","A3","c",0.0023,0,0,"Predado"
+"718","Esparragal",2015,"Lavandula","pedunculata","B1","a",0.00195,3,0.00011,NA
+"719","Esparragal",2015,"Lavandula","pedunculata","B1","b",0.00225,2,2e-04,NA
+"720","Esparragal",2015,"Lavandula","pedunculata","B1","c",0.00196,1,5e-05,NA
+"721","Esparragal",2015,"Lavandula","pedunculata","B2","a",0.00143,1,3e-05,NA
+"722","Esparragal",2015,"Lavandula","pedunculata","B2","b",0.0014,0,0,"Predado"
+"723","Esparragal",2015,"Lavandula","pedunculata","B2","c",0.00202,1,0.00018,NA
+"724","Esparragal",2015,"Lavandula","pedunculata","B3","a",0.00234,1,0.00062,NA
+"725","Esparragal",2015,"Lavandula","pedunculata","B3","b",0.00148,0,0,"Predado"
+"726","Esparragal",2015,"Lavandula","pedunculata","B3","c",0.00245,2,0.00097,NA
