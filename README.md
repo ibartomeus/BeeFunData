@@ -10,7 +10,7 @@ You have to install the package from GitHub. Thats easy:
 ```
 install.packages("devtools")
 require(devtools)
-install_github("BeeFunData", "ibartomeus")
+install_github("ibartomeus/BeeFunData", ref = "fun")
 library(BeeFunData)
 ```
 
