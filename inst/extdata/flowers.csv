@@ -1,0 +1,951 @@
+"","Site_ID","Day","Month","Year","Round","Plot","Plant.genus","Plant.species","Flower.abundance"
+"1","Aznalcazar",22,2,2015,1,1,"Asphodelus","fistulosus",50
+"2","Aznalcazar",22,2,2015,1,5,"Teucrium","fruticans",12
+"3","Aznalcazar",22,2,2015,1,6,"Teucrium","fruticans",1
+"4","Aznalcazar",22,2,2015,1,8,"Rosmarinus","officinalis",6
+"5","Aznalcazar",22,2,2015,1,9,"Cistus ","ladanifer",1
+"6","Aznalcazar",22,2,2015,1,9,"Rosmarinus","officinalis",8
+"7","Villamanrique  sur",22,2,2015,1,2,"Rosmarinus","officinalis",100
+"8","Cotito de Santa Teresa",23,2,2015,1,1,"Ulex","australis",53
+"9","Cotito de Santa Teresa",23,2,2015,1,2,"Ulex","australis",6
+"10","Cotito de Santa Teresa",23,2,2015,1,4,"Ulex","australis",71
+"11","Cotito de Santa Teresa",23,2,2015,1,5,"Ulex","australis",17
+"12","Esparragal",24,2,2015,1,2,"Ulex","australis",20
+"13","Esparragal",24,2,2015,1,2,"Halimium ","commutatum",15
+"14","Esparragal",24,2,2015,1,4,"Halimium ","commutatum",16
+"15","La cuña",24,2,2015,1,3,"Rosmarinus","officinalis",10
+"16","La Rocina",24,2,2015,1,1,"Rosmarinus","officinalis",21
+"17","La Rocina",24,2,2015,1,4,"Halimium ","commutatum",1
+"18","La Rocina",24,2,2015,1,5,"Rosmarinus","officinalis",2
+"19","La Rocina",24,2,2015,1,5,"Halimium ","commutatum",1
+"20","La Rocina",24,2,2015,1,7,"Halimium ","commutatum",2
+"21","La Rocina",24,2,2015,1,10,"Halimium ","commutatum",2
+"22","Las mulas",24,2,2015,1,6,"Rosmarinus","officinalis",30
+"23","El pozo",25,2,2015,1,1,"Ulex","australis",2
+"24","El pozo",25,2,2015,1,1,"Rosmarinus","officinalis",2
+"25","El pozo",25,2,2015,1,1,"Erica ","scoparia",400
+"26","El pozo",25,2,2015,1,6,"Halimium ","commutatum",35
+"27","El pozo",25,2,2015,1,7,"Rosmarinus","officinalis",1300
+"28","Pino del Cuervo",25,2,2015,1,3,"Ulex","australis",10
+"29","Pino del Cuervo",25,2,2015,1,4,"Halimium ","commutatum",2
+"30","Pino del Cuervo",25,2,2015,1,7,"Ulex","australis",140
+"31","Pino del Cuervo",25,2,2015,1,10,"Ulex","australis",1
+"32","Bonares",25,2,2015,1,7,"Halimium ","commutatum",6
+"33","Bonares",25,2,2015,1,9,"Cistus ","salvifolius",2
+"34","Bonares",25,2,2015,1,9,"Ulex","australis",2
+"35","Niebla",26,2,2015,1,3,"Asphodelus","fistulosus",18
+"36","Convento de la Luz",26,2,2015,1,1,"Ulex","australis",2
+"37","Convento de la Luz",26,2,2015,1,1,"Rosmarinus","officinalis",83
+"38","Convento de la Luz",26,2,2015,1,5,"Ulex","australis",6
+"39","Convento de la Luz",26,2,2015,1,9,"Ulex","australis",8
+"40","Urbanizaciones",26,2,2015,1,1,"Rosmarinus","officinalis",185
+"41","Urbanizaciones",26,2,2015,1,3,"Ulex","australis",13
+"42","Urbanizaciones",26,2,2015,1,10,"Halimium ","commutatum",35
+"43","Urbanizaciones",26,2,2015,1,10,"Ulex","australis",22
+"44","Aznalcazar",3,3,2015,2,4,"Teucrium","fruticans",15
+"45","Aznalcazar",3,3,2015,2,5,"Teucrium","fruticans",9
+"46","Aznalcazar",3,3,2015,2,7,"Rosmarinus","officinalis",11
+"47","Villamanrique  sur",3,3,2015,2,2,"Rosmarinus","officinalis",205
+"48","Villamanrique  sur",3,3,2015,2,5,"Halimium ","commutatum",5
+"49","Villamanrique este",3,3,2015,1,3,"Rosmarinus","officinalis",3
+"50","Villamanrique este",3,3,2015,1,5,"Rosmarinus","officinalis",330
+"51","Villamanrique este",3,3,2015,1,6,"Rosmarinus","officinalis",35
+"52","Villamanrique este",3,3,2015,1,9,"Rosmarinus","officinalis",17
+"53","Cotito de Santa Teresa",4,3,2015,2,3,"Ulex","australis",3
+"54","Cotito de Santa Teresa",4,3,2015,2,4,"Ulex","australis",2
+"55","Cotito de Santa Teresa",4,3,2015,2,6,"Lavandula","stoechas",57
+"56","Cotito de Santa Teresa",4,3,2015,2,7,"Ulex","australis",9
+"57","Cotito de Santa Teresa",4,3,2015,2,9,"Rosmarinus","officinalis",45
+"58","Cotito de Santa Teresa",4,3,2015,2,10,"Rosmarinus","officinalis",140
+"59","Las mulas",4,3,2015,2,1,"Cistus ","ladanifer",1
+"60","Las mulas",4,3,2015,2,5,"Rosmarinus","officinalis",15
+"61","Las mulas",4,3,2015,2,6,"Rosmarinus","officinalis",35
+"62","Las mulas",4,3,2015,2,7,"Rosmarinus","officinalis",126
+"63","Las mulas",4,3,2015,2,8,"Rosmarinus","officinalis",42
+"64","Las mulas",4,3,2015,2,10,"Rosmarinus","officinalis",25
+"65","La Rocina",5,3,2015,2,1,"Halimium ","commutatum",3
+"66","La Rocina",5,3,2015,2,2,"Halimium ","commutatum",12
+"67","La Rocina",5,3,2015,2,2,"Rosmarinus","officinalis",60
+"68","La Rocina",5,3,2015,2,3,"Halimium ","commutatum",20
+"69","La Rocina",5,3,2015,2,4,"Halimium ","commutatum",25
+"70","La Rocina",5,3,2015,2,5,"Halimium ","commutatum",48
+"71","La Rocina",5,3,2015,2,7,"Halimium ","commutatum",18
+"72","La Rocina",5,3,2015,2,8,"Halimium ","commutatum",5
+"73","La Rocina",5,3,2015,2,9,"Halimium ","commutatum",14
+"74","La Rocina",5,3,2015,2,10,"Halimium ","commutatum",35
+"75","La cuña",5,3,2015,2,6,"Halimium ","commutatum",2
+"76","La cuña",5,3,2015,2,7,"Halimium ","commutatum",1
+"77","La cuña",5,3,2015,2,8,"Halimium ","commutatum",2
+"78","La cuña",5,3,2015,2,9,"Halimium ","commutatum",8
+"79","La cuña",5,3,2015,2,9,"Rosmarinus","officinalis",3
+"80","La cuña",5,3,2015,2,9,"Ulex","australis",8
+"81","Esparragal",5,3,2015,2,1,"Halimium ","commutatum",18
+"82","Esparragal",5,3,2015,2,2,"Ulex","australis",2
+"83","Esparragal",5,3,2015,2,3,"Halimium ","commutatum",52
+"84","Esparragal",5,3,2015,2,4,"Ulex","australis",1
+"85","Esparragal",5,3,2015,2,9,"Halimium ","commutatum",15
+"86","Esparragal",5,3,2015,2,10,"Lavandula","stoechas",18
+"87","Niebla",5,3,2015,2,2,"Asphodelus","fistulosus",10
+"88","Niebla",5,3,2015,2,7,"Raphanus ","raphanistrum",7
+"89","Bonares",6,3,2015,2,1,"Cistus ","salvifolius",10
+"90","Bonares",6,3,2015,2,2,"Cistus ","salvifolius",2
+"91","Bonares",6,3,2015,2,2,"Halimium ","commutatum",49
+"92","Bonares",6,3,2015,2,3,"Cistus ","salvifolius",21
+"93","Bonares",6,3,2015,2,5,"Cistus ","salvifolius",1
+"94","Bonares",6,3,2015,2,6,"Lavandula","stoechas",83
+"95","Bonares",6,3,2015,2,7,"Cistus ","salvifolius",1
+"96","Bonares",6,3,2015,2,8,"Cistus ","ladanifer",4
+"97","Bonares",6,3,2015,2,8,"Cistus ","salvifolius",2
+"98","Bonares",6,3,2015,2,9,"Cistus ","salvifolius",1
+"99","Convento de la Luz",6,3,2015,2,1,"Spartium ","junceum",8
+"100","Convento de la Luz",6,3,2015,2,3,"Rosmarinus","officinalis",220
+"101","Convento de la Luz",6,3,2015,2,4,"Ulex","australis",12
+"102","Convento de la Luz",6,3,2015,2,6,"Ulex","australis",2
+"103","Pino del Cuervo",6,3,2015,2,1,"Ulex","australis",11
+"104","Pino del Cuervo",6,3,2015,2,4,"Halimium ","commutatum",4
+"105","Pino del Cuervo",6,3,2015,2,5,"Ulex","australis",12
+"106","Pino del Cuervo",6,3,2015,2,7,"Ulex","australis",28
+"107","Pino del Cuervo",6,3,2015,2,8,"Ulex","australis",6
+"108","El pozo",6,3,2015,2,1,"Rosmarinus","officinalis",110
+"109","El pozo",6,3,2015,2,1,"Ulex","australis",5
+"110","El pozo",6,3,2015,2,1,"Erica ","scoparia",35
+"111","El pozo",6,3,2015,2,2,"Ulex","australis",6
+"112","El pozo",6,3,2015,2,2,"Rosmarinus","officinalis",45
+"113","El pozo",6,3,2015,2,7,"Halimium ","commutatum",1
+"114","El pozo",6,3,2015,2,8,"Rosmarinus","officinalis",165
+"115","El pinar",10,3,2015,1,9,"Lavandula","stoechas",3
+"116","Urbanizaciones",10,3,2015,2,1,"Rosmarinus","officinalis",75
+"117","Urbanizaciones",10,3,2015,2,2,"Rosmarinus","officinalis",55
+"118","Urbanizaciones",10,3,2015,2,3,"Ulex","australis",1
+"119","Urbanizaciones",10,3,2015,2,4,"Ulex","australis",2
+"120","Urbanizaciones",10,3,2015,2,5,"Rosmarinus","officinalis",30
+"121","Urbanizaciones",10,3,2015,2,10,"Halimium ","commutatum",15
+"122","Urbanizaciones",10,3,2015,2,10,"Ulex","australis",1
+"123","Bonares",11,3,2015,3,1,"Cistus ","salvifolius",27
+"124","Bonares",11,3,2015,3,2,"Cistus ","salvifolius",2
+"125","Bonares",11,3,2015,3,2,"Halimium ","commutatum",4
+"126","Bonares",11,3,2015,3,3,"Halimium ","commutatum",57
+"127","Bonares",11,3,2015,3,4,"Cistus ","salvifolius",4
+"128","Bonares",11,3,2015,3,4,"Halimium ","commutatum",19
+"129","Bonares",11,3,2015,3,6,"Cistus ","salvifolius",47
+"130","Bonares",11,3,2015,3,6,"Lavandula","stoechas",260
+"131","Bonares",11,3,2015,3,7,"Lavandula","stoechas",180
+"132","Bonares",11,3,2015,3,8,"Cistus ","salvifolius",10
+"133","Bonares",11,3,2015,3,9,"Lavandula","stoechas",300
+"134","Bonares",11,3,2015,3,10,"Cistus ","ladanifer",1
+"135","Niebla",13,3,2015,3,3,"Raphanus ","raphanistrum",12
+"136","Niebla",13,3,2015,3,3,"Lupinus ","angustifolius",1
+"137","Niebla",13,3,2015,3,5,"Leontodon ","sp",4
+"138","Niebla",13,3,2015,3,6,"Lupinus ","angustifolius",8
+"139","Niebla",13,3,2015,3,7,"Lavandula","stoechas",120
+"140","Niebla",13,3,2015,3,8,"Leontodon ","sp",5
+"141","Niebla",13,3,2015,3,9,"Astragalus ","lusitanicus",110
+"142","Convento de la Luz",13,3,2015,3,1,"Muscari ","comosum",8
+"143","Convento de la Luz",13,3,2015,3,1,"Spartium ","junceum",42
+"144","Convento de la Luz",13,3,2015,3,2,"Aristoloquia","baetica",2
+"145","Convento de la Luz",13,3,2015,3,3,"Rosmarinus","officinalis",90
+"146","Convento de la Luz",13,3,2015,3,4,"Cistus ","ladanifer",15
+"147","Convento de la Luz",13,3,2015,3,5,"Cistus ","ladanifer",11
+"148","Convento de la Luz",13,3,2015,3,5,"Lavandula","stoechas",140
+"149","Convento de la Luz",13,3,2015,3,6,"Cistus ","ladanifer",2
+"150","Esparragal",13,3,2015,3,1,"Halimium ","commutatum",14
+"151","Esparragal",13,3,2015,3,2,"Halimium ","commutatum",2
+"152","Esparragal",13,3,2015,3,2,"Lavandula","stoechas",70
+"153","Esparragal",13,3,2015,3,4,"Cistus ","salvifolius",3
+"154","Esparragal",13,3,2015,3,9,"Lavandula","stoechas",40
+"155","Esparragal",13,3,2015,3,10,"Lavandula","stoechas",320
+"156","La Rocina",16,3,2015,3,1,"Rosmarinus","officinalis",380
+"157","La Rocina",16,3,2015,3,1,"Halimium ","commutatum",7
+"158","La Rocina",16,3,2015,3,1,"Diplotaxis ","virgata",5
+"159","La Rocina",16,3,2015,3,2,"Halimium ","commutatum",3
+"160","La Rocina",16,3,2015,3,2,"Spartium ","junceum",2
+"161","La Rocina",16,3,2015,3,3,"Halimium ","commutatum",43
+"162","La Rocina",16,3,2015,3,4,"Halimium ","commutatum",21
+"163","La Rocina",16,3,2015,3,4,"Fritillaria","lusitanica",1
+"164","La Rocina",16,3,2015,3,4,"Diplotaxis ","virgata",4
+"165","La Rocina",16,3,2015,3,5,"Halimium ","commutatum",22
+"166","La Rocina",16,3,2015,3,5,"Linaria","viscosa",4
+"167","La Rocina",16,3,2015,3,5,"Diplotaxis ","virgata",4
+"168","La Rocina",16,3,2015,3,6,"Halimium ","commutatum",88
+"169","La Rocina",16,3,2015,3,7,"Halimium ","commutatum",10
+"170","La Rocina",16,3,2015,3,8,"Halimium ","commutatum",6
+"171","La Rocina",16,3,2015,3,8,"Rosmarinus","officinalis",42
+"172","La Rocina",16,3,2015,3,9,"Halimium ","commutatum",33
+"173","La Rocina",16,3,2015,3,9,"Rosmarinus","officinalis",14
+"174","La cuña",16,3,2015,3,8,"Halimium ","commutatum",14
+"175","La cuña",16,3,2015,3,9,"Halimium ","commutatum",1
+"176","La cuña",16,3,2015,3,10,"Lavandula","stoechas",110
+"177","Urbanizaciones",16,3,2015,3,1,"Rosmarinus","officinalis",190
+"178","Urbanizaciones",16,3,2015,3,1,"Halimium ","commutatum",2
+"179","Urbanizaciones",16,3,2015,3,2,"Rosmarinus","officinallis",30
+"180","Urbanizaciones",16,3,2015,3,5,"Rosmarinus","officinallis",45
+"181","Urbanizaciones",16,3,2015,3,10,"Halimium ","commutatum",15
+"182","El pozo",16,3,2015,3,1,"Rosmarinus","officinalis",57
+"183","El pozo",16,3,2015,3,1,"Erica ","scoparia",18
+"184","El pozo",16,3,2015,3,2,"Rosmarinus","officinalis",52
+"185","El pozo",16,3,2015,3,3,"Rosmarinus","officinalis",35
+"186","El pozo",16,3,2015,3,3,"Cistus ","ladanifer",5
+"187","El pozo",16,3,2015,3,6,"Rosmarinus","officinalis",95
+"188","El pozo",16,3,2015,3,7,"Rosmarinus","officinalis",220
+"189","El pozo",16,3,2015,3,7,"Halimium ","commutatum",2
+"190","El pozo",16,3,2015,3,8,"Cistus ","ladanifer",4
+"191","El pozo",16,3,2015,3,9,"Rosmarinus","officinalis",240
+"192","El pozo",16,3,2015,3,9,"Cistus ","ladanifer",3
+"193","Aznalcazar",24,3,2015,3,1,"Asphodelus","fistulosus",21
+"194","Aznalcazar",24,3,2015,3,2,"Lavandula","stoechas",200
+"195","Aznalcazar",24,3,2015,3,5,"Teucrium","fruticans",25
+"196","Aznalcazar",24,3,2015,3,6,"Cistus ","salvifolius",1
+"197","Aznalcazar",24,3,2015,3,6,"Teucrium","fruticans",15
+"198","Aznalcazar",24,3,2015,3,8,"Rosmarinus","officinalis",100
+"199","Aznalcazar",24,3,2015,3,9,"Cistus ","salvifolius",2
+"200","Villamanrique  sur",24,3,2015,3,2,"Rosmarinus","officinalis",85
+"201","Villamanrique  sur",24,3,2015,3,3,"Ranunculus","sp",3
+"202","Villamanrique  sur",24,3,2015,3,3,"Cistus ","salvifolius",2
+"203","Villamanrique  sur",24,3,2015,3,4,"Cistus ","salvifolius",1
+"204","Villamanrique  sur",24,3,2015,3,5,"Halimium ","commutatum",25
+"205","Villamanrique  sur",24,3,2015,3,7,"Cistus ","salvifolius",1
+"206","Villamanrique  sur",24,3,2015,3,10,"Ranunculus","sp",9
+"207","Villamanrique este",24,3,2015,2,4,"Rosmarinus","officinalis",40
+"208","Villamanrique este",24,3,2015,2,5,"Rosmarinus","officinalis",25
+"209","Villamanrique este",24,3,2015,2,6,"Rosmarinus","officinalis",35
+"210","Pino del Cuervo",25,3,2015,3,1,"Ranunculus","sp",1
+"211","Pino del Cuervo",25,3,2015,3,1,"Cistus ","ladanifer",1
+"212","Pino del Cuervo",25,3,2015,3,3,"Cistus ","salvifolius",1
+"213","Pino del Cuervo",25,3,2015,3,4,"Halimium ","commutatum",6
+"214","Pino del Cuervo",25,3,2015,3,5,"Ranunculus","sp",2
+"215","Pino del Cuervo",25,3,2015,3,6,"Ranunculus","sp",2
+"216","Pino del Cuervo",25,3,2015,3,6,"Chrysanthemum","coronarium",2
+"217","Pino del Cuervo",25,3,2015,3,7,"Ulex","australis",2
+"218","Pino del Cuervo",25,3,2015,3,9,"Narcisus ","bulbocodium",2
+"219","Pino del Cuervo",25,3,2015,3,9,"Ranunculus","sp",2
+"220","Pino del Cuervo",25,3,2015,3,9,"Chrysanthemum","coronarium",2
+"221","Pino del Cuervo",25,3,2015,3,10,"Ranunculus","sp",2
+"222","Pino del Cuervo",25,3,2015,3,10,"Chrysanthemum","coronarium",3
+"223","Pino del Cuervo",25,3,2015,3,10,"Narcisus ","bulbocodium",1
+"224","Pinares de Hinojos",25,3,2015,3,9,"Spartium ","junceum",32
+"225","Cotito de Santa Teresa",25,3,2015,3,1,"Leucojum ","autumnale",3
+"226","Cotito de Santa Teresa",25,3,2015,3,2,"Lavandula","stoechas",60
+"227","Cotito de Santa Teresa",25,3,2015,3,2,"Ranunculus","sp",3
+"228","Cotito de Santa Teresa",25,3,2015,3,2,"Raphanus ","raphanistrum",7
+"229","Cotito de Santa Teresa",25,3,2015,3,4,"Lavandula","stoechas",110
+"230","Cotito de Santa Teresa",25,3,2015,3,6,"Lavandula","stoechas",80
+"231","Cotito de Santa Teresa",25,3,2015,3,7,"Lavandula","stoechas",60
+"232","Cotito de Santa Teresa",25,3,2015,3,8,"Lavandula","stoechas",320
+"233","Cotito de Santa Teresa",25,3,2015,3,10,"Lavandula","stoechas",540
+"234","Las mulas",25,3,2015,3,1,"Cistus ","salvifolius",1
+"235","Las mulas",25,3,2015,3,1,"Cistus ","ladanifer",1
+"236","Las mulas",25,3,2015,3,3,"Lavandula","stoechas",30
+"237","Las mulas",25,3,2015,3,3,"Halimium ","commutatum",10
+"238","Las mulas",25,3,2015,3,5,"Cistus ","ladanifer",1
+"239","Las mulas",25,3,2015,3,7,"Rosmarinus","officinalis",15
+"240","Las mulas",25,3,2015,3,8,"Cistus ","ladanifer",1
+"241","Las mulas",25,3,2015,3,8,"Rosmarinus","officinalis",120
+"242","El pinar",26,3,2015,2,1,"Cistus ","albidus",7
+"243","El pinar",26,3,2015,2,1,"Lavandula","stoechas",360
+"244","El pinar",26,3,2015,2,2,"Rosmarinus","officinalis",26
+"245","El pinar",26,3,2015,2,2,"Cistus ","salvifolius",1
+"246","El pinar",26,3,2015,2,3,"Cistus ","albidus",1
+"247","El pinar",26,3,2015,2,5,"Cistus ","salvifolius",6
+"248","El pinar",26,3,2015,2,8,"Lavandula","stoechas",500
+"249","Niebla",26,3,2015,4,1,"Phlomis","purpurea",10
+"250","Niebla",26,3,2015,4,1,"Cistus ","monspeliensis",1
+"251","Niebla",26,3,2015,4,2,"Cistus ","monspeliensis",2
+"252","Niebla",26,3,2015,4,3,"Raphanus ","raphanistrum",20
+"253","Niebla",26,3,2015,4,3,"Leontodon ","sp",6
+"254","Niebla",26,3,2015,4,4,"Raphanus ","raphanistrum",50
+"255","Niebla",26,3,2015,4,4,"Lupinus ","angustifolius",12
+"256","Niebla",26,3,2015,4,5,"Lavandula","pedunculata",110
+"257","Niebla",26,3,2015,4,5,"Calendula","arvensis",7
+"258","Niebla",26,3,2015,4,6,"Lupinus ","angustifolius",10
+"259","Niebla",26,3,2015,4,6,"Calendula","arvensis",16
+"260","Niebla",26,3,2015,4,6,"Ulex ","australis",30
+"261","Niebla",26,3,2015,4,7,"Lavandula","pedunculata",800
+"262","Niebla",26,3,2015,4,8,"Lupinus ","angustifolius",11
+"263","Niebla",26,3,2015,4,8,"Calendula","arvensis",6
+"264","Niebla",26,3,2015,4,9,"Calendula","arvensis",2
+"265","Bonares",26,3,2015,4,1,"Cistus ","salvifolius",45
+"266","Bonares",26,3,2015,4,2,"Cistus ","salvifolius",3
+"267","Bonares",26,3,2015,4,3,"Halimium ","commutatum",32
+"268","Bonares",26,3,2015,4,4,"Halimium ","commutatum",20
+"269","Bonares",26,3,2015,4,5,"Halimium ","commutatum",3
+"270","Bonares",26,3,2015,4,6,"Lavandula","pedunculata",600
+"271","Bonares",26,3,2015,4,6,"Cistus ","salvifolius",16
+"272","Bonares",26,3,2015,4,7,"Lavandula","pedunculata",400
+"273","Bonares",26,3,2015,4,8,"Cistus ","salvifolius",65
+"274","Bonares",26,3,2015,4,8,"Lavandula","pedunculata",60
+"275","Bonares",26,3,2015,4,9,"Lavandula","pedunculata",20
+"276","Bonares",26,3,2015,4,10,"Cistus ","ladanifer",3
+"277","Bonares",26,3,2015,4,10,"Lavandula","pedunculata",320
+"278","Esparragal",26,3,2015,4,1,"Halimium ","commutatum",2
+"279","Esparragal",26,3,2015,4,2,"Lavandula","pedunculata",300
+"280","Esparragal",26,3,2015,4,4,"Cistus ","salvifolius",25
+"281","Esparragal",26,3,2015,4,5,"Aristoloquia","baetica",2
+"282","Esparragal",26,3,2015,4,7,"Aristoloquia","baetica",3
+"283","Esparragal",26,3,2015,4,8,"Aristoloquia","baetica",2
+"284","Esparragal",26,3,2015,4,8,"Lavandula","pedunculata",60
+"285","Esparragal",26,3,2015,4,10,"Lavandula","pedunculata",900
+"286","Aznalcazar",27,3,2015,4,1,"Asphodelus","fistulosus",25
+"287","Aznalcazar",27,3,2015,4,2,"Cistus ","salvifolius",5
+"288","Aznalcazar",27,3,2015,4,2,"Lavandula","pedunculata",180
+"289","Aznalcazar",27,3,2015,4,4,"Teucrium","fruticans",55
+"290","Aznalcazar",27,3,2015,4,5,"Cistus ","salvifolius",6
+"291","Aznalcazar",27,3,2015,4,6,"Cistus ","salvifolius",3
+"292","Aznalcazar",27,3,2015,4,7,"Rosmarinus","officinalis",60
+"293","Aznalcazar",27,3,2015,4,7,"Cistus ","ladanifer",1
+"294","Aznalcazar",27,3,2015,4,8,"Lavandula","pedunculata",940
+"295","Villamanrique  sur",27,3,2015,4,1,"Lavandula","stoechas",20
+"296","Villamanrique  sur",27,3,2015,4,2,"Lavandula","stoechas",320
+"297","Villamanrique  sur",27,3,2015,4,4,"Cistus ","salvifolius",7
+"298","Villamanrique  sur",27,3,2015,4,10,"Ranunculus","sp",9
+"299","Convento de la Luz",29,3,2015,4,1,"Cistus ","salvifolius",2
+"300","Convento de la Luz",29,3,2015,4,1,"Spartium ","junceum",4
+"301","Convento de la Luz",29,3,2015,4,2,"Cistus ","salvifolius",2
+"302","Convento de la Luz",29,3,2015,4,3,"Rosmarinus","officinalis",40
+"303","Convento de la Luz",29,3,2015,4,3,"Cistus ","salvifolius",7
+"304","Convento de la Luz",29,3,2015,4,4,"Cistus ","ladanifer",60
+"305","Convento de la Luz",29,3,2015,4,5,"Cistus ","ladanifer",50
+"306","Convento de la Luz",29,3,2015,4,5,"Lavandula","stoechas",800
+"307","Convento de la Luz",29,3,2015,4,6,"Cistus ","ladanifer",11
+"308","Convento de la Luz",29,3,2015,4,6,"Cistus ","salvifolius",30
+"309","Convento de la Luz",29,3,2015,4,7,"Cistus ","salvifolius",2
+"310","Convento de la Luz",29,3,2015,4,9,"Cistus ","salvifolius",12
+"311","Convento de la Luz",29,3,2015,4,9,"Lavandula","stoechas",120
+"312","Convento de la Luz",29,3,2015,4,10,"Cistus ","salvifolius",2
+"313","Urbanizaciones",29,3,2015,4,1,"Rosmarinus","officinalis",35
+"314","Urbanizaciones",29,3,2015,4,1,"Halimium ","commutatum",3
+"315","Urbanizaciones",29,3,2015,4,2,"Rosmarinus","officinalis",20
+"316","Urbanizaciones",29,3,2015,4,5,"Rosmarinus","officinalis",42
+"317","Urbanizaciones",29,3,2015,4,7,"Cistus ","salvifolius",7
+"318","Urbanizaciones",29,3,2015,4,10,"Halimium ","commutatum",133
+"319","Urbanizaciones",29,3,2015,4,10,"Malcomia","lacera",46
+"320","El pozo",29,3,2015,4,1,"Rosmarinus","officinalis",36
+"321","El pozo",29,3,2015,4,1,"Cistus ","salvifolius",3
+"322","El pozo",29,3,2015,4,1,"Erica ","scoparia",41
+"323","El pozo",29,3,2015,4,2,"Cistus ","ladanifer",2
+"324","El pozo",29,3,2015,4,2,"Rosmarinus","officinalis",47
+"325","El pozo",29,3,2015,4,3,"Rosmarinus","officinalis",180
+"326","El pozo",29,3,2015,4,3,"Cistus ","salvifolius",5
+"327","El pozo",29,3,2015,4,4,"Cistus ","salvifolius",15
+"328","El pozo",29,3,2015,4,5,"Cistus ","salvifolius",3
+"329","El pozo",29,3,2015,4,5,"Ulex","australis",50
+"330","El pozo",29,3,2015,4,6,"Cistus ","salvifolius",25
+"331","El pozo",29,3,2015,4,7,"Halimium ","commutatum",120
+"332","El pozo",29,3,2015,4,7,"Cistus ","salvifolius",11
+"333","El pozo",29,3,2015,4,8,"Cistus ","salvifolius",4
+"334","El pozo",29,3,2015,4,8,"Cistus ","ladanifer",6
+"335","El pozo",29,3,2015,4,9,"Cistus ","ladanifer",13
+"336","El pozo",29,3,2015,4,9,"Rosmarinus","officinalis",90
+"337","El pozo",29,3,2015,4,10,"Cistus ","ladanifer",16
+"338","Pino del Cuervo",29,3,2015,4,1,"Cistus ","ladanifer",2
+"339","Pino del Cuervo",29,3,2015,4,1,"Ranunculus","sp",1
+"340","Pino del Cuervo",29,3,2015,4,4,"Halimium ","commutatum",28
+"341","Pino del Cuervo",29,3,2015,4,4,"Ranunculus","sp",3
+"342","Pino del Cuervo",29,3,2015,4,10,"Ranunculus","sp",14
+"343","La cuña",30,3,2015,4,1,"Tuberaria","guttata",22
+"344","La cuña",30,3,2015,4,1,"Leucojum ","autumnale",8
+"345","La cuña",30,3,2015,4,1,"Cerinthe ","gymnandra",2
+"346","La cuña",30,3,2015,4,2,"Erodium ","cicutarium",3
+"347","La cuña",30,3,2015,4,2,"Tuberaria","guttata",6
+"348","La cuña",30,3,2015,4,2,"Leucojum ","autumnale",10
+"349","La cuña",30,3,2015,4,3,"Erodium ","cicutarium",4
+"350","La cuña",30,3,2015,4,4,"Cistus ","salvifolius",6
+"351","La cuña",30,3,2015,4,5,"Erodium ","cicutarium",2
+"352","La cuña",30,3,2015,4,5,"Cistus ","salvifolius",1
+"353","La cuña",30,3,2015,4,6,"Halimium ","commutatum",1
+"354","La cuña",30,3,2015,4,7,"Halimium ","commutatum",11
+"355","La cuña",30,3,2015,4,8,"Halimium ","commutatum",20
+"356","La cuña",30,3,2015,4,8,"Cistus ","salvifolius",2
+"357","La cuña",30,3,2015,4,8,"Lavandula","pedunculata",160
+"358","La cuña",30,3,2015,4,10,"Lavandula","pedunculata",80
+"359","Pinares de Hinojos",30,3,2015,4,1,"Leucojum ","autumnale",3
+"360","Pinares de Hinojos",30,3,2015,4,1,"Erodium ","cicutarium",2
+"361","Pinares de Hinojos",30,3,2015,4,7,"Cerinthe ","gymnandra",8
+"362","Pinares de Hinojos",30,3,2015,4,7,"Leucojum ","autumnale",2
+"363","Pinares de Hinojos",30,3,2015,4,8,"Spartium ","junceum",21
+"364","Pinares de Hinojos",30,3,2015,4,9,"Spartium ","junceum",54
+"365","Cotito de Santa Teresa",30,3,2015,4,1,"Ranunculus","sp",1
+"366","Cotito de Santa Teresa",30,3,2015,4,1,"Echium","plantagineum",4
+"367","Cotito de Santa Teresa",30,3,2015,4,2,"Ranunculus","sp",2
+"368","Cotito de Santa Teresa",30,3,2015,4,2,"Lavandula","stoechas",60
+"369","Cotito de Santa Teresa",30,3,2015,4,3,"Lavandula","stoechas",140
+"370","Cotito de Santa Teresa",30,3,2015,4,3,"Cistus ","salvifolius",2
+"371","Cotito de Santa Teresa",30,3,2015,4,4,"Lavandula","stoechas",80
+"372","Cotito de Santa Teresa",30,3,2015,4,5,"Lavandula","stoechas",190
+"373","Cotito de Santa Teresa",30,3,2015,4,5,"Cistus ","salvifolius",4
+"374","Cotito de Santa Teresa",30,3,2015,4,6,"Lavandula","stoechas",180
+"375","Cotito de Santa Teresa",30,3,2015,4,8,"Erodium ","cicutarium",6
+"376","Cotito de Santa Teresa",30,3,2015,4,8,"Astragalus ","lusitanicus",15
+"377","Cotito de Santa Teresa",30,3,2015,4,8,"Cistus ","salvifolius",2
+"378","Cotito de Santa Teresa",30,3,2015,4,9,"Lavandula","stoechas",70
+"379","Cotito de Santa Teresa",30,3,2015,4,10,"Lavandula","stoechas",870
+"380","Cotito de Santa Teresa",30,3,2015,4,10,"Cistus ","salvifolius",3
+"381","Cotito de Santa Teresa",30,3,2015,4,10,"Rosmarinus","officinalis",50
+"382","La Rocina",30,3,2015,4,1,"Rosmarinus","officinalis",110
+"383","La Rocina",30,3,2015,4,1,"Diplotaxis ","virgata",32
+"384","La Rocina",30,3,2015,4,1,"Malcomia","lacera",3
+"385","La Rocina",30,3,2015,4,2,"Spartium ","junceum",23
+"386","La Rocina",30,3,2015,4,2,"Malcomia","lacera",1
+"387","La Rocina",30,3,2015,4,3,"Halimium ","commutatum",70
+"388","La Rocina",30,3,2015,4,3,"Rosmarinus","officinalis",30
+"389","La Rocina",30,3,2015,4,3,"Spartium ","junceum",15
+"390","La Rocina",30,3,2015,4,3,"Malcomia","lacera",11
+"391","La Rocina",30,3,2015,4,4,"Halimium ","commutatum",40
+"392","La Rocina",30,3,2015,4,4,"Malcomia","lacera",30
+"393","La Rocina",30,3,2015,4,5,"Lavandula","pedunculata",130
+"394","La Rocina",30,3,2015,4,5,"Halimium ","commutatum",50
+"395","La Rocina",30,3,2015,4,5,"Malcomia","lacera",10
+"396","La Rocina",30,3,2015,4,6,"Halimium ","commutatum",40
+"397","La Rocina",30,3,2015,4,7,"Halimium ","commutatum",60
+"398","La Rocina",30,3,2015,4,7,"Malcomia","lacera",6
+"399","La Rocina",30,3,2015,4,8,"Lavandula","pedunculata",220
+"400","La Rocina",30,3,2015,4,8,"Halimium ","commutatum",30
+"401","La Rocina",30,3,2015,4,8,"Malcomia","lacera",2
+"402","La Rocina",30,3,2015,4,8,"Spartium ","junceum",12
+"403","La Rocina",30,3,2015,4,9,"Halimium ","commutatum",38
+"404","La Rocina",30,3,2015,4,9,"Spartium ","junceum",5
+"405","La Rocina",30,3,2015,4,10,"Halimium ","commutatum",66
+"406","La Rocina",30,3,2015,4,10,"Spartium ","junceum",120
+"407","Las mulas",30,3,2015,4,1,"Cistus ","ladanifer",3
+"408","Las mulas",30,3,2015,4,1,"Ranunculus","sp",1
+"409","Las mulas",30,3,2015,4,2,"Halimium ","commutatum",3
+"410","Las mulas",30,3,2015,4,3,"Lavandula","stoechas",320
+"411","Las mulas",30,3,2015,4,3,"Halimium ","commutatum",60
+"412","Las mulas",30,3,2015,4,4,"Ranunculus","sp",6
+"413","Las mulas",30,3,2015,4,4,"Lavandula","stoechas",20
+"414","Las mulas",30,3,2015,4,6,"Cistus ","ladanifer",3
+"415","Las mulas",30,3,2015,4,6,"Rosmarinus","officinalis",20
+"416","Las mulas",30,3,2015,4,7,"Erica ","scoparia",1100
+"417","Las mulas",30,3,2015,4,7,"Rosmarinus","officinalis",110
+"418","Las mulas",30,3,2015,4,8,"Rosmarinus","officinalis",90
+"419","Las mulas",30,3,2015,4,8,"Cistus ","ladanifer",11
+"420","Las mulas",30,3,2015,4,10,"Rosmarinus","officinalis",120
+"421","El pinar",31,3,2015,3,1,"Rosmarinus","officinalis",15
+"422","El pinar",31,3,2015,3,2,"Cistus ","salvifolius",25
+"423","El pinar",31,3,2015,3,5,"Cistus ","salvifolius",25
+"424","El pinar",31,3,2015,3,8,"Lavandula","stoechas",1200
+"425","Villamanrique este",31,3,2015,3,1,"Ulex","australis",80
+"426","Villamanrique este",31,3,2015,3,2,"Cistus ","salvifolius",1
+"427","Villamanrique este",31,3,2015,3,2,"Ulex","australis",50
+"428","Villamanrique este",31,3,2015,3,3,"Rosmarinus","officinalis",10
+"429","Villamanrique este",31,3,2015,3,4,"Cistus ","salvifolius",1
+"430","Villamanrique este",31,3,2015,3,4,"Rosmarinus","officinalis",30
+"431","Villamanrique este",31,3,2015,3,5,"Cistus ","salvifolius",3
+"432","Villamanrique este",31,3,2015,3,6,"Cistus ","salvifolius",15
+"433","Villamanrique este",31,3,2015,3,7,"Cistus ","salvifolius",7
+"434","Villamanrique este",31,3,2015,3,9,"Cistus ","ladanifer",6
+"435","Villamanrique este",31,3,2015,3,10,"Cistus ","ladanifer",3
+"436","Niebla",7,4,2015,5,1,"Cistus ","monspeliensis",38
+"437","Niebla",7,4,2015,5,1,"Phlomis","purpurea",4
+"438","Niebla",7,4,2015,5,1,"Linaria","viscosa",3
+"439","Niebla",7,4,2015,5,2,"Muscari ","comosum",2
+"440","Niebla",7,4,2015,5,2,"Cistus ","monspeliensis",12
+"441","Niebla",7,4,2015,5,3,"Calendula","arvensis",9
+"442","Niebla",7,4,2015,5,3,"Cistus ","monspeliensis",3
+"443","Niebla",7,4,2015,5,3,"Linaria","viscosa",2
+"444","Niebla",7,4,2015,5,3,"Raphanus ","raphanistrum",25
+"445","Niebla",7,4,2015,5,4,"Lavandula","pedunculata",62
+"446","Niebla",7,4,2015,5,4,"Calendula","arvensis",4
+"447","Niebla",7,4,2015,5,4,"Muscari ","comosum",3
+"448","Niebla",7,4,2015,5,5,"Cistus ","monspeliensis",5
+"449","Niebla",7,4,2015,5,5,"Lupinus ","angustifolius",50
+"450","Niebla",7,4,2015,5,6,"Raphanus ","raphanistrum",6
+"451","Niebla",7,4,2015,5,6,"Calendula","arvensis",1
+"452","Niebla",7,4,2015,5,6,"Diplotaxis ","virgata",28
+"453","Niebla",7,4,2015,5,7,"Cistus ","monspeliensis",2
+"454","Niebla",7,4,2015,5,7,"Calendula","arvensis",1
+"455","Niebla",7,4,2015,5,8,"Linaria ","viscosa",1
+"456","Niebla",7,4,2015,5,9,"Cistus ","monspeliensis",3
+"457","Niebla",7,4,2015,5,9,"Linaria","viscosa",2
+"458","Niebla",7,4,2015,5,10,"Cistus ","monspeliensis",49
+"459","Niebla",7,4,2015,5,10,"Ulex","australis",79
+"460","Bonares ",7,4,2015,5,1,"Cistus ","salvifolius",17
+"461","Bonares ",7,4,2015,5,2,"Halimium ","commutatum",2
+"462","Bonares ",7,4,2015,5,3,"Cistus ","salvifolius",9
+"463","Bonares ",7,4,2015,5,4,"Cistus ","monspeliensis",1
+"464","Bonares ",7,4,2015,5,5,"Lavandula","stoechas",41
+"465","Bonares ",7,4,2015,5,6,"Cistus ","salvifolius",2
+"466","Bonares ",7,4,2015,5,6,"Lavandula","stoechas",17
+"467","Bonares ",7,4,2015,5,7,"Cistus ","crispus",2
+"468","Bonares ",7,4,2015,5,8,"Lavandula","stoechas",4
+"469","Bonares ",7,4,2015,5,8,"Cistus ","salvifolius",3
+"470","Bonares ",7,4,2015,5,9,"Lavandula","stoechas",4
+"471","Bonares ",7,4,2015,5,10,"Cistus ","salvifolius",1
+"472","Bonares ",7,4,2015,5,10,"Lavandula","stoechas",12
+"473","Esparragal",7,4,2015,5,1,"Calendula","arvensis",2
+"474","Esparragal",7,4,2015,5,1,"Erodium ","cicutarium",3
+"475","Esparragal",7,4,2015,5,2,"Lavandula","pedunculata",16
+"476","Esparragal",7,4,2015,5,2,"Ulex","australis",6
+"477","Esparragal",7,4,2015,5,3,"Halimium ","commutatum",2
+"478","Esparragal",7,4,2015,5,3,"Calendula","arvensis",2
+"479","Esparragal",7,4,2015,5,7,"Calendula","arvensis",2
+"480","Esparragal",7,4,2015,5,8,"Cistus ","salvifolius",2
+"481","Esparragal",7,4,2015,5,9,"Lavandula","pedunculata",14
+"482","Esparragal",7,4,2015,5,10,"Lavandula","pedunculata",153
+"483","La Rocina",7,4,2015,5,1,"Spartium ","junceum",14
+"484","La Rocina",7,4,2015,5,1,"Diplotaxis ","virgata",10
+"485","La Rocina",7,4,2015,5,1,"Malcomia","lacera",13
+"486","La Rocina",7,4,2015,5,1,"Rosmarinus","officinalis",31
+"487","La Rocina",7,4,2015,5,2,"Spartium ","junceum",2
+"488","La Rocina",7,4,2015,5,2,"Diplotaxis ","virgata",1
+"489","La Rocina",7,4,2015,5,2,"Malcomia","lacera",7
+"490","La Rocina",7,4,2015,5,3,"Halimium ","commutatum",8
+"491","La Rocina",7,4,2015,5,3,"Diplotaxis ","virgata",4
+"492","La Rocina",7,4,2015,5,3,"Malcomia","lacera",55
+"493","La Rocina",7,4,2015,5,3,"Lavandula","pedunculata",20
+"494","La Rocina",7,4,2015,5,4,"Malcomia","lacera",7
+"495","La Rocina",7,4,2015,5,4,"Diplotaxis ","virgata",6
+"496","La Rocina",7,4,2015,5,4,"Leucojum ","autumnale",2
+"497","La Rocina",7,4,2015,5,5,"Halimium ","commutatum",15
+"498","La Rocina",7,4,2015,5,5,"Diplotaxis ","virgata",4
+"499","La Rocina",7,4,2015,5,5,"Malcomia","lacera",13
+"500","La Rocina",7,4,2015,5,5,"Lavandula","pedunculata",10
+"501","La Rocina",7,4,2015,5,6,"Malcomia","lacera",107
+"502","La Rocina",7,4,2015,5,6,"Linaria","viscosa",1
+"503","La Rocina",7,4,2015,5,6,"Spartium ","junceum",10
+"504","La Rocina",7,4,2015,5,6,"Lavandula","pedunculata",19
+"505","La Rocina",7,4,2015,5,7,"Malcomia","lacera",59
+"506","La Rocina",7,4,2015,5,7,"Lavandula","pedunculata",9
+"507","La Rocina",7,4,2015,5,7,"Halimium ","commutatum",1
+"508","La Rocina",7,4,2015,5,8,"Malcomia","lacera",64
+"509","La Rocina",7,4,2015,5,8,"Spartium ","junceum",13
+"510","La Rocina",7,4,2015,5,9,"Spartium ","junceum",70
+"511","La Rocina",7,4,2015,5,9,"Lavandula","pedunculata",44
+"512","La Rocina",7,4,2015,5,9,"Malcomia","lacera",185
+"513","La Rocina",7,4,2015,5,9,"Diplotaxis ","virgata",11
+"514","La Rocina",7,4,2015,5,10,"Spartium ","junceum",45
+"515","La Rocina",7,4,2015,5,10,"Malcomia","lacera",23
+"516","La Rocina",7,4,2015,5,10,"Linaria","viscosa",1
+"517","La cuña",7,4,2015,5,1,"Echium ","plantagineum",3
+"518","La cuña",7,4,2015,5,2,"Arctotheca","calendula",1
+"519","La cuña",7,4,2015,5,2,"Leucojum ","autumnale",1
+"520","La cuña",7,4,2015,5,2,"Echium","plantagineum",4
+"521","La cuña",7,4,2015,5,3,"Linum ","bienne",1
+"522","La cuña",7,4,2015,5,4,"Cistus ","salvifolius",3
+"523","La cuña",7,4,2015,5,4,"Leucojum ","autumnale",1
+"524","La cuña",7,4,2015,5,8,"Leucojum ","autumnale",4
+"525","La cuña",7,4,2015,5,9,"Lavandula","pedunculata",1
+"526","La cuña",7,4,2015,5,10,"Lavandula","pedunculata",26
+"527","La cuña",7,4,2015,5,10,"Linaria","viscosa",4
+"528","La cuña",7,4,2015,5,10,"Diplotaxis ","virgata",4
+"529","Las mulas",10,4,2015,5,1,"Cistus ","salvifolius",2
+"530","Las mulas",10,4,2015,5,1,"Echium","plantagineum",1
+"531","Las mulas",10,4,2015,5,2,"Lavandula","stoechas",2
+"532","Las mulas",10,4,2015,5,3,"Cistus ","salvifolius",5
+"533","Las mulas",10,4,2015,5,5,"Cistus ","ladanifer",3
+"534","Las mulas",10,4,2015,5,6,"Tuberaria","guttata",4
+"535","Las mulas",10,4,2015,5,7,"Cistus ","ladanifer",5
+"536","Las mulas",10,4,2015,5,7,"Tuberaria","guttata",10
+"537","Las mulas",10,4,2015,5,8,"Cistus ","ladanifer",7
+"538","Las mulas",10,4,2015,5,8,"Rosmarinus","officinalis",91
+"539","Las mulas",10,4,2015,5,9,"Cistus ","salvifolius",16
+"540","Las mulas",10,4,2015,5,10,"Rosmarinus","officinalis",19
+"541","Villamanrique este",10,4,2015,4,1,"Ulex","australis",700
+"542","Villamanrique este",10,4,2015,4,2,"Cistus ","salvifolius",4
+"543","Villamanrique este",10,4,2015,4,5,"Cistus ","salvifolius",8
+"544","Villamanrique este",10,4,2015,4,6,"Cistus ","salvifolius",7
+"545","Villamanrique este",10,4,2015,4,7,"Cistus ","salvifolius",9
+"546","Villamanrique este",10,4,2015,4,9,"Cistus ","ladanifer",2
+"547","Villamanrique  sur",10,4,2015,5,1,"Cistus ","salvifolius",21
+"548","Villamanrique  sur",10,4,2015,5,2,"Cistus ","salvifolius",4
+"549","Villamanrique  sur",10,4,2015,5,3,"Cistus ","salvifolius",19
+"550","Villamanrique  sur",10,4,2015,5,3,"Ulex","australis",490
+"551","Villamanrique  sur",10,4,2015,5,4,"Cistus ","salvifolius",5
+"552","Villamanrique  sur",10,4,2015,5,5,"Cistus ","salvifolius",20
+"553","Villamanrique  sur",10,4,2015,5,6,"Cistus ","salvifolius",15
+"554","Villamanrique  sur",10,4,2015,5,9,"Cistus ","salvifolius",36
+"555","Villamanrique  sur",10,4,2015,5,10,"Cistus ","salvifolius",10
+"556","Villamanrique  sur",10,4,2015,5,10,"Ulex","australis",371
+"557","Aznalcazar",10,4,2015,5,1,"Echium","plantagineum",19
+"558","Aznalcazar",10,4,2015,5,1,"Cistus ","salvifolius",2
+"559","Aznalcazar",10,4,2015,5,1,"Linum ","bienne",1
+"560","Aznalcazar",10,4,2015,5,2,"Cistus ","salvifolius",6
+"561","Aznalcazar",10,4,2015,5,2,"Echium","plantagineum",37
+"562","Aznalcazar",10,4,2015,5,2,"Tuberaria","guttata",2
+"563","Aznalcazar",10,4,2015,5,3,"Echium","plantagineum",37
+"564","Aznalcazar",10,4,2015,5,3,"Tuberaria","guttata",3
+"565","Aznalcazar",10,4,2015,5,3,"Leontodon ","sp",6
+"566","Aznalcazar",10,4,2015,5,4,"Cistus ","salvifolius",27
+"567","Aznalcazar",10,4,2015,5,4,"Teucrium","fruticans",24
+"568","Aznalcazar",10,4,2015,5,5,"Teucrium","fruticans",28
+"569","Aznalcazar",10,4,2015,5,6,"Echium","plantagineum",20
+"570","Aznalcazar",10,4,2015,5,6,"Teucrium","fruticans",19
+"571","Aznalcazar",10,4,2015,5,7,"Cistus ","salvifolius",6
+"572","Aznalcazar",10,4,2015,5,7,"Echium","plantagineum",16
+"573","Aznalcazar",10,4,2015,5,8,"Cistus ","salvifolius",9
+"574","Aznalcazar",10,4,2015,5,9,"Cistus ","salvifolius",4
+"575","Aznalcazar",10,4,2015,5,9,"Echium","plantagineum",51
+"576","Aznalcazar",10,4,2015,5,10,"Cistus ","salvifolius",6
+"577","Urbanizaciones",13,4,2015,5,1,"Linaria","viscosa",2
+"578","Urbanizaciones",13,4,2015,5,5,"Cistus ","salvifolius",1
+"579","Urbanizaciones",13,4,2015,5,6,"Cistus ","salvifolius",1
+"580","Urbanizaciones",13,4,2015,5,7,"Cistus ","salvifolius",16
+"581","Urbanizaciones",13,4,2015,5,7,"Linaria","viscosa",1
+"582","Urbanizaciones",13,4,2015,5,8,"Echium","plantagineum",40
+"583","Urbanizaciones",13,4,2015,5,8,"Cistus ","salvifolius",5
+"584","Urbanizaciones",13,4,2015,5,9,"Cistus ","salvifolius",8
+"585","Urbanizaciones",13,4,2015,5,10,"Lavandula","stoechas",37
+"586","Urbanizaciones",13,4,2015,5,10,"Halimium ","commutatum",3
+"587","Convento de la Luz",13,4,2015,5,1,"Malcomia","lacera",15
+"588","Convento de la Luz",13,4,2015,5,1,"Leontodon ","sp",3
+"589","Convento de la Luz",13,4,2015,5,2,"Lavandula","pedunculata",1
+"590","Convento de la Luz",13,4,2015,5,3,"Cistus ","salvifolius",7
+"591","Convento de la Luz",13,4,2015,5,3,"Ulex","australis",1
+"592","Convento de la Luz",13,4,2015,5,4,"Cistus ","ladanifer",2
+"593","Convento de la Luz",13,4,2015,5,4,"Cistus ","salvifolius",9
+"594","Convento de la Luz",13,4,2015,5,4,"Lavandula","stoechas",37
+"595","Convento de la Luz",13,4,2015,5,5,"Cistus ","ladanifer",1
+"596","Convento de la Luz",13,4,2015,5,6,"Lavandula","stoechas",49
+"597","Convento de la Luz",13,4,2015,5,6,"Linaria","viscosa",3
+"598","Convento de la Luz",13,4,2015,5,7,"Cistus ","salvifolius",2
+"599","Convento de la Luz",13,4,2015,5,9,"Cistus ","salvifolius",1
+"600","Convento de la Luz",13,4,2015,5,10,"Muscari ","comosum",1
+"601","Convento de la Luz",13,4,2015,5,10,"Aristoloquia","baetica",2
+"602","Convento de la Luz",13,4,2015,5,10,"Ranunculus","sp",1
+"603","Pino del Cuervo",13,4,2015,5,1,"Lavandula","stoechas",19
+"604","Pino del Cuervo",13,4,2015,5,2,"Linum ","bienne",1
+"605","Pino del Cuervo",13,4,2015,5,2,"Tuberaria","guttata",6
+"606","Pino del Cuervo",13,4,2015,5,3,"Tuberaria","guttata",1
+"607","Pino del Cuervo",13,4,2015,5,3,"Lavandula","stoechas",4
+"608","Pino del Cuervo",13,4,2015,5,4,"Tuberaria","guttata",3
+"609","Pino del Cuervo",13,4,2015,5,5,"Lavandula","stoechas",57
+"610","Pino del Cuervo",13,4,2015,5,6,"Lavandula","stoechas",3
+"611","Pino del Cuervo",13,4,2015,5,7,"Cistus ","salvifolius",2
+"612","Pino del Cuervo",13,4,2015,5,8,"Cistus ","salvifolius",2
+"613","Pino del Cuervo",13,4,2015,5,8,"Halimium ","halimifolium",1
+"614","Pino del Cuervo",13,4,2015,5,10,"Ranunculus","sp",2
+"615","El pozo",13,4,2015,5,1,"Erica ","scoparia",3
+"616","El pozo",13,4,2015,5,2,"Cistus ","salvifolius",15
+"617","El pozo",13,4,2015,5,3,"Cistus ","salvifolius",8
+"618","El pozo",13,4,2015,5,3,"Erica ","scoparia",1500
+"619","El pozo",13,4,2015,5,4,"Cistus ","salvifolius",3
+"620","El pozo",13,4,2015,5,5,"Cistus ","salvifolius",10
+"621","El pozo",13,4,2015,5,5,"Ulex","australis",170
+"622","El pozo",13,4,2015,5,6,"Cistus ","salvifolius",9
+"623","El pozo",13,4,2015,5,7,"Cistus ","salvifolius",13
+"624","El pozo",13,4,2015,5,8,"Rosmarinus","officinalis",11
+"625","El pozo",13,4,2015,5,9,"Cistus ","salvifolius",2
+"626","El pozo",13,4,2015,5,10,"Leontodon ","sp",2
+"627","El pozo",13,4,2015,5,10,"Tuberaria","guttata",2
+"628","Pinares de Hinojos",14,4,2015,5,1,"Leontodon ","sp",1
+"629","Pinares de Hinojos",14,4,2015,5,1,"Leucojum ","autumnale",1
+"630","Pinares de Hinojos",14,4,2015,5,2,"Cistus ","salvifolius",6
+"631","Pinares de Hinojos",14,4,2015,5,3,"Cistus ","salvifolius",2
+"632","Pinares de Hinojos",14,4,2015,5,4,"Cistus ","salvifolius",24
+"633","Pinares de Hinojos",14,4,2015,5,6,"Leucojum ","autumnale",4
+"634","Pinares de Hinojos",14,4,2015,5,6,"Leontodon ","sp",1
+"635","Pinares de Hinojos",14,4,2015,5,7,"Diplotaxis ","virgata",1
+"636","Pinares de Hinojos",14,4,2015,5,9,"Cistus ","salvifolius",14
+"637","Pinares de Hinojos",14,4,2015,5,10,"Leontodon ","sp",1
+"638","Cotito de Santa Teresa",14,4,2015,5,1,"Echium","plantagineum",6
+"639","Cotito de Santa Teresa",14,4,2015,5,1,"Tuberaria","guttata",7
+"640","Cotito de Santa Teresa",14,4,2015,5,1,"Leucojum ","autumnale",2
+"641","Cotito de Santa Teresa",14,4,2015,5,2,"Linaria","viscosa",2
+"642","Cotito de Santa Teresa",14,4,2015,5,3,"Lavandula","stoechas",14
+"643","Cotito de Santa Teresa",14,4,2015,5,3,"Cistus ","salvifolius",2
+"644","Cotito de Santa Teresa",14,4,2015,5,4,"Cistus ","salvifolius",7
+"645","Cotito de Santa Teresa",14,4,2015,5,5,"Cistus ","salvifolius",11
+"646","Cotito de Santa Teresa",14,4,2015,5,6,"Cistus ","salvifolius",14
+"647","Cotito de Santa Teresa",14,4,2015,5,6,"Lavandula","stoechas",17
+"648","Cotito de Santa Teresa",14,4,2015,5,8,"Cistus ","salvifolius",5
+"649","Cotito de Santa Teresa",14,4,2015,5,9,"Lavandula","stoechas",17
+"650","Cotito de Santa Teresa",14,4,2015,5,10,"Cistus ","salvifolius",74
+"651","Cotito de Santa Teresa",14,4,2015,5,10,"Lavandula","stoechas",16
+"652","El pinar",14,4,2015,4,8,"Lavandula","stoechas",120
+"653","Esparragal",20,4,2015,6,1,"Malcomia","lacera",9
+"654","Esparragal",20,4,2015,6,1,"Cistus ","libanotis",11
+"655","Esparragal",20,4,2015,6,2,"Lavandula","pedunculata",945
+"656","Esparragal",20,4,2015,6,4,"Cistus ","salvifolius",4
+"657","Esparragal",20,4,2015,6,5,"Cistus ","libanotis",5
+"658","Esparragal",20,4,2015,6,8,"Lavandula","pedunculata",55
+"659","Esparragal",20,4,2015,6,9,"Lavandula","pedunculata",130
+"660","Esparragal",20,4,2015,6,10,"Lavandula","pedunculata",600
+"661","La cuña",20,4,2015,6,1,"Cistus ","salvifolius",4
+"662","La cuña",20,4,2015,6,1,"Tuberaria","guttata",2
+"663","La cuña",20,4,2015,6,2,"Tuberaria","guttata",4
+"664","La cuña",20,4,2015,6,2,"Cistus ","salvifolius",1
+"665","La cuña",20,4,2015,6,2,"Echium","plantagineum",2
+"666","La cuña",20,4,2015,6,3,"Cistus ","salvifolius",15
+"667","La cuña",20,4,2015,6,4,"Cistus ","salvifolius",2
+"668","La cuña",20,4,2015,6,5,"Cistus ","salvifolius",12
+"669","La cuña",20,4,2015,6,5,"Cerinthe ","gymnandra",42
+"670","La cuña",20,4,2015,6,6,"Euphorbia","sp",12
+"671","La cuña",20,4,2015,6,7,"Cistus ","salvifolius",16
+"672","La cuña",20,4,2015,6,8,"Leucojum ","autumnale",2
+"673","La cuña",20,4,2015,6,8,"Cistus ","salvifolius",6
+"674","La cuña",20,4,2015,6,9,"Lavandula","pedunculata",440
+"675","La cuña",20,4,2015,6,10,"Lavandula","pedunculata",600
+"676","La Rocina",20,4,2015,6,1,"Malcomia","lacera",15
+"677","La Rocina",20,4,2015,6,1,"Linaria","viscosa",4
+"678","La Rocina",20,4,2015,6,1,"Rosmarinus","officinalis",20
+"679","La Rocina",20,4,2015,6,2,"Spartium ","junceum",22
+"680","La Rocina",20,4,2015,6,2,"Tuberaria","guttata",2
+"681","La Rocina",20,4,2015,6,2,"Malcomia","lacera",12
+"682","La Rocina",20,4,2015,6,3,"Lavandula","pedunculata",480
+"683","La Rocina",20,4,2015,6,3,"Malcomia","lacera",39
+"684","La Rocina",20,4,2015,6,4,"Lavandula","pedunculata",80
+"685","La Rocina",20,4,2015,6,4,"Malcomia","lacera",62
+"686","La Rocina",20,4,2015,6,4,"Halimium ","commutatum",3
+"687","La Rocina",20,4,2015,6,5,"Lavandula","pedunculata",840
+"688","La Rocina",20,4,2015,6,5,"Centaurium ","calcitrapa",76
+"689","La Rocina",20,4,2015,6,5,"Malcomia","lacera",13
+"690","La Rocina",20,4,2015,6,6,"Linaria","viscosa",3
+"691","La Rocina",20,4,2015,6,6,"Diplotaxis ","virgata",6
+"692","La Rocina",20,4,2015,6,7,"Malcomia","lacera",49
+"693","La Rocina",20,4,2015,6,7,"Lavandula","pedunculata",300
+"694","La Rocina",20,4,2015,6,8,"Lavandula","pedunculata",200
+"695","La Rocina",20,4,2015,6,8,"Spartium ","junceum",86
+"696","La Rocina",20,4,2015,6,8,"Malcomia","lacera",51
+"697","La Rocina",20,4,2015,6,9,"Spartium ","junceum",5
+"698","La Rocina",20,4,2015,6,9,"Linaria","viscosa",6
+"699","La Rocina",20,4,2015,6,9,"Diplotaxis ","virgata",3
+"700","La Rocina",20,4,2015,6,10,"Spartium ","junceum",72
+"701","La Rocina",20,4,2015,6,10,"Lavandula","pedunculata",520
+"702","Aznalcazar",28,4,2015,6,1,"Cistus ","crispus",35
+"703","Aznalcazar",28,4,2015,6,1,"Tuberaria","guttata",10
+"704","Aznalcazar",28,4,2015,6,2,"Echium","plantagineum",12
+"705","Aznalcazar",28,4,2015,6,2,"Cistus ","crispus",39
+"706","Aznalcazar",28,4,2015,6,2,"Andryala","sp",5
+"707","Aznalcazar",28,4,2015,6,3,"Cistus ","crispus",5
+"708","Aznalcazar",28,4,2015,6,3,"Echium","plantagineum",25
+"709","Aznalcazar",28,4,2015,6,3,"Leontodon ","sp",3
+"710","Aznalcazar",28,4,2015,6,5,"Echium","plantagineum",6
+"711","Aznalcazar",28,4,2015,6,5,"Teucrium","fruticans",21
+"712","Aznalcazar",28,4,2015,6,6,"Echium","plantagineum",9
+"713","Aznalcazar",28,4,2015,6,7,"Cistus ","crispus",40
+"714","Aznalcazar",28,4,2015,6,7,"Echium","plantagineum",15
+"715","Aznalcazar",28,4,2015,6,8,"Echium ","plantagineum",54
+"716","Aznalcazar",28,4,2015,6,8,"Andryala","sp",2
+"717","Aznalcazar",28,4,2015,6,9,"Echium ","plantagineum",10
+"718","Aznalcazar",28,4,2015,6,9,"Leontodon ","sp",61
+"719","Villamanrique  sur",28,4,2015,6,1,"Cistus ","salvifolius",3
+"720","Villamanrique  sur",28,4,2015,6,2,"Lavandula","stoechas",3
+"721","Villamanrique  sur",28,4,2015,6,2,"Cistus ","salvifolius",9
+"722","Villamanrique  sur",28,4,2015,6,3,"Cistus ","salvifolius",2
+"723","Villamanrique  sur",28,4,2015,6,4,"Cistus ","salvifolius",1
+"724","Villamanrique  sur",28,4,2015,6,5,"Halimium ","halimifolium",10
+"725","Villamanrique  sur",28,4,2015,6,6,"Halimium ","halimifolium",13
+"726","Villamanrique  sur",28,4,2015,6,7,"Halimium ","halimifolium",8
+"727","Villamanrique  sur",28,4,2015,6,8,"Cistus ","salvifolius",11
+"728","Villamanrique  sur",28,4,2015,6,9,"Cistus ","salvifolius",22
+"729","Villamanrique  sur",28,4,2015,6,10,"Halimium ","halimifolium",4
+"730","Villamanrique este",28,4,2015,5,1,"Cistus ","crispus",12
+"731","Villamanrique este",28,4,2015,5,1,"Cistus ","salvifolius",3
+"732","Villamanrique este",28,4,2015,5,1,"Genista ","hirsuta",42
+"733","Villamanrique este",28,4,2015,5,2,"Cistus ","crispus",28
+"734","Villamanrique este",28,4,2015,5,2,"Cistus ","salvifolius",2
+"735","Villamanrique este",28,4,2015,5,3,"Cistus ","crispus",31
+"736","Villamanrique este",28,4,2015,5,5,"Cistus ","crispus",3
+"737","Villamanrique este",28,4,2015,5,6,"Gladiolus ","italicus",4
+"738","Villamanrique este",28,4,2015,5,6,"Cistus ","salvifolius",1
+"739","Villamanrique este",28,4,2015,5,6,"Echium","plantagineum",2
+"740","Villamanrique este",28,4,2015,5,7,"Cistus ","crispus",1
+"741","Villamanrique este",28,4,2015,5,8,"Cistus ","crispus",3
+"742","Las mulas",28,4,2015,6,1,"Echium","plantagineum",10
+"743","Las mulas",28,4,2015,6,1,"Cistus ","crispus",12
+"744","Las mulas",28,4,2015,6,1,"Halimium ","halimifolium",13
+"745","Las mulas",28,4,2015,6,2,"Lavandula","stoechas",40
+"746","Las mulas",28,4,2015,6,2,"Cistus ","crispus",4
+"747","Las mulas",28,4,2015,6,3,"Anarrhinum ","sp",20
+"748","Las mulas",28,4,2015,6,4,"Cistus ","crispus",21
+"749","Las mulas",28,4,2015,6,5,"Cistus ","crispus",3
+"750","Las mulas",28,4,2015,6,5,"Echium","plantagineum",17
+"751","Las mulas",28,4,2015,6,6,"Cistus ","monspeliensis",12
+"752","Las mulas",28,4,2015,6,7,"Rosmarinus","officinalis",62
+"753","Las mulas",28,4,2015,6,8,"Genista ","hirsuta",48
+"754","Las mulas",28,4,2015,6,8,"Cistus ","monspeliensis",22
+"755","Las mulas",28,4,2015,6,9,"Genista ","hirsuta",52
+"756","Las mulas",28,4,2015,6,10,"Cistus ","monspeliensis",29
+"757","Niebla",29,4,2015,6,1,"Thapsia","villosa",1
+"758","Niebla",29,4,2015,6,1,"Cistus ","monspeliensis",13
+"759","Niebla",29,4,2015,6,1,"Arctotheca","calendula",3
+"760","Niebla",29,4,2015,6,2,"Cistus ","monspeliensis",5
+"761","Niebla",29,4,2015,6,2,"Convolvulus","arvensis",21
+"762","Niebla",29,4,2015,6,2,"Arctotheca","calendula",6
+"763","Niebla",29,4,2015,6,2,"Carduus","sp",9
+"764","Niebla",29,4,2015,6,3,"Thapsia","villosa",1
+"765","Niebla",29,4,2015,6,3,"Convolvulus","arvensis",62
+"766","Niebla",29,4,2015,6,3,"Gladiolus ","italicus",41
+"767","Niebla",29,4,2015,6,3,"Arctotheca","calendula",3
+"768","Niebla",29,4,2015,6,3,"Cistus ","monspeliensis",4
+"769","Niebla",29,4,2015,6,3,"Carduus","sp",11
+"770","Niebla",29,4,2015,6,4,"Cistus ","monspeliensis",59
+"771","Niebla",29,4,2015,6,4,"Arctotheca","calendula",7
+"772","Niebla",29,4,2015,6,4,"Convolvulus","arvensis",6
+"773","Niebla",29,4,2015,6,4,"Carduus","sp",3
+"774","Niebla",29,4,2015,6,5,"Carduus","sp",3
+"775","Niebla",29,4,2015,6,5,"Arctotheca","calendula",6
+"776","Niebla",29,4,2015,6,5,"Cistus ","monspeliensis",26
+"777","Niebla",29,4,2015,6,5,"Lavandula","pedunculata",9
+"778","Niebla",29,4,2015,6,6,"Arctotheca","calendula",7
+"779","Niebla",29,4,2015,6,6,"Lavandula","pedunculata",18
+"780","Niebla",29,4,2015,6,6,"Cistus ","crispus",3
+"781","Niebla",29,4,2015,6,7,"Gladiolus ","italicus",1
+"782","Niebla",29,4,2015,6,7,"Cistus ","crispus",32
+"783","Niebla",29,4,2015,6,7,"Echium","plantagineum",12
+"784","Niebla",29,4,2015,6,8,"Lavandula","pedunculata",64
+"785","Niebla",29,4,2015,6,8,"Cistus ","crispus",31
+"786","Niebla",29,4,2015,6,9,"Cistus ","monspeliensis",52
+"787","Niebla",29,4,2015,6,9,"Cistus ","crispus",16
+"788","Niebla",29,4,2015,6,10,"Cistus ","crispus",36
+"789","Bonares",29,4,2015,6,2,"Linaria","viscosa",5
+"790","Bonares",29,4,2015,6,4,"Cistus ","crispus",14
+"791","Bonares",29,4,2015,6,4,"Thapsia","villosa",450
+"792","Bonares",29,4,2015,6,5,"Thapsia","villosa",300
+"793","Bonares",29,4,2015,6,6,"Cistus ","crispus",13
+"794","Bonares",29,4,2015,6,6,"Thapsia","villosa",800
+"795","Bonares",29,4,2015,6,7,"Cistus ","crispus",22
+"796","Bonares",29,4,2015,6,7,"Thapsia","villosa",650
+"797","Bonares",29,4,2015,6,8,"Thapsia","villosa",550
+"798","Bonares",29,4,2015,6,8,"CIstus ","crispus",10
+"799","Bonares",29,4,2015,6,9,"Thapsia","villosa",450
+"800","Convento de la Luz",29,4,2015,6,1,"Halimium ","halimifolium",42
+"801","Convento de la Luz",29,4,2015,6,1,"Malcomia","lacera",10
+"802","Convento de la Luz",29,4,2015,6,1,"Tuberaria","guttata",2
+"803","Convento de la Luz",29,4,2015,6,1,"Silene","scabriflora",12
+"804","Convento de la Luz",29,4,2015,6,2,"Lavandula","stoechas",50
+"805","Convento de la Luz",29,4,2015,6,5,"Lavandula","stoechas",30
+"806","Convento de la Luz",29,4,2015,6,8,"lavandula","stoechas",10
+"807","Convento de la Luz",29,4,2015,6,9,"Lavandula","stoechas",20
+"808","Urbanizaciones",29,4,2015,6,1,"CIstus ","libanotis",7
+"809","Urbanizaciones",29,4,2015,6,4,"Lavandula","pedunculata",80
+"810","Urbanizaciones",29,4,2015,6,6,"CIstus ","crispus",1
+"811","Urbanizaciones",29,4,2015,6,6,"Lavandula","pedunculata",20
+"812","Urbanizaciones",29,4,2015,6,7,"CIstus ","crispus",28
+"813","Urbanizaciones",29,4,2015,6,8,"CIstus ","crispus",26
+"814","Urbanizaciones",29,4,2015,6,9,"Centaurium ","calcitrapa",7
+"815","Urbanizaciones",29,4,2015,6,9,"Silene","scabriflora",3
+"816","Urbanizaciones",29,4,2015,6,9,"Tuberaria","guttata",2
+"817","Urbanizaciones",29,4,2015,6,10,"Halimium ","halimifolium",26
+"818","El pinar",30,4,2015,5,1,"CIstus ","albidus",1
+"819","Pinares de Hinojos",30,4,2015,6,1,"Leontodon ","sp",22
+"820","Pinares de Hinojos",30,4,2015,6,1,"Halimium ","halimifolium",3
+"821","Pinares de Hinojos",30,4,2015,6,2,"CIstus ","libanotis",3
+"822","Pinares de Hinojos",30,4,2015,6,3,"Echium","plantagineum",3
+"823","Pinares de Hinojos",30,4,2015,6,6,"CIstus ","libanotis",39
+"824","Pinares de Hinojos",30,4,2015,6,7,"CIstus ","libanotis",4
+"825","Pinares de Hinojos",30,4,2015,6,8,"CIstus ","libanotis",24
+"826","Pinares de Hinojos",30,4,2015,6,9,"CIstus ","salvifolius",16
+"827","Pinares de Hinojos",30,4,2015,6,10,"Echium","plantagineum",60
+"828","Pinares de Hinojos",30,4,2015,6,10,"CIstus ","salvifolius",30
+"829","Cotito de Santa Teresa",30,4,2015,6,1,"Echium","plantagineum",3
+"830","Cotito de Santa Teresa",30,4,2015,6,1,"Arctotheca","calendula",6
+"831","Cotito de Santa Teresa",30,4,2015,6,2,"Echium","plantagineum",12
+"832","Cotito de Santa Teresa",30,4,2015,6,2,"Arctotheca","calendula",6
+"833","Cotito de Santa Teresa",30,4,2015,6,2,"Ranunculus","sp",11
+"834","Cotito de Santa Teresa",30,4,2015,6,3,"Echium","plantagineum",20
+"835","Cotito de Santa Teresa",30,4,2015,6,4,"Lavandula","stoechas",35
+"836","Cotito de Santa Teresa",30,4,2015,6,4,"Thapsia","villosa",3
+"837","Cotito de Santa Teresa",30,4,2015,6,4,"CIstus ","salvifolius",3
+"838","Cotito de Santa Teresa",30,4,2015,6,5,"Lavandula","stoechas",3
+"839","Cotito de Santa Teresa",30,4,2015,6,5,"Gladiolus ","italicus",11
+"840","Cotito de Santa Teresa",30,4,2015,6,5,"CIstus ","crispus",6
+"841","Cotito de Santa Teresa",30,4,2015,6,7,"CIstus ","salvifolius",3
+"842","Cotito de Santa Teresa",30,4,2015,6,9,"CIstus ","crispus",22
+"843","Cotito de Santa Teresa",30,4,2015,6,9,"CIstus ","salvifolius",16
+"844","Cotito de Santa Teresa",30,4,2015,6,9,"Ranunculus","sp",6
+"845","Cotito de Santa Teresa",30,4,2015,6,10,"CIstus ","crispus",36
+"846","Cotito de Santa Teresa",30,4,2015,6,10,"CIstus ","salvifolius",11
+"847","Pino del Cuervo",30,4,2015,6,1,"CIstus ","crispus",28
+"848","Pino del Cuervo",30,4,2015,6,1,"Lavandula","stoechas",250
+"849","Pino del Cuervo",30,4,2015,6,2,"CIstus ","salvifolius",10
+"850","Pino del Cuervo",30,4,2015,6,2,"Lavandula","stoechas",200
+"851","Pino del Cuervo",30,4,2015,6,3,"Lavandula","stoechas",1100
+"852","Pino del Cuervo",30,4,2015,6,4,"CIstus ","crispus",51
+"853","Pino del Cuervo",30,4,2015,6,5,"Lavandula","stoechas",500
+"854","Pino del Cuervo",30,4,2015,6,5,"CIstus ","crispus",18
+"855","Pino del Cuervo",30,4,2015,6,6,"CIstus ","salvifolius",9
+"856","Pino del Cuervo",30,4,2015,6,6,"Lavandula","stoechas",1000
+"857","Pino del Cuervo",30,4,2015,6,7,"CIstus ","crispus",47
+"858","Pino del Cuervo",30,4,2015,6,8,"CIstus ","crispus",26
+"859","Pino del Cuervo",30,4,2015,6,8,"Lavandula","stoechas",600
+"860","Pino del Cuervo",30,4,2015,6,9,"CIstus ","salvifolius",7
+"861","Pino del Cuervo",30,4,2015,6,9,"Lavandula","stoechas",350
+"862","Pino del Cuervo",30,4,2015,6,10,"CIstus ","crispus",6
+"863","El pozo",30,4,2015,6,1,"Halimium ","halimifolium",3
+"864","El pozo",30,4,2015,6,1,"Erica ","umbellata",30
+"865","El pozo",30,4,2015,6,4,"CIstus ","salvifolius",1
+"866","El pozo",30,4,2015,6,5,"Erica ","umbellata",200
+"867","Urbanizaciones",6,5,2015,7,4,"Lavandula","pedunculata",12
+"868","Urbanizaciones",6,5,2015,7,6,"CIstus ","crispus",9
+"869","Urbanizaciones",6,5,2015,7,8,"CIstus ","crispus",30
+"870","Urbanizaciones",6,5,2015,7,9,"CIstus ","crispus",21
+"871","Pino del Cuervo",6,5,2015,7,1,"Lavandula","stoechas",1100
+"872","Pino del Cuervo",6,5,2015,7,1,"CIstus ","crispus",42
+"873","Pino del Cuervo",6,5,2015,7,2,"CIstus ","crispus",36
+"874","Pino del Cuervo",6,5,2015,7,3,"Halimium ","halimifolium",22
+"875","Pino del Cuervo",6,5,2015,7,3,"Lavandula","stoechas",100
+"876","Pino del Cuervo",6,5,2015,7,4,"Lavandula","stoechas",90
+"877","Pino del Cuervo",6,5,2015,7,4,"CIstus ","crispus",62
+"878","Pino del Cuervo",6,5,2015,7,5,"Lavandula","stoechas",250
+"879","Pino del Cuervo",6,5,2015,7,6,"CIstus ","crispus",11
+"880","Pino del Cuervo",6,5,2015,7,6,"Lavandula","stoechas",600
+"881","Pino del Cuervo",6,5,2015,7,7,"CIstus ","crispus",51
+"882","Pino del Cuervo",6,5,2015,7,8,"CIstus ","crispus",3
+"883","Pino del Cuervo",6,5,2015,7,8,"Lavandula","stoechas",80
+"884","Pino del Cuervo",6,5,2015,7,9,"Lavandula","stoechas",180
+"885","Pino del Cuervo",6,5,2015,7,10,"CIstus ","crispus",21
+"886","Pino del Cuervo",6,5,2015,7,10,"Arctotheca","calendula",15
+"887","Aznalcazar",8,5,2015,7,1,"CIstus ","crispus",52
+"888","Aznalcazar",8,5,2015,7,1,"Carduus","sp",2
+"889","Aznalcazar",8,5,2015,7,2,"CIstus ","crispus",3
+"890","Aznalcazar",8,5,2015,7,3,"Arctotheca","calendula",2
+"891","Aznalcazar",8,5,2015,7,3,"CIstus ","crispus",33
+"892","Aznalcazar",8,5,2015,7,3,"Echium","plantagineum",2
+"893","Aznalcazar",8,5,2015,7,6,"Andryala","integrifolia",10
+"894","Aznalcazar",8,5,2015,7,7,"Echium","plantagineum",20
+"895","Aznalcazar",8,5,2015,7,7,"Leontodon ","sp ",2
+"896","Aznalcazar",8,5,2015,7,8,"Echium ","plantagineum",25
+"897","Aznalcazar",8,5,2015,7,8,"Lavandula","pedunculata",10
+"898","Aznalcazar",8,5,2015,7,9,"Echium","plantagineum",5
+"899","Aznalcazar",8,5,2015,7,9,"Andryala","integrifolia",15
+"900","Niebla",12,5,2015,7,2,"Convolvulus","arvensis",3
+"901","Niebla",12,5,2015,7,3,"Echium ","plantagineum",6
+"902","Niebla",12,5,2015,7,3,"Convolvulus","arvensis",9
+"903","Niebla",12,5,2015,7,4,"Convolvulus","arvensis",2
+"904","Niebla",12,5,2015,7,5,"Thapsia","villosa",80
+"905","Bonares",12,5,2015,7,2,"Thapsia ","villosa",60
+"906","Bonares",12,5,2015,7,4,"Thapsia","villosa",500
+"907","Bonares",12,5,2015,7,5,"Thapsia","villosa",1600
+"908","Bonares",12,5,2015,7,7,"Thapsia","villosa",600
+"909","El pozo",12,5,2015,7,1,"Halimium ","halimifolium",4
+"910","El pozo",12,5,2015,7,3,"Halimium ","halimifolium",1
+"911","El pozo",12,5,2015,7,6,"Halimium ","halimifolium",19
+"912","El pozo",12,5,2015,7,8,"CIstus ","libanotis",5
+"913","Esparragal",12,5,2015,7,1,"Armeria","velutina",40
+"914","Esparragal",12,5,2015,7,4,"Scabiosa ","atropurpurea",12
+"915","El pinar",13,5,2015,6,1,"Convolvulus ","arvensis",3
+"916","La cuña",13,5,2015,7,1,"Echium","plantagineum",2
+"917","La cuña",13,5,2015,7,2,"Andryala","integrifolia",6
+"918","La cuña",13,5,2015,7,5,"Andryala","integrifolia",3
+"919","La cuña",13,5,2015,7,6,"Andryala","integrifolia",1
+"920","La cuña",13,5,2015,7,8,"Silene","scabriflora",4
+"921","Las mulas",13,5,2015,7,2,"CIstus ","crispus",22
+"922","Las mulas",13,5,2015,7,3,"Halimium ","halimifolium",36
+"923","Las mulas",13,5,2015,7,3,"Gladiolus ","italicus",2
+"924","Las mulas",13,5,2015,7,4,"Anarrhinum ","sp",600
+"925","Las mulas",13,5,2015,7,5,"CIstus ","crispus",17
+"926","Las mulas",13,5,2015,7,7,"CIstus ","crispus",21
+"927","Las mulas",13,5,2015,7,7,"Malcomia","lacera",15
+"928","Villamanrique  sur",14,5,2015,7,1,"Halimium ","halimifolium",11
+"929","Villamanrique  sur",14,5,2015,7,2,"Andryala","integrifolia",3
+"930","Villamanrique  sur",14,5,2015,7,3,"Andryala","integrifolia",25
+"931","Villamanrique  sur",14,5,2015,7,5,"Halimium ","halimifolium",69
+"932","Villamanrique  sur",14,5,2015,7,6,"Halimium ","halimifolium",10
+"933","Villamanrique  sur",14,5,2015,7,7,"Halimium ","halimifolium",71
+"934","Villamanrique  sur",14,5,2015,7,9,"Halimium ","halimifolium",52
+"935","Villamanrique  sur",14,5,2015,7,10,"Halimium ","halimifolium",31
+"936","Villamanrique este",14,5,2015,6,1,"CIstus ","crispus",6
+"937","Villamanrique este",14,5,2015,6,2,"CIstus ","crispus",3
+"938","Villamanrique este",14,5,2015,6,9,"Centaurium ","calcitrapa",39
+"939","Pinares de Hinojos",14,5,2015,7,1,"Halimium ","halimifolium",40
+"940","Pinares de Hinojos",14,5,2015,7,2,"Halimium ","halimifolium",12
+"941","Pinares de Hinojos",14,5,2015,7,2,"Iris ","xiphium ",2
+"942","Pinares de Hinojos",14,5,2015,7,3,"Halimium ","halimifolium",6
+"943","Pinares de Hinojos",14,5,2015,7,4,"Halimium ","halimifolium",3
+"944","Pinares de Hinojos",14,5,2015,7,5,"Halimium ","halimifolium",22
+"945","Pinares de Hinojos",14,5,2015,7,5,"CIstus ","libanotis",3
+"946","Pinares de Hinojos",14,5,2015,7,6,"Halimium ","halimifolium",3
+"947","Pinares de Hinojos",14,5,2015,7,6,"CIstus ","libanotis",2
+"948","Pinares de Hinojos",14,5,2015,7,7,"Halimium ","halimifolium",10
+"949","Pinares de Hinojos",14,5,2015,7,10,"Halimium ","halimifolium",10
+"950","Pinares de Hinojos",14,5,2015,7,10,"CIstus ","libanotis",1
