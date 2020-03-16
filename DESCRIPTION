@@ -9,4 +9,4 @@ Depends:
 LazyData: true
 Description: More soon...
 License: GPL (>= 2)
-RoxygenNote: 6.0.1
+RoxygenNote: 6.1.1
