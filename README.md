@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/107512653.svg)](https://zenodo.org/badge/latestdoi/107512653)
+
 # BeeFunData
 Package to serve data collected under the BeeFun project.
 
